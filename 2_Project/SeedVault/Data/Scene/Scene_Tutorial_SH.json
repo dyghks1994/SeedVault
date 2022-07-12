@@ -1,0 +1,5871 @@
+{
+	"Scene" : 
+	{
+		"m_CurrentCamreaName" : "EngineCamera",
+		"m_GameObject_V" : 
+		[
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000008,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 11.699966430664062,
+										"y" : 85.799911499023438,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.073239937424659729,
+										"_12" : -7.4505805969238281e-09,
+										"_13" : -0.99731433391571045,
+										"_14" : 0.0,
+										"_21" : 0.20224213600158691,
+										"_22" : 0.97922289371490479,
+										"_23" : 0.014852054417133331,
+										"_24" : 0.0,
+										"_31" : 0.976593017578125,
+										"_32" : -0.20278674364089966,
+										"_33" : 0.071718215942382812,
+										"_34" : 0.0,
+										"_41" : -17.890153884887695,
+										"_42" : 2.1616899967193604,
+										"_43" : 2.0139362812042236,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -17.890153884887695,
+										"y" : 2.1616899967193604,
+										"z" : 2.0139362812042236
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.72872847318649292,
+										"x" : 0.074663884937763214,
+										"y" : 0.67717516422271729,
+										"z" : -0.069381855428218842
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000004,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"Camera" : 
+							{
+								"m_Aspect" : 1.2956945896148682,
+								"m_ComponentId" : 3500000009,
+								"m_FarZ" : 10000.0,
+								"m_FovY" : 0.78539818525314331,
+								"m_Look" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.97659307718276978,
+										"y" : -0.20278675854206085,
+										"z" : 0.071718223392963409
+									}
+								},
+								"m_Name" : "EngineCamera",
+								"m_NearZ" : 0.10000000149011612,
+								"m_bEnable" : true
+							}
+						},
+						{
+							"ECameraController" : 
+							{
+								"m_ComponentId" : 3400000166,
+								"m_RotationAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector2" : 
+									{
+										"x" : 11.699966430664062,
+										"y" : 85.799911499023438
+									}
+								},
+								"m_bEnable" : true,
+								"m_eMovingMode" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000004,
+					"m_Name" : "EngineCamera",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000010,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 270.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 1.0,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : -3.5762786865234375e-07,
+										"_23" : -1.0000001192092896,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 1.0000001192092896,
+										"_33" : -3.5762786865234375e-07,
+										"_34" : 0.0,
+										"_41" : 0.0,
+										"_42" : 0.0,
+										"_43" : 0.0,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : -0.70710676908493042,
+										"x" : 0.70710688829421997,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000005,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"Light" : 
+							{
+								"m_CastShadow" : false,
+								"m_Color" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_ComponentId" : 3000000011,
+								"m_FalloffEnd" : 0.0,
+								"m_FalloffStart" : 0.0,
+								"m_Intensity" : 0.0,
+								"m_IsTextured" : false,
+								"m_SpotPower" : 0.0,
+								"m_TextureName" : "",
+								"m_bEnable" : true,
+								"m_eLightType" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000005,
+					"m_Name" : "EngineLight",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000012,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -24.642000198364258,
+										"_42" : 1.0379999876022339,
+										"_43" : 7.5019998550415039,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -24.642000198364258,
+										"y" : 1.0379999876022339,
+										"z" : 7.5019998550415039
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000006,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000013,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Floor.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000014,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000006,
+					"m_Name" : "TR_Floor",
+					"m_Tag" : "Wall",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000015,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 90.0,
+										"z" : 3.4150946248701075e-06
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : -5.9604644775390625e-08,
+										"_12" : 2.9802322387695312e-08,
+										"_13" : -0.49999997019767761,
+										"_14" : 0.0,
+										"_21" : 4.4408920985006262e-15,
+										"_22" : 0.5,
+										"_23" : 2.9802320611338473e-08,
+										"_24" : 0.0,
+										"_31" : 0.49999997019767761,
+										"_32" : 0.0,
+										"_33" : -5.9604644775390625e-08,
+										"_34" : 0.0,
+										"_41" : -25.249000549316406,
+										"_42" : 1.9960000514984131,
+										"_43" : 29.114999771118164,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -25.249000549316406,
+										"y" : 1.9960000514984131,
+										"z" : 29.114999771118164
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.70710670948028564,
+										"x" : 2.1073425671147561e-08,
+										"y" : 0.7071068286895752,
+										"z" : 2.1073422118433882e-08
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000007,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000016,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Wall_01.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000017,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000018,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 0.20000000298023224,
+								"m_SaveBoxSizeY" : 2.0,
+								"m_SaveBoxSizeZ" : 3.0,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000007,
+					"m_Name" : "TR_Wall_01",
+					"m_Tag" : "Wall",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000019,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -23.011999130249023,
+										"_42" : 2.0239999294281006,
+										"_43" : 16.701000213623047,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -23.011999130249023,
+										"y" : 2.0239999294281006,
+										"z" : 16.701000213623047
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000008,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000020,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Wall_02.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000021,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000022,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 0.30000001192092896,
+								"m_SaveBoxSizeY" : 2.0,
+								"m_SaveBoxSizeZ" : 12.800000190734863,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000008,
+					"m_Name" : "TR_Wall_02",
+					"m_Tag" : "Wall",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000023,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 360.0,
+										"y" : 180.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : -0.5,
+										"_12" : 0.0,
+										"_13" : 1.1920930376163597e-07,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : -1.1920930376163597e-07,
+										"_32" : 0.0,
+										"_33" : -0.5,
+										"_34" : 0.0,
+										"_41" : -27.405000686645508,
+										"_42" : 2.0239999294281006,
+										"_43" : 16.701000213623047,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -27.405000686645508,
+										"y" : 2.0239999294281006,
+										"z" : 16.701000213623047
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : -1.1920930376163597e-07,
+										"x" : 0.0,
+										"y" : 1.0,
+										"z" : 0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000009,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000024,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Wall_03.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000025,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000026,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 0.30000001192092896,
+								"m_SaveBoxSizeY" : 2.0,
+								"m_SaveBoxSizeZ" : 12.800000190734863,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000009,
+					"m_Name" : "TR_Wall_03",
+					"m_Tag" : "Wall",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000027,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 360.0,
+										"y" : 180.0,
+										"z" : 180.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : -1.1920930376163597e-07,
+										"_13" : -1.1920930376163597e-07,
+										"_14" : 0.0,
+										"_21" : -1.1920930376163597e-07,
+										"_22" : -0.5,
+										"_23" : 2.8421716206667585e-14,
+										"_24" : 0.0,
+										"_31" : -1.1920930376163597e-07,
+										"_32" : 0.0,
+										"_33" : -0.5,
+										"_34" : 0.0,
+										"_41" : -19.606000900268555,
+										"_42" : 2.0239999294281006,
+										"_43" : 4.2140002250671387,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -19.606000900268555,
+										"y" : 2.0239999294281006,
+										"z" : 4.2140002250671387
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.4210858103333793e-14,
+										"x" : 1.0,
+										"y" : -1.1920930376163597e-07,
+										"z" : -1.1920930376163597e-07
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000010,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000028,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Wall_04.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000029,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000010,
+					"m_Name" : "TR_Wall_04",
+					"m_Tag" : "Wall",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000030,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -29.850000381469727,
+										"_42" : 2.0239999294281006,
+										"_43" : 4.2140002250671387,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -29.850000381469727,
+										"y" : 2.0239999294281006,
+										"z" : 4.2140002250671387
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000011,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000031,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Wall_05.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000032,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000033,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 2.75,
+								"m_SaveBoxSizeY" : 2.0,
+								"m_SaveBoxSizeZ" : 0.30000001192092896,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000011,
+					"m_Name" : "TR_Wall_05",
+					"m_Tag" : "Wall",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000034,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -23.716999053955078,
+										"_42" : 2.0239999294281006,
+										"_43" : -0.17900000512599945,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -23.716999053955078,
+										"y" : 2.0239999294281006,
+										"z" : -0.17900000512599945
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000012,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000035,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Wall_06.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000036,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000037,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 9.1000003814697266,
+								"m_SaveBoxSizeY" : 2.0,
+								"m_SaveBoxSizeZ" : 0.25,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000012,
+					"m_Name" : "TR_Wall_06",
+					"m_Tag" : "Wall",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000038,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.49999994039535522,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 0.49999994039535522,
+										"_34" : 0.0,
+										"_41" : -32.340999603271484,
+										"_42" : 1.9960000514984131,
+										"_43" : 2.003000020980835,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -32.340999603271484,
+										"y" : 1.9960000514984131,
+										"z" : 2.003000020980835
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.49999994039535522,
+										"z" : 0.49999994039535522
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000013,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000039,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Wall_07.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000040,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000041,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 0.20000000298023224,
+								"m_SaveBoxSizeY" : 2.0,
+								"m_SaveBoxSizeZ" : 2.4000000953674316,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000013,
+					"m_Name" : "TR_Wall_07",
+					"m_Tag" : "Wall",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000042,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.2749762390740216e-05,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 1.1126267196459594e-07,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : -1.1126267196459594e-07,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -14.776000022888184,
+										"_42" : 2.1549999713897705,
+										"_43" : 2.0209999084472656,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -14.776000022888184,
+										"y" : 2.1549999713897705,
+										"z" : 2.0209999084472656
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : 1.1126267196459594e-07,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000014,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000043,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_CM_BD_Gate_side.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000044,
+								"m_RenderFlag" : 1,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000014,
+					"m_Name" : "Gen_Gate_Side",
+					"m_Tag" : "Wall",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000045,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 90.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : -5.9604644775390625e-08,
+										"_12" : 0.0,
+										"_13" : -0.49999997019767761,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.49999997019767761,
+										"_32" : 0.0,
+										"_33" : -5.9604644775390625e-08,
+										"_34" : 0.0,
+										"_41" : -25.065999984741211,
+										"_42" : 3.5999999046325684,
+										"_43" : 9.8850002288818359,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -25.065999984741211,
+										"y" : 3.5999999046325684,
+										"z" : 9.8850002288818359
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.70710670948028564,
+										"x" : 0.0,
+										"y" : 0.7071068286895752,
+										"z" : 0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000015,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000046,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Top.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000047,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000048,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 20.0,
+								"m_SaveBoxSizeY" : 0.20000000298023224,
+								"m_SaveBoxSizeZ" : 10.199999809265137,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000015,
+					"m_Name" : "TR_Top",
+					"m_Tag" : "Wall",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000049,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.49999994039535522,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 0.49999994039535522,
+										"_34" : 0.0,
+										"_41" : -19.222999572753906,
+										"_42" : 2.1860001087188721,
+										"_43" : 1.781999945640564,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -19.222999572753906,
+										"y" : 2.1860001087188721,
+										"z" : 1.781999945640564
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.49999994039535522,
+										"z" : 0.49999994039535522
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000016,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000050,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_tent_01.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000051,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000016,
+					"m_Name" : "TR_Tent",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000052,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 360.0,
+										"y" : 104.09400177001953,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : -0.12175679206848145,
+										"_12" : 0.0,
+										"_13" : -0.48494872450828552,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.48494872450828552,
+										"_32" : 0.0,
+										"_33" : -0.12175679206848145,
+										"_34" : 0.0,
+										"_41" : -30.870000839233398,
+										"_42" : 1.9980000257492065,
+										"_43" : 2.5859999656677246,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -30.870000839233398,
+										"y" : 1.9980000257492065,
+										"z" : 2.5859999656677246
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.61501479148864746,
+										"x" : 0.0,
+										"y" : 0.78851556777954102,
+										"z" : 0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000017,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000053,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Box_01.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000054,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000017,
+					"m_Name" : "TR_Box",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000055,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -21.770999908447266,
+										"_42" : 1.246999979019165,
+										"_43" : 2.4330000877380371,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -21.770999908447266,
+										"y" : 1.246999979019165,
+										"z" : 2.4330000877380371
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000018,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000056,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Con_01.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000057,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000058,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 0.40000000596046448,
+								"m_SaveBoxSizeY" : 0.40000000596046448,
+								"m_SaveBoxSizeZ" : 0.30000001192092896,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000018,
+					"m_Name" : "TR_Con_01",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000059,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -23.325000762939453,
+										"_42" : 2.0880000591278076,
+										"_43" : 13.062999725341797,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -23.325000762939453,
+										"y" : 2.0880000591278076,
+										"z" : 13.062999725341797
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000019,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000060,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Fireplug_01.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000061,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000019,
+					"m_Name" : "TR_Fireplug_01",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000062,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -25.190000534057617,
+										"_42" : 3.3210000991821289,
+										"_43" : 17.707000732421875,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -25.190000534057617,
+										"y" : 3.3210000991821289,
+										"z" : 17.707000732421875
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000020,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000063,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_LightPipe_01.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000064,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000020,
+					"m_Name" : "TR_LightPipie_01",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000065,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.49999994039535522,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 0.49999994039535522,
+										"_34" : 0.0,
+										"_41" : -24.577999114990234,
+										"_42" : 2.494999885559082,
+										"_43" : 9.5019998550415039,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -24.577999114990234,
+										"y" : 2.494999885559082,
+										"z" : 9.5019998550415039
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.49999994039535522,
+										"z" : 0.49999994039535522
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000021,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000066,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Pillar_01.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000067,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000021,
+					"m_Name" : "TR_Pillar_01",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : false,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000068,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 90.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 2.9802322387695312e-08,
+										"_12" : 0.0,
+										"_13" : -0.5,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.5,
+										"_32" : 0.0,
+										"_33" : 2.9802322387695312e-08,
+										"_34" : 0.0,
+										"_41" : -27.117000579833984,
+										"_42" : 2.128000020980835,
+										"_43" : 4.4559998512268066,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -27.117000579833984,
+										"y" : 2.128000020980835,
+										"z" : 4.4559998512268066
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.7071068286895752,
+										"x" : -0.0,
+										"y" : 0.70710676908493042,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000022,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000069,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Pipe_01.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000070,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000022,
+					"m_Name" : "TR_Pipe_01",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000071,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.49999994039535522,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 0.49999994039535522,
+										"_34" : 0.0,
+										"_41" : -18.319999694824219,
+										"_42" : 3.2160000801086426,
+										"_43" : 3.9179999828338623,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -18.319999694824219,
+										"y" : 3.2160000801086426,
+										"z" : 3.9179999828338623
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.49999994039535522,
+										"z" : 0.49999994039535522
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000023,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000072,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Pipe_06.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000073,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000023,
+					"m_Name" : "TR_Pipe_06",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000074,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -23.704999923706055,
+										"_42" : 3.2990000247955322,
+										"_43" : 1.9850000143051147,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -23.704999923706055,
+										"y" : 3.2990000247955322,
+										"z" : 1.9850000143051147
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000024,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000075,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Pipe_03.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000076,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000024,
+					"m_Name" : "TR_Pipe_03",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000077,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 3.4150946248701075e-06,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 2.9802322387695312e-08,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : -2.9802322387695312e-08,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -23.753000259399414,
+										"_42" : 1.3910000324249268,
+										"_43" : 0.11800000071525574,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -23.753000259399414,
+										"y" : 1.3910000324249268,
+										"z" : 0.11800000071525574
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : 2.9802322387695312e-08,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000025,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000078,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Pipe_04.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000079,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000025,
+					"m_Name" : "TR_Pipe_04",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000080,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -23.254999160766602,
+										"_42" : 2.1470000743865967,
+										"_43" : 11.815999984741211,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -23.254999160766602,
+										"y" : 2.1470000743865967,
+										"z" : 11.815999984741211
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000026,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000081,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Pipe_05.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000082,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000026,
+					"m_Name" : "TR_Pipe_05",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000083,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 3.4150946248701075e-06,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 2.9802322387695312e-08,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : -2.9802322387695312e-08,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -27.704000473022461,
+										"_42" : 2.128000020980835,
+										"_43" : 3.9140000343322754,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -27.704000473022461,
+										"y" : 2.128000020980835,
+										"z" : 3.9140000343322754
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : 2.9802322387695312e-08,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000027,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000084,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Pipe_02.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000085,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000027,
+					"m_Name" : "TR_Pipe_02",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000086,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -26.280000686645508,
+										"_42" : 1.8170000314712524,
+										"_43" : 17.791000366210938,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -26.280000686645508,
+										"y" : 1.8170000314712524,
+										"z" : 17.791000366210938
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000028,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000087,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Plate_01.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000088,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000089,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 0.40000000596046448,
+								"m_SaveBoxSizeY" : 0.60000002384185791,
+								"m_SaveBoxSizeZ" : 0.10000000149011612,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000028,
+					"m_Name" : "TR_Plate_01",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000090,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 356.52700805664062,
+										"y" : 327.14898681640625,
+										"z" : 360.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.42004203796386719,
+										"_12" : 0.0,
+										"_13" : 0.27122804522514343,
+										"_14" : 0.0,
+										"_21" : 0.016430569812655449,
+										"_22" : 0.49908170104026794,
+										"_23" : -0.02544548362493515,
+										"_24" : 0.0,
+										"_31" : -0.27072992920875549,
+										"_32" : 0.030289210379123688,
+										"_33" : 0.41927063465118408,
+										"_34" : 0.0,
+										"_41" : -23.957000732421875,
+										"_42" : 1.8880000114440918,
+										"_43" : 4.874000072479248,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -23.957000732421875,
+										"y" : 1.8880000114440918,
+										"z" : 4.874000072479248
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.95874768495559692,
+										"x" : -0.029066404327750206,
+										"y" : -0.28263849020004272,
+										"z" : -0.0085687665268778801
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000029,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000091,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Plate_02.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000092,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000093,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 0.40000000596046448,
+								"m_SaveBoxSizeY" : 0.60000002384185791,
+								"m_SaveBoxSizeZ" : 0.10000000149011612,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000029,
+					"m_Name" : "TR_Plate_02",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000094,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 356.39999389648438,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.49901333451271057,
+										"_23" : -0.031395513564348221,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.031395513564348221,
+										"_33" : 0.49901333451271057,
+										"_34" : 0.0,
+										"_41" : -24.854999542236328,
+										"_42" : 2.0529999732971191,
+										"_43" : 4.7680001258850098,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -24.854999542236328,
+										"y" : 2.0529999732971191,
+										"z" : 4.7680001258850098
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.99950659275054932,
+										"x" : -0.031411010771989822,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000030,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000095,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_Plate_03.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000096,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000030,
+					"m_Name" : "TR_Plate_03",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000097,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 329.35501098632812,
+										"z" : 360.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.004301710519939661,
+										"_12" : 0.0,
+										"_13" : 0.0025485849473625422,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.004999999888241291,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : -0.0025485849473625422,
+										"_32" : 0.0,
+										"_33" : 0.004301710519939661,
+										"_34" : 0.0,
+										"_41" : -23.920999526977539,
+										"_42" : 1.2890000343322754,
+										"_43" : 5.3229999542236328,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -23.920999526977539,
+										"y" : 1.2890000343322754,
+										"z" : 5.3229999542236328
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.96445375680923462,
+										"x" : 0.0,
+										"y" : -0.26425164937973022,
+										"z" : 0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.004999999888241291,
+										"y" : 0.004999999888241291,
+										"z" : 0.004999999888241291
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000031,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000098,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_SaftyWall_r_01.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000099,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000031,
+					"m_Name" : "TR_Safetywall_r_01",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000100,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.7075851701520151e-06,
+										"y" : 300.00100708007812,
+										"z" : 360.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.0025000751484185457,
+										"_12" : 0.0,
+										"_13" : 0.0043300837278366089,
+										"_14" : 0.0,
+										"_21" : -1.2904941004698856e-10,
+										"_22" : 0.004999999888241291,
+										"_23" : 7.4509697023383836e-11,
+										"_24" : 0.0,
+										"_31" : -0.0043300837278366089,
+										"_32" : -1.4901491152130575e-10,
+										"_33" : 0.0025000751484185457,
+										"_34" : 0.0,
+										"_41" : -21.923999786376953,
+										"_42" : 1.2890000343322754,
+										"_43" : 3.125,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -21.923999786376953,
+										"y" : 1.2890000343322754,
+										"z" : 3.125
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.86602973937988281,
+										"x" : 1.2905134738616653e-08,
+										"y" : -0.4999924898147583,
+										"z" : 7.4506338876290101e-09
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.004999999888241291,
+										"y" : 0.004999999888241291,
+										"z" : 0.004999999888241291
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000032,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000101,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_SaftyWall_r_02.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000102,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000032,
+					"m_Name" : "TR_Safetywall_r_02",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000103,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 9.6490001678466797,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.0049292654730379581,
+										"_12" : 0.0,
+										"_13" : -0.00083805964095517993,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.004999999888241291,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.00083805964095517993,
+										"_32" : 0.0,
+										"_33" : 0.0049292654730379581,
+										"_34" : 0.0,
+										"_41" : -26.275999069213867,
+										"_42" : 1.2890000343322754,
+										"_43" : 18.170999526977539,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -26.275999069213867,
+										"y" : 1.2890000343322754,
+										"z" : 18.170999526977539
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.99645698070526123,
+										"x" : -0.0,
+										"y" : 0.084103941917419434,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.004999999888241291,
+										"y" : 0.004999999888241291,
+										"z" : 0.004999999888241291
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000033,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000104,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_SaftyWall_w_01.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000105,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000106,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 0.60000002384185791,
+								"m_SaveBoxSizeY" : 0.5,
+								"m_SaveBoxSizeZ" : 0.20000000298023224,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000033,
+					"m_Name" : "TR_Safetywall_w_01",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000107,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 1.1629999876022339,
+										"z" : 6.9325999163538654e-08
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.0049989698454737663,
+										"_12" : 6.0498355457239139e-12,
+										"_13" : -0.00010148392902920023,
+										"_14" : 0.0,
+										"_21" : -6.0485887132255556e-12,
+										"_22" : 0.004999999888241291,
+										"_23" : 1.2279221151163811e-13,
+										"_24" : 0.0,
+										"_31" : 0.00010148392902920023,
+										"_32" : 0.0,
+										"_33" : 0.0049989698454737663,
+										"_34" : 0.0,
+										"_41" : -25.145000457763672,
+										"_42" : 1.2890000343322754,
+										"_43" : 5.1620001792907715,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -25.145000457763672,
+										"y" : 1.2890000343322754,
+										"z" : 5.1620001792907715
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.99994850158691406,
+										"x" : 6.1399266747252934e-12,
+										"y" : 0.010148915462195873,
+										"z" : 6.049523659790168e-10
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.004999999888241291,
+										"y" : 0.004999999888241291,
+										"z" : 0.004999999888241291
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000034,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000108,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_TR_BD_SaftyWall_w_02.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000109,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000034,
+					"m_Name" : "TR_Safetywall_w_02",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000110,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -14.762999534606934,
+										"_42" : 2.2790000438690186,
+										"_43" : -0.046000000089406967,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -14.762999534606934,
+										"y" : 2.2790000438690186,
+										"z" : -0.046000000089406967
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000035,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000111,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_GR_BD_Wall_01.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000112,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000113,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 0.20000000298023224,
+								"m_SaveBoxSizeY" : 5.0,
+								"m_SaveBoxSizeZ" : 9.0,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000035,
+					"m_Name" : "Gen_Wall",
+					"m_Tag" : "Wall",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000114,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 3.4150946248701075e-06,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.49999994039535522,
+										"_23" : 2.9802322387695312e-08,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : -2.9802322387695312e-08,
+										"_33" : 0.49999994039535522,
+										"_34" : 0.0,
+										"_41" : -14.775653839111328,
+										"_42" : 2.0249912738800049,
+										"_43" : 1.8009999990463257,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -14.775653839111328,
+										"y" : 2.0249912738800049,
+										"z" : 1.8009999990463257
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : 2.9802325940408991e-08,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.49999994039535522,
+										"z" : 0.49999994039535522
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000036,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000115,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_GR_BD_Gate_L.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000116,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000036,
+					"m_Name" : "Gen_Gate_L",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000117,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 3.4150946248701075e-06,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 2.9802322387695312e-08,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : -2.9802322387695312e-08,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -14.776000022888184,
+										"_42" : 2.0250000953674316,
+										"_43" : 2.3239998817443848,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -14.776000022888184,
+										"y" : 2.0250000953674316,
+										"z" : 2.3239998817443848
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : 2.9802322387695312e-08,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000037,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000118,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_GR_BD_Gate_R.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000119,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000037,
+					"m_Name" : "Gen_Gate_R",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000120,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -25.204999923706055,
+										"_42" : 2.9660000801086426,
+										"_43" : 14.791999816894531,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -25.204999923706055,
+										"y" : 2.9660000801086426,
+										"z" : 14.791999816894531
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000038,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000121,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_CM_BD_Light01_01.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000122,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000038,
+					"m_Name" : "TR_Light_01_on",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000123,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 90.0,
+										"z" : 3.4150946248701075e-06
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 2.9802318834981634e-08,
+										"_12" : 2.9802317058624794e-08,
+										"_13" : -0.49999994039535522,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.49999994039535522,
+										"_23" : 2.9802317058624794e-08,
+										"_24" : 0.0,
+										"_31" : 0.5,
+										"_32" : -1.7763568394002505e-15,
+										"_33" : 2.9802322387695312e-08,
+										"_34" : 0.0,
+										"_41" : -24.020999908447266,
+										"_42" : 2.9660000801086426,
+										"_43" : 10.421999931335449,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -24.020999908447266,
+										"y" : 2.9660000801086426,
+										"z" : 10.421999931335449
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.7071068286895752,
+										"x" : 2.1073423894790722e-08,
+										"y" : 0.70710676908493042,
+										"z" : 2.1073422118433882e-08
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.49999994039535522,
+										"y" : 0.49999994039535522,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000039,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000124,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_CM_BD_Light01_02.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000125,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000039,
+					"m_Name" : "TR_Light_02_off",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000126,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 3.4150946248701075e-06,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.5,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 2.9802322387695312e-08,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : -2.9802322387695312e-08,
+										"_33" : 0.5,
+										"_34" : 0.0,
+										"_41" : -23.291999816894531,
+										"_42" : 2.9649999141693115,
+										"_43" : 15.545999526977539,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -23.291999816894531,
+										"y" : 2.9649999141693115,
+										"z" : 15.545999526977539
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : 2.9802322387695312e-08,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000040,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000127,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_CM_BD_Light01_02_01.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000128,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000040,
+					"m_Name" : "TR_Light_02_off_on",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000129,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 90.0,
+										"z" : 3.4150946248701075e-06
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 2.9802322387695312e-08,
+										"_12" : 2.9802320611338473e-08,
+										"_13" : -0.5,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 0.5,
+										"_23" : 2.9802320611338473e-08,
+										"_24" : 0.0,
+										"_31" : 0.5,
+										"_32" : -1.7763568394002505e-15,
+										"_33" : 2.9802322387695312e-08,
+										"_34" : 0.0,
+										"_41" : -19.270000457763672,
+										"_42" : 2.9660000801086426,
+										"_43" : 0.097999997437000275,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -19.270000457763672,
+										"y" : 2.9660000801086426,
+										"z" : 0.097999997437000275
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.7071068286895752,
+										"x" : 2.1073423894790722e-08,
+										"y" : 0.70710676908493042,
+										"z" : 2.1073422118433882e-08
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.5,
+										"y" : 0.5,
+										"z" : 0.5
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000041,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"MeshFilter" : 
+							{
+								"m_ComponentId" : 3600000130,
+								"m_Index" : 0,
+								"m_MeshName" : "BG_CM_BD_Light01_02_02.bin",
+								"m_bEnable" : true
+							}
+						},
+						{
+							"MeshRenderer" : 
+							{
+								"m_ComponentId" : 3000000131,
+								"m_RenderFlag" : 0,
+								"m_bEnable" : true
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000041,
+					"m_Name" : "TR_Light_GenGate_On",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000132,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 308.0,
+										"y" : 90.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 1.4901161193847656e-08,
+										"_12" : 1.1920928955078125e-07,
+										"_13" : -1.0000001192092896,
+										"_14" : 0.0,
+										"_21" : -0.78801083564758301,
+										"_22" : 0.61566144227981567,
+										"_23" : -5.9604644775390625e-08,
+										"_24" : 0.0,
+										"_31" : 0.61566162109375,
+										"_32" : 0.78801083564758301,
+										"_33" : 5.9604644775390625e-08,
+										"_34" : 0.0,
+										"_41" : -25.235000610351562,
+										"_42" : 2.9500000476837158,
+										"_43" : 25.761999130249023,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -25.235000610351562,
+										"y" : 2.9500000476837158,
+										"z" : 25.761999130249023
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.63554346561431885,
+										"x" : -0.30997520685195923,
+										"y" : 0.6355433464050293,
+										"z" : 0.30997523665428162
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000042,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"Light" : 
+							{
+								"m_CastShadow" : false,
+								"m_Color" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 0.13725490868091583,
+										"z" : 0.023529412224888802
+									}
+								},
+								"m_ComponentId" : 3000000133,
+								"m_FalloffEnd" : 4.0,
+								"m_FalloffStart" : 2.0,
+								"m_Intensity" : 0.10000000149011612,
+								"m_IsTextured" : false,
+								"m_SpotPower" : 0.5,
+								"m_TextureName" : "",
+								"m_bEnable" : true,
+								"m_eLightType" : 1
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000042,
+					"m_Name" : "TR_Light_Light_01",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000134,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 315.0,
+										"y" : 270.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : -2.5331974029541016e-07,
+										"_12" : 0.0,
+										"_13" : 1.0,
+										"_14" : 0.0,
+										"_21" : 0.7071070671081543,
+										"_22" : 0.70710653066635132,
+										"_23" : 1.1920928955078125e-07,
+										"_24" : 0.0,
+										"_31" : -0.70710653066635132,
+										"_32" : 0.7071070671081543,
+										"_33" : -1.7881393432617188e-07,
+										"_34" : 0.0,
+										"_41" : -25.235000610351562,
+										"_42" : 2.9500000476837158,
+										"_43" : 20.61199951171875,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -25.235000610351562,
+										"y" : 2.9500000476837158,
+										"z" : 20.61199951171875
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : -0.65328139066696167,
+										"x" : 0.2705981433391571,
+										"y" : 0.65328150987625122,
+										"z" : 0.27059820294380188
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000043,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"Light" : 
+							{
+								"m_CastShadow" : true,
+								"m_Color" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 0.13725490868091583,
+										"z" : 0.023529412224888802
+									}
+								},
+								"m_ComponentId" : 3000000135,
+								"m_FalloffEnd" : 4.0,
+								"m_FalloffStart" : 2.0,
+								"m_Intensity" : 0.10000000149011612,
+								"m_IsTextured" : false,
+								"m_SpotPower" : 0.10000000149011612,
+								"m_TextureName" : "",
+								"m_bEnable" : true,
+								"m_eLightType" : 1
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000043,
+					"m_Name" : "TR_Light_Light_02",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000136,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 1.0,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 1.0,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 1.0,
+										"_34" : 0.0,
+										"_41" : -23.850000381469727,
+										"_42" : 2.9500000476837158,
+										"_43" : 15.522000312805176,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -23.850000381469727,
+										"y" : 2.9500000476837158,
+										"z" : 15.522000312805176
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000044,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"Light" : 
+							{
+								"m_CastShadow" : false,
+								"m_Color" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 0.13725490868091583,
+										"z" : 0.023529412224888802
+									}
+								},
+								"m_ComponentId" : 3000000137,
+								"m_FalloffEnd" : 4.0,
+								"m_FalloffStart" : 2.0,
+								"m_Intensity" : 0.10000000149011612,
+								"m_IsTextured" : false,
+								"m_SpotPower" : 0.0,
+								"m_TextureName" : "",
+								"m_bEnable" : true,
+								"m_eLightType" : 1
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000044,
+					"m_Name" : "TR_Light_Light_03",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000138,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 1.0,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 1.0,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 1.0,
+										"_34" : 0.0,
+										"_41" : -25.235000610351562,
+										"_42" : 2.9500000476837158,
+										"_43" : 5.5219998359680176,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -25.235000610351562,
+										"y" : 2.9500000476837158,
+										"z" : 5.5219998359680176
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000045,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"Light" : 
+							{
+								"m_CastShadow" : false,
+								"m_Color" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 0.13725490868091583,
+										"z" : 0.023529412224888802
+									}
+								},
+								"m_ComponentId" : 3000000139,
+								"m_FalloffEnd" : 4.0,
+								"m_FalloffStart" : 2.0,
+								"m_Intensity" : 0.10000000149011612,
+								"m_IsTextured" : false,
+								"m_SpotPower" : 0.0,
+								"m_TextureName" : "",
+								"m_bEnable" : true,
+								"m_eLightType" : 1
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000045,
+					"m_Name" : "TR_Light_Light_04",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000140,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 1.0,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 1.0,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 1.0,
+										"_34" : 0.0,
+										"_41" : -25.235000610351562,
+										"_42" : 2.9500000476837158,
+										"_43" : 1.8220000267028809,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -25.235000610351562,
+										"y" : 2.9500000476837158,
+										"z" : 1.8220000267028809
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000046,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"Light" : 
+							{
+								"m_CastShadow" : false,
+								"m_Color" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 0.13725490868091583,
+										"z" : 0.023529412224888802
+									}
+								},
+								"m_ComponentId" : 3000000141,
+								"m_FalloffEnd" : 4.0,
+								"m_FalloffStart" : 2.0,
+								"m_Intensity" : 0.10000000149011612,
+								"m_IsTextured" : false,
+								"m_SpotPower" : 0.0,
+								"m_TextureName" : "",
+								"m_bEnable" : true,
+								"m_eLightType" : 1
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000046,
+					"m_Name" : "TR_Light_Light_05",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000142,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 270.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 1.0,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : -3.5762786865234375e-07,
+										"_23" : -1.0000001192092896,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 1.0000001192092896,
+										"_33" : -3.5762786865234375e-07,
+										"_34" : 0.0,
+										"_41" : -19.235000610351562,
+										"_42" : 2.9500000476837158,
+										"_43" : 1.0299999713897705,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -19.235000610351562,
+										"y" : 2.9500000476837158,
+										"z" : 1.0299999713897705
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : -0.70710676908493042,
+										"x" : 0.70710688829421997,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000047,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"Light" : 
+							{
+								"m_CastShadow" : false,
+								"m_Color" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 0.13725490868091583,
+										"z" : 0.023529412224888802
+									}
+								},
+								"m_ComponentId" : 3000000143,
+								"m_FalloffEnd" : 4.0,
+								"m_FalloffStart" : 2.0,
+								"m_Intensity" : 0.10000000149011612,
+								"m_IsTextured" : false,
+								"m_SpotPower" : 0.60000002384185791,
+								"m_TextureName" : "",
+								"m_bEnable" : true,
+								"m_eLightType" : 1
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000047,
+					"m_Name" : "TR_Light_Light_06",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000144,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 1.0,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 1.0,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 1.0,
+										"_34" : 0.0,
+										"_41" : -15.234999656677246,
+										"_42" : 2.9500000476837158,
+										"_43" : 2.003000020980835,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -15.234999656677246,
+										"y" : 2.9500000476837158,
+										"z" : 2.003000020980835
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000048,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"Light" : 
+							{
+								"m_CastShadow" : false,
+								"m_Color" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 0.13725490868091583,
+										"z" : 0.023529412224888802
+									}
+								},
+								"m_ComponentId" : 3000000145,
+								"m_FalloffEnd" : 3.0999999046325684,
+								"m_FalloffStart" : -1.0,
+								"m_Intensity" : 0.20000000298023224,
+								"m_IsTextured" : false,
+								"m_SpotPower" : 0.0,
+								"m_TextureName" : "",
+								"m_bEnable" : true,
+								"m_eLightType" : 1
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000048,
+					"m_Name" : "TR_Light_Light_07",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000146,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 1.0,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 1.0,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 1.0,
+										"_34" : 0.0,
+										"_41" : -29.235000610351562,
+										"_42" : 2.9500000476837158,
+										"_43" : 2.003000020980835,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -29.235000610351562,
+										"y" : 2.9500000476837158,
+										"z" : 2.003000020980835
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000049,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"Light" : 
+							{
+								"m_CastShadow" : false,
+								"m_Color" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 0.13725490868091583,
+										"z" : 0.023529412224888802
+									}
+								},
+								"m_ComponentId" : 3000000147,
+								"m_FalloffEnd" : 3.0,
+								"m_FalloffStart" : 1.0,
+								"m_Intensity" : 0.10000000149011612,
+								"m_IsTextured" : false,
+								"m_SpotPower" : 0.0,
+								"m_TextureName" : "",
+								"m_bEnable" : true,
+								"m_eLightType" : 1
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000049,
+					"m_Name" : "TR_Light_Light_08",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000148,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 1.0,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 1.0,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 1.0,
+										"_34" : 0.0,
+										"_41" : -19.006000518798828,
+										"_42" : 2.2039999961853027,
+										"_43" : 4.2140002250671387,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -19.006000518798828,
+										"y" : 2.2039999961853027,
+										"z" : 4.2140002250671387
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000050,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000149,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 4.3000001907348633,
+								"m_SaveBoxSizeY" : 2.0,
+								"m_SaveBoxSizeZ" : 0.30000001192092896,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000050,
+					"m_Name" : "TR_Wall_04_cb",
+					"m_Tag" : "Wall",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000150,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 59.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.51503801345825195,
+										"_12" : 0.0,
+										"_13" : -0.85716724395751953,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 1.0,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.85716724395751953,
+										"_32" : 0.0,
+										"_33" : 0.51503801345825195,
+										"_34" : 0.0,
+										"_41" : -23.920999526977539,
+										"_42" : 1.2890000343322754,
+										"_43" : 5.3229999542236328,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -23.920999526977539,
+										"y" : 1.2890000343322754,
+										"z" : 5.3229999542236328
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.87035560607910156,
+										"x" : -0.0,
+										"y" : 0.49242359399795532,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000051,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000151,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 0.20000000298023224,
+								"m_SaveBoxSizeY" : 0.5,
+								"m_SaveBoxSizeZ" : 0.60000002384185791,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000051,
+					"m_Name" : "TR_Safetywall_r_01_cb",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000152,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 2.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.99939084053039551,
+										"_12" : 0.0,
+										"_13" : -0.034899495542049408,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 1.0,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.034899495542049408,
+										"_32" : 0.0,
+										"_33" : 0.99939084053039551,
+										"_34" : 0.0,
+										"_41" : -25.121000289916992,
+										"_42" : 1.2890000343322754,
+										"_43" : 5.1529998779296875,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -25.121000289916992,
+										"y" : 1.2890000343322754,
+										"z" : 5.1529998779296875
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.99984771013259888,
+										"x" : -0.0,
+										"y" : 0.017452405765652657,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000052,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000153,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 0.60000002384185791,
+								"m_SaveBoxSizeY" : 0.5,
+								"m_SaveBoxSizeZ" : 0.20000000298023224,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000052,
+					"m_Name" : "TR_Safetywall_w_02_cb",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000154,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 29.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.87461972236633301,
+										"_12" : 0.0,
+										"_13" : -0.48480963706970215,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 1.0,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.48480963706970215,
+										"_32" : 0.0,
+										"_33" : 0.87461972236633301,
+										"_34" : 0.0,
+										"_41" : -21.923999786376953,
+										"_42" : 1.468999981880188,
+										"_43" : 3.125,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -21.923999786376953,
+										"y" : 1.468999981880188,
+										"z" : 3.125
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.9681476354598999,
+										"x" : -0.0,
+										"y" : 0.2503800094127655,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000053,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000155,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 0.20000000298023224,
+								"m_SaveBoxSizeY" : 0.31000000238418579,
+								"m_SaveBoxSizeZ" : 0.60000002384185791,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000053,
+					"m_Name" : "TR_Safetywall_r_02_cb",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000156,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 14.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 0.97029572725296021,
+										"_12" : 0.0,
+										"_13" : -0.24192190170288086,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 1.0,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.24192190170288086,
+										"_32" : 0.0,
+										"_33" : 0.97029572725296021,
+										"_34" : 0.0,
+										"_41" : -30.930000305175781,
+										"_42" : 1.7280000448226929,
+										"_43" : 2.7660000324249268,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -30.930000305175781,
+										"y" : 1.7280000448226929,
+										"z" : 2.7660000324249268
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 0.99254614114761353,
+										"x" : -0.0,
+										"y" : 0.12186934798955917,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000054,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000157,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 0.63999998569488525,
+								"m_SaveBoxSizeY" : 0.55000001192092896,
+								"m_SaveBoxSizeZ" : 0.89999997615814209,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000054,
+					"m_Name" : "TR_Box_cb",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000158,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 1.0,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 1.0,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 1.0,
+										"_34" : 0.0,
+										"_41" : -24.854999542236328,
+										"_42" : 1.7929999828338623,
+										"_43" : 4.7680001258850098,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -24.854999542236328,
+										"y" : 1.7929999828338623,
+										"z" : 4.7680001258850098
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000055,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000159,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 0.5,
+								"m_SaveBoxSizeY" : 0.60000002384185791,
+								"m_SaveBoxSizeZ" : 0.15000000596046448,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000055,
+					"m_Name" : "TR_Plate_03_cb",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000160,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 1.0,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 1.0,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 1.0,
+										"_34" : 0.0,
+										"_41" : -19.472999572753906,
+										"_42" : 2.1359999179840088,
+										"_43" : 2.7820000648498535,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -19.472999572753906,
+										"y" : 2.1359999179840088,
+										"z" : 2.7820000648498535
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000056,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000161,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 1.7799999713897705,
+								"m_SaveBoxSizeY" : 0.94999998807907104,
+								"m_SaveBoxSizeZ" : 1.0499999523162842,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000056,
+					"m_Name" : "TR_Tent_cb",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000162,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 1.0,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 1.0,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 1.0,
+										"_34" : 0.0,
+										"_41" : -23.254999160766602,
+										"_42" : 1.8079999685287476,
+										"_43" : 13.062999725341797,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -23.254999160766602,
+										"y" : 1.8079999685287476,
+										"z" : 13.062999725341797
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000057,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000163,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 0.10000000149011612,
+								"m_SaveBoxSizeY" : 0.41999998688697815,
+								"m_SaveBoxSizeZ" : 0.30000001192092896,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000057,
+					"m_Name" : "TR_Fireplug_01_cb",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			},
+			{
+				"GameObject" : 
+				{
+					"m_Component_V" : 
+					[
+						{
+							"Transform" : 
+							{
+								"m_ComponentId" : 3400000164,
+								"m_EulerAngles" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 0.0,
+										"y" : 0.0,
+										"z" : 0.0
+									}
+								},
+								"m_LocalTM" : 
+								{
+									"struct DirectX::SimpleMath::Matrix" : 
+									{
+										"_11" : 1.0,
+										"_12" : 0.0,
+										"_13" : 0.0,
+										"_14" : 0.0,
+										"_21" : 0.0,
+										"_22" : 1.0,
+										"_23" : 0.0,
+										"_24" : 0.0,
+										"_31" : 0.0,
+										"_32" : 0.0,
+										"_33" : 1.0,
+										"_34" : 0.0,
+										"_41" : -21.708000183105469,
+										"_42" : 1.6699999570846558,
+										"_43" : 1.1000000238418579,
+										"_44" : 1.0
+									}
+								},
+								"m_Position" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : -21.708000183105469,
+										"y" : 1.6699999570846558,
+										"z" : 1.1000000238418579
+									}
+								},
+								"m_Rotation" : 
+								{
+									"struct DirectX::SimpleMath::Quaternion" : 
+									{
+										"w" : 1.0,
+										"x" : -0.0,
+										"y" : 0.0,
+										"z" : -0.0
+									}
+								},
+								"m_Scale" : 
+								{
+									"struct DirectX::SimpleMath::Vector3" : 
+									{
+										"x" : 1.0,
+										"y" : 1.0,
+										"z" : 1.0
+									}
+								},
+								"m_bEnable" : true,
+								"m_pObject" : 2000000058,
+								"m_pParent" : 0
+							}
+						},
+						{
+							"PhysicsActor" : 
+							{
+								"m_ComponentId" : 3100000165,
+								"m_FreezePositionX" : true,
+								"m_FreezePositionY" : true,
+								"m_FreezePositionZ" : true,
+								"m_FreezeRotationX" : true,
+								"m_FreezeRotationY" : true,
+								"m_FreezeRotationZ" : true,
+								"m_GeometryType" : 1,
+								"m_RigidType" : 1,
+								"m_SaveBoxSizeX" : 0.10000000149011612,
+								"m_SaveBoxSizeY" : 0.5,
+								"m_SaveBoxSizeZ" : 1.0,
+								"m_SaveRadius" : 0.0,
+								"m_UserIndex" : 0,
+								"m_bEnable" : true,
+								"m_bGravity" : false,
+								"m_bKinematic" : true,
+								"s_UserIndex" : 0
+							}
+						}
+					],
+					"m_GameObjectId" : 2000000058,
+					"m_Name" : "Barrier",
+					"m_Tag" : "Untagged",
+					"m_bContinual" : false,
+					"m_bEnable" : true,
+					"m_pParent" : 0
+				}
+			}
+		],
+		"m_SceneId" : 1000000001,
+		"m_SceneName" : "Tutorial_SH",
+		"m_bPhysicsScene" : true
+	},
+	"Version" : 0.10000000149011612
+}
