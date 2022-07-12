@@ -1,0 +1,19 @@
+오후 8:08 2021-10-19
+
+DLL 을 만들고 있음
+	왜?
+	빌드를 덜 하기 위해서~//
+	서로 작업하는데 종속적이지 않기 위해서
+	개발 프로세스의 병렬화를 위해서...
+	
+
+static library보다 dynamic linking library
+	공용? 메모리를 줄이기 위해서?
+	
+
+인터페이스와 구현을 분리
+	.dll .lib
+
+CRenderer : IBaseClass
+.h
+.cpp
