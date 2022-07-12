@@ -1,0 +1,3416 @@
+=======================================================
+//Header
+=======================================================
+Signature : FMBD
+//MeshInfo-----------------------------------------------
+meshCount : 1
+vertexCount :
+	vertexCount [0] : 490
+indexCount :
+	indexCount [0] : 1344
+vertexType : 2
+-------------------------------------------------------
+
+//Materialnfo--------------------------------------------
+isMaterial : True
+textureCount : 1
+materialNameLength_V[0] : 18
+-------------------------------------------------------
+
+=======================================================
+//Data
+=======================================================
+//MeshInfo-----------------------------------------------
+mesh[0] vertex [0] pos.x : -12.5
+mesh[0] vertex [0] pos.y : -0.177658
+mesh[0] vertex [0] pos.z : 0.0577246
+mesh[0] vertex [0] texCoord.x : 1
+mesh[0] vertex [0] texCoord.y : 0.0981157
+
+mesh[0] vertex [1] pos.x : -12.5
+mesh[0] vertex [1] pos.y : -0.18078
+mesh[0] vertex [1] pos.z : 0.0306565
+mesh[0] vertex [1] texCoord.x : 0.999999
+mesh[0] vertex [1] texCoord.y : 0.0926675
+
+mesh[0] vertex [2] pos.x : -12.5
+mesh[0] vertex [2] pos.y : -0.173531
+mesh[0] vertex [2] pos.z : 0.00536398
+mesh[0] vertex [2] texCoord.x : 1
+mesh[0] vertex [2] texCoord.y : 0.0874085
+
+mesh[0] vertex [3] pos.x : -12.5
+mesh[0] vertex [3] pos.y : -0.15733
+mesh[0] vertex [3] pos.z : -0.0153671
+mesh[0] vertex [3] texCoord.x : 1
+mesh[0] vertex [3] texCoord.y : 0.0821495
+
+mesh[0] vertex [4] pos.x : -12.5
+mesh[0] vertex [4] pos.y : -0.133596
+mesh[0] vertex [4] pos.z : -0.0287511
+mesh[0] vertex [4] texCoord.x : 1
+mesh[0] vertex [4] texCoord.y : 0.0767012
+
+mesh[0] vertex [5] pos.x : -12.5
+mesh[0] vertex [5] pos.y : -0.106528
+mesh[0] vertex [5] pos.z : -0.0318738
+mesh[0] vertex [5] texCoord.x : 1
+mesh[0] vertex [5] texCoord.y : 0.156911
+
+mesh[0] vertex [6] pos.x : -12.5
+mesh[0] vertex [6] pos.y : -0.0812354
+mesh[0] vertex [6] pos.z : -0.0246249
+mesh[0] vertex [6] texCoord.x : 1
+mesh[0] vertex [6] texCoord.y : 0.151652
+
+mesh[0] vertex [7] pos.x : -12.5
+mesh[0] vertex [7] pos.y : -0.0605044
+mesh[0] vertex [7] pos.z : -0.00842365
+mesh[0] vertex [7] texCoord.x : 1
+mesh[0] vertex [7] texCoord.y : 0.146393
+
+mesh[0] vertex [8] pos.x : -12.5
+mesh[0] vertex [8] pos.y : -0.0471203
+mesh[0] vertex [8] pos.z : 0.0153104
+mesh[0] vertex [8] texCoord.x : 1
+mesh[0] vertex [8] texCoord.y : 0.140945
+
+mesh[0] vertex [9] pos.x : -12.5
+mesh[0] vertex [9] pos.y : -0.0439977
+mesh[0] vertex [9] pos.z : 0.0423785
+mesh[0] vertex [9] texCoord.x : 1
+mesh[0] vertex [9] texCoord.y : 0.135497
+
+mesh[0] vertex [10] pos.x : -12.5
+mesh[0] vertex [10] pos.y : -0.0512466
+mesh[0] vertex [10] pos.z : 0.067671
+mesh[0] vertex [10] texCoord.x : 0.999999
+mesh[0] vertex [10] texCoord.y : 0.130238
+
+mesh[0] vertex [11] pos.x : -12.5
+mesh[0] vertex [11] pos.y : -0.0674479
+mesh[0] vertex [11] pos.z : 0.0884021
+mesh[0] vertex [11] texCoord.x : 1
+mesh[0] vertex [11] texCoord.y : 0.124979
+
+mesh[0] vertex [12] pos.x : -12.5
+mesh[0] vertex [12] pos.y : -0.091182
+mesh[0] vertex [12] pos.z : 0.101786
+mesh[0] vertex [12] texCoord.x : 1
+mesh[0] vertex [12] texCoord.y : 0.11953
+
+mesh[0] vertex [13] pos.x : -12.5
+mesh[0] vertex [13] pos.y : -0.11825
+mesh[0] vertex [13] pos.z : 0.104909
+mesh[0] vertex [13] texCoord.x : 1
+mesh[0] vertex [13] texCoord.y : 0.114082
+
+mesh[0] vertex [14] pos.x : -12.5
+mesh[0] vertex [14] pos.y : -0.143542
+mesh[0] vertex [14] pos.z : 0.0976599
+mesh[0] vertex [14] texCoord.x : 0.999999
+mesh[0] vertex [14] texCoord.y : 0.108823
+
+mesh[0] vertex [15] pos.x : -12.5
+mesh[0] vertex [15] pos.y : -0.164274
+mesh[0] vertex [15] pos.z : 0.0814587
+mesh[0] vertex [15] texCoord.x : 1
+mesh[0] vertex [15] texCoord.y : 0.103564
+
+mesh[0] vertex [16] pos.x : -17.5
+mesh[0] vertex [16] pos.y : -0.177658
+mesh[0] vertex [16] pos.z : 0.0577246
+mesh[0] vertex [16] texCoord.x : 3.81469e-07
+mesh[0] vertex [16] texCoord.y : 0.0981089
+
+mesh[0] vertex [17] pos.x : -17.5
+mesh[0] vertex [17] pos.y : -0.18078
+mesh[0] vertex [17] pos.z : 0.0306565
+mesh[0] vertex [17] texCoord.x : 3.81469e-07
+mesh[0] vertex [17] texCoord.y : 0.0926593
+
+mesh[0] vertex [18] pos.x : -17.5
+mesh[0] vertex [18] pos.y : -0.173531
+mesh[0] vertex [18] pos.z : 0.00536398
+mesh[0] vertex [18] texCoord.x : 3.81469e-07
+mesh[0] vertex [18] texCoord.y : 0.0873971
+
+mesh[0] vertex [19] pos.x : -17.5
+mesh[0] vertex [19] pos.y : -0.15733
+mesh[0] vertex [19] pos.z : -0.0153671
+mesh[0] vertex [19] texCoord.x : 3.81469e-07
+mesh[0] vertex [19] texCoord.y : 0.082135
+
+mesh[0] vertex [20] pos.x : -17.5
+mesh[0] vertex [20] pos.y : -0.133596
+mesh[0] vertex [20] pos.z : -0.0287511
+mesh[0] vertex [20] texCoord.x : 7.62938e-07
+mesh[0] vertex [20] texCoord.y : 0.0766854
+
+mesh[0] vertex [21] pos.x : -17.5
+mesh[0] vertex [21] pos.y : -0.106528
+mesh[0] vertex [21] pos.z : -0.0318738
+mesh[0] vertex [21] texCoord.x : 3.81469e-07
+mesh[0] vertex [21] texCoord.y : 0.15693
+
+mesh[0] vertex [22] pos.x : -17.5
+mesh[0] vertex [22] pos.y : -0.0812354
+mesh[0] vertex [22] pos.z : -0.0246249
+mesh[0] vertex [22] texCoord.x : 3.81469e-07
+mesh[0] vertex [22] texCoord.y : 0.151668
+
+mesh[0] vertex [23] pos.x : -17.5
+mesh[0] vertex [23] pos.y : -0.0605044
+mesh[0] vertex [23] pos.z : -0.00842365
+mesh[0] vertex [23] texCoord.x : 3.81469e-07
+mesh[0] vertex [23] texCoord.y : 0.146406
+
+mesh[0] vertex [24] pos.x : -17.5
+mesh[0] vertex [24] pos.y : -0.0471203
+mesh[0] vertex [24] pos.z : 0.0153104
+mesh[0] vertex [24] texCoord.x : 0
+mesh[0] vertex [24] texCoord.y : 0.140956
+
+mesh[0] vertex [25] pos.x : -17.5
+mesh[0] vertex [25] pos.y : -0.0439977
+mesh[0] vertex [25] pos.z : 0.0423785
+mesh[0] vertex [25] texCoord.x : 3.81469e-07
+mesh[0] vertex [25] texCoord.y : 0.135506
+
+mesh[0] vertex [26] pos.x : -17.5
+mesh[0] vertex [26] pos.y : -0.0512466
+mesh[0] vertex [26] pos.z : 0.067671
+mesh[0] vertex [26] texCoord.x : 3.81469e-07
+mesh[0] vertex [26] texCoord.y : 0.130244
+
+mesh[0] vertex [27] pos.x : -17.5
+mesh[0] vertex [27] pos.y : -0.0674479
+mesh[0] vertex [27] pos.z : 0.0884021
+mesh[0] vertex [27] texCoord.x : 0
+mesh[0] vertex [27] texCoord.y : 0.124982
+
+mesh[0] vertex [28] pos.x : -17.5
+mesh[0] vertex [28] pos.y : -0.091182
+mesh[0] vertex [28] pos.z : 0.101786
+mesh[0] vertex [28] texCoord.x : 0
+mesh[0] vertex [28] texCoord.y : 0.119532
+
+mesh[0] vertex [29] pos.x : -17.5
+mesh[0] vertex [29] pos.y : -0.11825
+mesh[0] vertex [29] pos.z : 0.104909
+mesh[0] vertex [29] texCoord.x : 3.81469e-07
+mesh[0] vertex [29] texCoord.y : 0.114083
+
+mesh[0] vertex [30] pos.x : -17.5
+mesh[0] vertex [30] pos.y : -0.143542
+mesh[0] vertex [30] pos.z : 0.0976599
+mesh[0] vertex [30] texCoord.x : 3.81469e-07
+mesh[0] vertex [30] texCoord.y : 0.108821
+
+mesh[0] vertex [31] pos.x : -17.5
+mesh[0] vertex [31] pos.y : -0.164274
+mesh[0] vertex [31] pos.z : 0.0814587
+mesh[0] vertex [31] texCoord.x : 0
+mesh[0] vertex [31] texCoord.y : 0.103558
+
+mesh[0] vertex [32] pos.x : -12.5
+mesh[0] vertex [32] pos.y : 0.177658
+mesh[0] vertex [32] pos.z : -0.0577246
+mesh[0] vertex [32] texCoord.x : 1
+mesh[0] vertex [32] texCoord.y : 0.140751
+
+mesh[0] vertex [33] pos.x : -12.5
+mesh[0] vertex [33] pos.y : 0.18078
+mesh[0] vertex [33] pos.z : -0.0306564
+mesh[0] vertex [33] texCoord.x : 1
+mesh[0] vertex [33] texCoord.y : 0.135302
+
+mesh[0] vertex [34] pos.x : -12.5
+mesh[0] vertex [34] pos.y : 0.173531
+mesh[0] vertex [34] pos.z : -0.00536393
+mesh[0] vertex [34] texCoord.x : 1
+mesh[0] vertex [34] texCoord.y : 0.130044
+
+mesh[0] vertex [35] pos.x : -12.5
+mesh[0] vertex [35] pos.y : 0.15733
+mesh[0] vertex [35] pos.z : 0.0153672
+mesh[0] vertex [35] texCoord.x : 1
+mesh[0] vertex [35] texCoord.y : 0.124784
+
+mesh[0] vertex [36] pos.x : -12.5
+mesh[0] vertex [36] pos.y : 0.133596
+mesh[0] vertex [36] pos.z : 0.0287511
+mesh[0] vertex [36] texCoord.x : 1
+mesh[0] vertex [36] texCoord.y : 0.119336
+
+mesh[0] vertex [37] pos.x : -12.5
+mesh[0] vertex [37] pos.y : 0.106528
+mesh[0] vertex [37] pos.z : 0.0318738
+mesh[0] vertex [37] texCoord.x : 1
+mesh[0] vertex [37] texCoord.y : 0.113888
+
+mesh[0] vertex [38] pos.x : -12.5
+mesh[0] vertex [38] pos.y : 0.0812354
+mesh[0] vertex [38] pos.z : 0.0246249
+mesh[0] vertex [38] texCoord.x : 1
+mesh[0] vertex [38] texCoord.y : 0.108629
+
+mesh[0] vertex [39] pos.x : -12.5
+mesh[0] vertex [39] pos.y : 0.0605042
+mesh[0] vertex [39] pos.z : 0.00842365
+mesh[0] vertex [39] texCoord.x : 1
+mesh[0] vertex [39] texCoord.y : 0.10337
+
+mesh[0] vertex [40] pos.x : -12.5
+mesh[0] vertex [40] pos.y : 0.0471204
+mesh[0] vertex [40] pos.z : -0.0153104
+mesh[0] vertex [40] texCoord.x : 1
+mesh[0] vertex [40] texCoord.y : 0.0979217
+
+mesh[0] vertex [41] pos.x : -12.5
+mesh[0] vertex [41] pos.y : 0.0439978
+mesh[0] vertex [41] pos.z : -0.0423785
+mesh[0] vertex [41] texCoord.x : 1
+mesh[0] vertex [41] texCoord.y : 0.0924734
+
+mesh[0] vertex [42] pos.x : -12.5
+mesh[0] vertex [42] pos.y : 0.0512467
+mesh[0] vertex [42] pos.z : -0.067671
+mesh[0] vertex [42] texCoord.x : 1
+mesh[0] vertex [42] texCoord.y : 0.0872144
+
+mesh[0] vertex [43] pos.x : -12.5
+mesh[0] vertex [43] pos.y : 0.0674479
+mesh[0] vertex [43] pos.z : -0.0884021
+mesh[0] vertex [43] texCoord.x : 1
+mesh[0] vertex [43] texCoord.y : 0.0819554
+
+mesh[0] vertex [44] pos.x : -12.5
+mesh[0] vertex [44] pos.y : 0.091182
+mesh[0] vertex [44] pos.z : -0.101786
+mesh[0] vertex [44] texCoord.x : 1
+mesh[0] vertex [44] texCoord.y : 0.0765071
+
+mesh[0] vertex [45] pos.x : -12.5
+mesh[0] vertex [45] pos.y : 0.11825
+mesh[0] vertex [45] pos.z : -0.104909
+mesh[0] vertex [45] texCoord.x : 1
+mesh[0] vertex [45] texCoord.y : 0.156717
+
+mesh[0] vertex [46] pos.x : -12.5
+mesh[0] vertex [46] pos.y : 0.143543
+mesh[0] vertex [46] pos.z : -0.0976599
+mesh[0] vertex [46] texCoord.x : 1
+mesh[0] vertex [46] texCoord.y : 0.151458
+
+mesh[0] vertex [47] pos.x : -12.5
+mesh[0] vertex [47] pos.y : 0.164274
+mesh[0] vertex [47] pos.z : -0.0814586
+mesh[0] vertex [47] texCoord.x : 1
+mesh[0] vertex [47] texCoord.y : 0.146199
+
+mesh[0] vertex [48] pos.x : -17.5
+mesh[0] vertex [48] pos.y : 0.177658
+mesh[0] vertex [48] pos.z : -0.0577246
+mesh[0] vertex [48] texCoord.x : 3.81469e-07
+mesh[0] vertex [48] texCoord.y : 0.140762
+
+mesh[0] vertex [49] pos.x : -17.5
+mesh[0] vertex [49] pos.y : 0.18078
+mesh[0] vertex [49] pos.z : -0.0306564
+mesh[0] vertex [49] texCoord.x : 3.81469e-07
+mesh[0] vertex [49] texCoord.y : 0.135312
+
+mesh[0] vertex [50] pos.x : -17.5
+mesh[0] vertex [50] pos.y : 0.173531
+mesh[0] vertex [50] pos.z : -0.00536393
+mesh[0] vertex [50] texCoord.x : 3.81469e-07
+mesh[0] vertex [50] texCoord.y : 0.13005
+
+mesh[0] vertex [51] pos.x : -17.5
+mesh[0] vertex [51] pos.y : 0.15733
+mesh[0] vertex [51] pos.z : 0.0153672
+mesh[0] vertex [51] texCoord.x : 0
+mesh[0] vertex [51] texCoord.y : 0.124788
+
+mesh[0] vertex [52] pos.x : -17.5
+mesh[0] vertex [52] pos.y : 0.133596
+mesh[0] vertex [52] pos.z : 0.0287511
+mesh[0] vertex [52] texCoord.x : 0
+mesh[0] vertex [52] texCoord.y : 0.119338
+
+mesh[0] vertex [53] pos.x : -17.5
+mesh[0] vertex [53] pos.y : 0.106528
+mesh[0] vertex [53] pos.z : 0.0318738
+mesh[0] vertex [53] texCoord.x : 3.81469e-07
+mesh[0] vertex [53] texCoord.y : 0.113889
+
+mesh[0] vertex [54] pos.x : -17.5
+mesh[0] vertex [54] pos.y : 0.0812354
+mesh[0] vertex [54] pos.z : 0.0246249
+mesh[0] vertex [54] texCoord.x : 3.81469e-07
+mesh[0] vertex [54] texCoord.y : 0.108627
+
+mesh[0] vertex [55] pos.x : -17.5
+mesh[0] vertex [55] pos.y : 0.0605042
+mesh[0] vertex [55] pos.z : 0.00842365
+mesh[0] vertex [55] texCoord.x : 3.81469e-07
+mesh[0] vertex [55] texCoord.y : 0.103364
+
+mesh[0] vertex [56] pos.x : -17.5
+mesh[0] vertex [56] pos.y : 0.0471204
+mesh[0] vertex [56] pos.z : -0.0153104
+mesh[0] vertex [56] texCoord.x : 3.81469e-07
+mesh[0] vertex [56] texCoord.y : 0.0979148
+
+mesh[0] vertex [57] pos.x : -17.5
+mesh[0] vertex [57] pos.y : 0.0439978
+mesh[0] vertex [57] pos.z : -0.0423785
+mesh[0] vertex [57] texCoord.x : 7.62938e-07
+mesh[0] vertex [57] texCoord.y : 0.0924653
+
+mesh[0] vertex [58] pos.x : -17.5
+mesh[0] vertex [58] pos.y : 0.0512467
+mesh[0] vertex [58] pos.z : -0.067671
+mesh[0] vertex [58] texCoord.x : 3.81469e-07
+mesh[0] vertex [58] texCoord.y : 0.0872031
+
+mesh[0] vertex [59] pos.x : -17.5
+mesh[0] vertex [59] pos.y : 0.0674479
+mesh[0] vertex [59] pos.z : -0.0884021
+mesh[0] vertex [59] texCoord.x : 3.81469e-07
+mesh[0] vertex [59] texCoord.y : 0.0819409
+
+mesh[0] vertex [60] pos.x : -17.5
+mesh[0] vertex [60] pos.y : 0.091182
+mesh[0] vertex [60] pos.z : -0.101786
+mesh[0] vertex [60] texCoord.x : 7.62938e-07
+mesh[0] vertex [60] texCoord.y : 0.0764913
+
+mesh[0] vertex [61] pos.x : -17.5
+mesh[0] vertex [61] pos.y : 0.11825
+mesh[0] vertex [61] pos.z : -0.104909
+mesh[0] vertex [61] texCoord.x : 3.81469e-07
+mesh[0] vertex [61] texCoord.y : 0.156736
+
+mesh[0] vertex [62] pos.x : -17.5
+mesh[0] vertex [62] pos.y : 0.143543
+mesh[0] vertex [62] pos.z : -0.0976599
+mesh[0] vertex [62] texCoord.x : 3.81469e-07
+mesh[0] vertex [62] texCoord.y : 0.151474
+
+mesh[0] vertex [63] pos.x : -17.5
+mesh[0] vertex [63] pos.y : 0.164274
+mesh[0] vertex [63] pos.z : -0.0814586
+mesh[0] vertex [63] texCoord.x : 3.81469e-07
+mesh[0] vertex [63] texCoord.y : 0.146212
+
+mesh[0] vertex [64] pos.x : -7.49999
+mesh[0] vertex [64] pos.y : -0.177658
+mesh[0] vertex [64] pos.z : 0.0577246
+mesh[0] vertex [64] texCoord.x : 1
+mesh[0] vertex [64] texCoord.y : 0.0981157
+
+mesh[0] vertex [65] pos.x : -7.49999
+mesh[0] vertex [65] pos.y : -0.18078
+mesh[0] vertex [65] pos.z : 0.0306565
+mesh[0] vertex [65] texCoord.x : 0.999999
+mesh[0] vertex [65] texCoord.y : 0.0926675
+
+mesh[0] vertex [66] pos.x : -7.49999
+mesh[0] vertex [66] pos.y : -0.173531
+mesh[0] vertex [66] pos.z : 0.00536398
+mesh[0] vertex [66] texCoord.x : 1
+mesh[0] vertex [66] texCoord.y : 0.0874085
+
+mesh[0] vertex [67] pos.x : -7.49999
+mesh[0] vertex [67] pos.y : -0.15733
+mesh[0] vertex [67] pos.z : -0.0153671
+mesh[0] vertex [67] texCoord.x : 1
+mesh[0] vertex [67] texCoord.y : 0.0821495
+
+mesh[0] vertex [68] pos.x : -7.49999
+mesh[0] vertex [68] pos.y : -0.133596
+mesh[0] vertex [68] pos.z : -0.0287511
+mesh[0] vertex [68] texCoord.x : 1
+mesh[0] vertex [68] texCoord.y : 0.0767012
+
+mesh[0] vertex [69] pos.x : -7.49999
+mesh[0] vertex [69] pos.y : -0.106528
+mesh[0] vertex [69] pos.z : -0.0318738
+mesh[0] vertex [69] texCoord.x : 1
+mesh[0] vertex [69] texCoord.y : 0.156911
+
+mesh[0] vertex [70] pos.x : -7.49999
+mesh[0] vertex [70] pos.y : -0.0812354
+mesh[0] vertex [70] pos.z : -0.0246249
+mesh[0] vertex [70] texCoord.x : 1
+mesh[0] vertex [70] texCoord.y : 0.151652
+
+mesh[0] vertex [71] pos.x : -7.49999
+mesh[0] vertex [71] pos.y : -0.0605044
+mesh[0] vertex [71] pos.z : -0.00842365
+mesh[0] vertex [71] texCoord.x : 1
+mesh[0] vertex [71] texCoord.y : 0.146393
+
+mesh[0] vertex [72] pos.x : -7.49999
+mesh[0] vertex [72] pos.y : -0.0471203
+mesh[0] vertex [72] pos.z : 0.0153104
+mesh[0] vertex [72] texCoord.x : 1
+mesh[0] vertex [72] texCoord.y : 0.140945
+
+mesh[0] vertex [73] pos.x : -7.49999
+mesh[0] vertex [73] pos.y : -0.0439977
+mesh[0] vertex [73] pos.z : 0.0423785
+mesh[0] vertex [73] texCoord.x : 1
+mesh[0] vertex [73] texCoord.y : 0.135497
+
+mesh[0] vertex [74] pos.x : -7.49999
+mesh[0] vertex [74] pos.y : -0.0512466
+mesh[0] vertex [74] pos.z : 0.067671
+mesh[0] vertex [74] texCoord.x : 0.999999
+mesh[0] vertex [74] texCoord.y : 0.130238
+
+mesh[0] vertex [75] pos.x : -7.49999
+mesh[0] vertex [75] pos.y : -0.0674479
+mesh[0] vertex [75] pos.z : 0.0884021
+mesh[0] vertex [75] texCoord.x : 1
+mesh[0] vertex [75] texCoord.y : 0.124979
+
+mesh[0] vertex [76] pos.x : -7.49999
+mesh[0] vertex [76] pos.y : -0.091182
+mesh[0] vertex [76] pos.z : 0.101786
+mesh[0] vertex [76] texCoord.x : 1
+mesh[0] vertex [76] texCoord.y : 0.11953
+
+mesh[0] vertex [77] pos.x : -7.49999
+mesh[0] vertex [77] pos.y : -0.11825
+mesh[0] vertex [77] pos.z : 0.104909
+mesh[0] vertex [77] texCoord.x : 1
+mesh[0] vertex [77] texCoord.y : 0.114082
+
+mesh[0] vertex [78] pos.x : -7.49999
+mesh[0] vertex [78] pos.y : -0.143542
+mesh[0] vertex [78] pos.z : 0.0976599
+mesh[0] vertex [78] texCoord.x : 0.999999
+mesh[0] vertex [78] texCoord.y : 0.108823
+
+mesh[0] vertex [79] pos.x : -7.49999
+mesh[0] vertex [79] pos.y : -0.164274
+mesh[0] vertex [79] pos.z : 0.0814587
+mesh[0] vertex [79] texCoord.x : 1
+mesh[0] vertex [79] texCoord.y : 0.103564
+
+mesh[0] vertex [80] pos.x : -12.5
+mesh[0] vertex [80] pos.y : -0.177658
+mesh[0] vertex [80] pos.z : 0.0577246
+mesh[0] vertex [80] texCoord.x : 3.81469e-07
+mesh[0] vertex [80] texCoord.y : 0.0981089
+
+mesh[0] vertex [81] pos.x : -12.5
+mesh[0] vertex [81] pos.y : -0.18078
+mesh[0] vertex [81] pos.z : 0.0306565
+mesh[0] vertex [81] texCoord.x : 3.81469e-07
+mesh[0] vertex [81] texCoord.y : 0.0926593
+
+mesh[0] vertex [82] pos.x : -12.5
+mesh[0] vertex [82] pos.y : -0.173531
+mesh[0] vertex [82] pos.z : 0.00536398
+mesh[0] vertex [82] texCoord.x : 3.81469e-07
+mesh[0] vertex [82] texCoord.y : 0.0873971
+
+mesh[0] vertex [83] pos.x : -12.5
+mesh[0] vertex [83] pos.y : -0.15733
+mesh[0] vertex [83] pos.z : -0.0153671
+mesh[0] vertex [83] texCoord.x : 3.81469e-07
+mesh[0] vertex [83] texCoord.y : 0.082135
+
+mesh[0] vertex [84] pos.x : -12.5
+mesh[0] vertex [84] pos.y : -0.133596
+mesh[0] vertex [84] pos.z : -0.0287511
+mesh[0] vertex [84] texCoord.x : 7.62938e-07
+mesh[0] vertex [84] texCoord.y : 0.0766854
+
+mesh[0] vertex [85] pos.x : -12.5
+mesh[0] vertex [85] pos.y : -0.106528
+mesh[0] vertex [85] pos.z : -0.0318738
+mesh[0] vertex [85] texCoord.x : 3.81469e-07
+mesh[0] vertex [85] texCoord.y : 0.15693
+
+mesh[0] vertex [86] pos.x : -12.5
+mesh[0] vertex [86] pos.y : -0.0812354
+mesh[0] vertex [86] pos.z : -0.0246249
+mesh[0] vertex [86] texCoord.x : 3.81469e-07
+mesh[0] vertex [86] texCoord.y : 0.151668
+
+mesh[0] vertex [87] pos.x : -12.5
+mesh[0] vertex [87] pos.y : -0.0605044
+mesh[0] vertex [87] pos.z : -0.00842365
+mesh[0] vertex [87] texCoord.x : 3.81469e-07
+mesh[0] vertex [87] texCoord.y : 0.146406
+
+mesh[0] vertex [88] pos.x : -12.5
+mesh[0] vertex [88] pos.y : -0.0471203
+mesh[0] vertex [88] pos.z : 0.0153104
+mesh[0] vertex [88] texCoord.x : 0
+mesh[0] vertex [88] texCoord.y : 0.140956
+
+mesh[0] vertex [89] pos.x : -12.5
+mesh[0] vertex [89] pos.y : -0.0439977
+mesh[0] vertex [89] pos.z : 0.0423785
+mesh[0] vertex [89] texCoord.x : 3.81469e-07
+mesh[0] vertex [89] texCoord.y : 0.135506
+
+mesh[0] vertex [90] pos.x : -12.5
+mesh[0] vertex [90] pos.y : -0.0512466
+mesh[0] vertex [90] pos.z : 0.067671
+mesh[0] vertex [90] texCoord.x : 3.81469e-07
+mesh[0] vertex [90] texCoord.y : 0.130244
+
+mesh[0] vertex [91] pos.x : -12.5
+mesh[0] vertex [91] pos.y : -0.0674479
+mesh[0] vertex [91] pos.z : 0.0884021
+mesh[0] vertex [91] texCoord.x : 0
+mesh[0] vertex [91] texCoord.y : 0.124982
+
+mesh[0] vertex [92] pos.x : -12.5
+mesh[0] vertex [92] pos.y : -0.091182
+mesh[0] vertex [92] pos.z : 0.101786
+mesh[0] vertex [92] texCoord.x : 0
+mesh[0] vertex [92] texCoord.y : 0.119532
+
+mesh[0] vertex [93] pos.x : -12.5
+mesh[0] vertex [93] pos.y : -0.11825
+mesh[0] vertex [93] pos.z : 0.104909
+mesh[0] vertex [93] texCoord.x : 3.81469e-07
+mesh[0] vertex [93] texCoord.y : 0.114083
+
+mesh[0] vertex [94] pos.x : -12.5
+mesh[0] vertex [94] pos.y : -0.143542
+mesh[0] vertex [94] pos.z : 0.0976599
+mesh[0] vertex [94] texCoord.x : 3.81469e-07
+mesh[0] vertex [94] texCoord.y : 0.108821
+
+mesh[0] vertex [95] pos.x : -12.5
+mesh[0] vertex [95] pos.y : -0.164274
+mesh[0] vertex [95] pos.z : 0.0814587
+mesh[0] vertex [95] texCoord.x : 0
+mesh[0] vertex [95] texCoord.y : 0.103558
+
+mesh[0] vertex [96] pos.x : -7.49999
+mesh[0] vertex [96] pos.y : 0.177658
+mesh[0] vertex [96] pos.z : -0.0577246
+mesh[0] vertex [96] texCoord.x : 1
+mesh[0] vertex [96] texCoord.y : 0.140751
+
+mesh[0] vertex [97] pos.x : -7.49999
+mesh[0] vertex [97] pos.y : 0.18078
+mesh[0] vertex [97] pos.z : -0.0306564
+mesh[0] vertex [97] texCoord.x : 1
+mesh[0] vertex [97] texCoord.y : 0.135302
+
+mesh[0] vertex [98] pos.x : -7.49999
+mesh[0] vertex [98] pos.y : 0.173531
+mesh[0] vertex [98] pos.z : -0.00536393
+mesh[0] vertex [98] texCoord.x : 1
+mesh[0] vertex [98] texCoord.y : 0.130044
+
+mesh[0] vertex [99] pos.x : -7.49999
+mesh[0] vertex [99] pos.y : 0.15733
+mesh[0] vertex [99] pos.z : 0.0153672
+mesh[0] vertex [99] texCoord.x : 1
+mesh[0] vertex [99] texCoord.y : 0.124784
+
+mesh[0] vertex [100] pos.x : -7.49999
+mesh[0] vertex [100] pos.y : 0.133596
+mesh[0] vertex [100] pos.z : 0.0287511
+mesh[0] vertex [100] texCoord.x : 1
+mesh[0] vertex [100] texCoord.y : 0.119336
+
+mesh[0] vertex [101] pos.x : -7.49999
+mesh[0] vertex [101] pos.y : 0.106528
+mesh[0] vertex [101] pos.z : 0.0318738
+mesh[0] vertex [101] texCoord.x : 1
+mesh[0] vertex [101] texCoord.y : 0.113888
+
+mesh[0] vertex [102] pos.x : -7.49999
+mesh[0] vertex [102] pos.y : 0.0812354
+mesh[0] vertex [102] pos.z : 0.0246249
+mesh[0] vertex [102] texCoord.x : 1
+mesh[0] vertex [102] texCoord.y : 0.108629
+
+mesh[0] vertex [103] pos.x : -7.49999
+mesh[0] vertex [103] pos.y : 0.0605042
+mesh[0] vertex [103] pos.z : 0.00842365
+mesh[0] vertex [103] texCoord.x : 1
+mesh[0] vertex [103] texCoord.y : 0.10337
+
+mesh[0] vertex [104] pos.x : -7.49999
+mesh[0] vertex [104] pos.y : 0.0471204
+mesh[0] vertex [104] pos.z : -0.0153104
+mesh[0] vertex [104] texCoord.x : 1
+mesh[0] vertex [104] texCoord.y : 0.0979217
+
+mesh[0] vertex [105] pos.x : -7.49999
+mesh[0] vertex [105] pos.y : 0.0439978
+mesh[0] vertex [105] pos.z : -0.0423785
+mesh[0] vertex [105] texCoord.x : 1
+mesh[0] vertex [105] texCoord.y : 0.0924734
+
+mesh[0] vertex [106] pos.x : -7.49999
+mesh[0] vertex [106] pos.y : 0.0512467
+mesh[0] vertex [106] pos.z : -0.067671
+mesh[0] vertex [106] texCoord.x : 1
+mesh[0] vertex [106] texCoord.y : 0.0872144
+
+mesh[0] vertex [107] pos.x : -7.49999
+mesh[0] vertex [107] pos.y : 0.0674479
+mesh[0] vertex [107] pos.z : -0.0884021
+mesh[0] vertex [107] texCoord.x : 1
+mesh[0] vertex [107] texCoord.y : 0.0819554
+
+mesh[0] vertex [108] pos.x : -7.49999
+mesh[0] vertex [108] pos.y : 0.091182
+mesh[0] vertex [108] pos.z : -0.101786
+mesh[0] vertex [108] texCoord.x : 1
+mesh[0] vertex [108] texCoord.y : 0.0765071
+
+mesh[0] vertex [109] pos.x : -7.49999
+mesh[0] vertex [109] pos.y : 0.11825
+mesh[0] vertex [109] pos.z : -0.104909
+mesh[0] vertex [109] texCoord.x : 1
+mesh[0] vertex [109] texCoord.y : 0.156717
+
+mesh[0] vertex [110] pos.x : -7.49999
+mesh[0] vertex [110] pos.y : 0.143543
+mesh[0] vertex [110] pos.z : -0.0976599
+mesh[0] vertex [110] texCoord.x : 1
+mesh[0] vertex [110] texCoord.y : 0.151458
+
+mesh[0] vertex [111] pos.x : -7.49999
+mesh[0] vertex [111] pos.y : 0.164274
+mesh[0] vertex [111] pos.z : -0.0814586
+mesh[0] vertex [111] texCoord.x : 1
+mesh[0] vertex [111] texCoord.y : 0.146199
+
+mesh[0] vertex [112] pos.x : -12.5
+mesh[0] vertex [112] pos.y : 0.177658
+mesh[0] vertex [112] pos.z : -0.0577246
+mesh[0] vertex [112] texCoord.x : 3.81469e-07
+mesh[0] vertex [112] texCoord.y : 0.140762
+
+mesh[0] vertex [113] pos.x : -12.5
+mesh[0] vertex [113] pos.y : 0.18078
+mesh[0] vertex [113] pos.z : -0.0306564
+mesh[0] vertex [113] texCoord.x : 3.81469e-07
+mesh[0] vertex [113] texCoord.y : 0.135312
+
+mesh[0] vertex [114] pos.x : -12.5
+mesh[0] vertex [114] pos.y : 0.173531
+mesh[0] vertex [114] pos.z : -0.00536393
+mesh[0] vertex [114] texCoord.x : 3.81469e-07
+mesh[0] vertex [114] texCoord.y : 0.13005
+
+mesh[0] vertex [115] pos.x : -12.5
+mesh[0] vertex [115] pos.y : 0.15733
+mesh[0] vertex [115] pos.z : 0.0153672
+mesh[0] vertex [115] texCoord.x : 0
+mesh[0] vertex [115] texCoord.y : 0.124788
+
+mesh[0] vertex [116] pos.x : -12.5
+mesh[0] vertex [116] pos.y : 0.133596
+mesh[0] vertex [116] pos.z : 0.0287511
+mesh[0] vertex [116] texCoord.x : 0
+mesh[0] vertex [116] texCoord.y : 0.119338
+
+mesh[0] vertex [117] pos.x : -12.5
+mesh[0] vertex [117] pos.y : 0.106528
+mesh[0] vertex [117] pos.z : 0.0318738
+mesh[0] vertex [117] texCoord.x : 3.81469e-07
+mesh[0] vertex [117] texCoord.y : 0.113889
+
+mesh[0] vertex [118] pos.x : -12.5
+mesh[0] vertex [118] pos.y : 0.0812354
+mesh[0] vertex [118] pos.z : 0.0246249
+mesh[0] vertex [118] texCoord.x : 3.81469e-07
+mesh[0] vertex [118] texCoord.y : 0.108627
+
+mesh[0] vertex [119] pos.x : -12.5
+mesh[0] vertex [119] pos.y : 0.0605042
+mesh[0] vertex [119] pos.z : 0.00842365
+mesh[0] vertex [119] texCoord.x : 3.81469e-07
+mesh[0] vertex [119] texCoord.y : 0.103364
+
+mesh[0] vertex [120] pos.x : -12.5
+mesh[0] vertex [120] pos.y : 0.0471204
+mesh[0] vertex [120] pos.z : -0.0153104
+mesh[0] vertex [120] texCoord.x : 3.81469e-07
+mesh[0] vertex [120] texCoord.y : 0.0979148
+
+mesh[0] vertex [121] pos.x : -12.5
+mesh[0] vertex [121] pos.y : 0.0439978
+mesh[0] vertex [121] pos.z : -0.0423785
+mesh[0] vertex [121] texCoord.x : 7.62938e-07
+mesh[0] vertex [121] texCoord.y : 0.0924653
+
+mesh[0] vertex [122] pos.x : -12.5
+mesh[0] vertex [122] pos.y : 0.0512467
+mesh[0] vertex [122] pos.z : -0.067671
+mesh[0] vertex [122] texCoord.x : 3.81469e-07
+mesh[0] vertex [122] texCoord.y : 0.0872031
+
+mesh[0] vertex [123] pos.x : -12.5
+mesh[0] vertex [123] pos.y : 0.0674479
+mesh[0] vertex [123] pos.z : -0.0884021
+mesh[0] vertex [123] texCoord.x : 3.81469e-07
+mesh[0] vertex [123] texCoord.y : 0.0819409
+
+mesh[0] vertex [124] pos.x : -12.5
+mesh[0] vertex [124] pos.y : 0.091182
+mesh[0] vertex [124] pos.z : -0.101786
+mesh[0] vertex [124] texCoord.x : 7.62938e-07
+mesh[0] vertex [124] texCoord.y : 0.0764913
+
+mesh[0] vertex [125] pos.x : -12.5
+mesh[0] vertex [125] pos.y : 0.11825
+mesh[0] vertex [125] pos.z : -0.104909
+mesh[0] vertex [125] texCoord.x : 3.81469e-07
+mesh[0] vertex [125] texCoord.y : 0.156736
+
+mesh[0] vertex [126] pos.x : -12.5
+mesh[0] vertex [126] pos.y : 0.143543
+mesh[0] vertex [126] pos.z : -0.0976599
+mesh[0] vertex [126] texCoord.x : 3.81469e-07
+mesh[0] vertex [126] texCoord.y : 0.151474
+
+mesh[0] vertex [127] pos.x : -12.5
+mesh[0] vertex [127] pos.y : 0.164274
+mesh[0] vertex [127] pos.z : -0.0814586
+mesh[0] vertex [127] texCoord.x : 3.81469e-07
+mesh[0] vertex [127] texCoord.y : 0.146212
+
+mesh[0] vertex [128] pos.x : -2.49999
+mesh[0] vertex [128] pos.y : -0.177658
+mesh[0] vertex [128] pos.z : 0.0577246
+mesh[0] vertex [128] texCoord.x : 1
+mesh[0] vertex [128] texCoord.y : 0.0981157
+
+mesh[0] vertex [129] pos.x : -2.49999
+mesh[0] vertex [129] pos.y : -0.18078
+mesh[0] vertex [129] pos.z : 0.0306565
+mesh[0] vertex [129] texCoord.x : 0.999999
+mesh[0] vertex [129] texCoord.y : 0.0926675
+
+mesh[0] vertex [130] pos.x : -2.49999
+mesh[0] vertex [130] pos.y : -0.173531
+mesh[0] vertex [130] pos.z : 0.00536398
+mesh[0] vertex [130] texCoord.x : 1
+mesh[0] vertex [130] texCoord.y : 0.0874085
+
+mesh[0] vertex [131] pos.x : -2.49999
+mesh[0] vertex [131] pos.y : -0.15733
+mesh[0] vertex [131] pos.z : -0.0153671
+mesh[0] vertex [131] texCoord.x : 1
+mesh[0] vertex [131] texCoord.y : 0.0821495
+
+mesh[0] vertex [132] pos.x : -2.49999
+mesh[0] vertex [132] pos.y : -0.133596
+mesh[0] vertex [132] pos.z : -0.0287511
+mesh[0] vertex [132] texCoord.x : 1
+mesh[0] vertex [132] texCoord.y : 0.0767012
+
+mesh[0] vertex [133] pos.x : -2.49999
+mesh[0] vertex [133] pos.y : -0.106528
+mesh[0] vertex [133] pos.z : -0.0318738
+mesh[0] vertex [133] texCoord.x : 1
+mesh[0] vertex [133] texCoord.y : 0.156911
+
+mesh[0] vertex [134] pos.x : -2.49999
+mesh[0] vertex [134] pos.y : -0.0812354
+mesh[0] vertex [134] pos.z : -0.0246249
+mesh[0] vertex [134] texCoord.x : 1
+mesh[0] vertex [134] texCoord.y : 0.151652
+
+mesh[0] vertex [135] pos.x : -2.49999
+mesh[0] vertex [135] pos.y : -0.0605044
+mesh[0] vertex [135] pos.z : -0.00842365
+mesh[0] vertex [135] texCoord.x : 1
+mesh[0] vertex [135] texCoord.y : 0.146393
+
+mesh[0] vertex [136] pos.x : -2.49999
+mesh[0] vertex [136] pos.y : -0.0471203
+mesh[0] vertex [136] pos.z : 0.0153104
+mesh[0] vertex [136] texCoord.x : 1
+mesh[0] vertex [136] texCoord.y : 0.140945
+
+mesh[0] vertex [137] pos.x : -2.49999
+mesh[0] vertex [137] pos.y : -0.0439977
+mesh[0] vertex [137] pos.z : 0.0423785
+mesh[0] vertex [137] texCoord.x : 1
+mesh[0] vertex [137] texCoord.y : 0.135497
+
+mesh[0] vertex [138] pos.x : -2.49999
+mesh[0] vertex [138] pos.y : -0.0512466
+mesh[0] vertex [138] pos.z : 0.067671
+mesh[0] vertex [138] texCoord.x : 0.999999
+mesh[0] vertex [138] texCoord.y : 0.130238
+
+mesh[0] vertex [139] pos.x : -2.49999
+mesh[0] vertex [139] pos.y : -0.0674479
+mesh[0] vertex [139] pos.z : 0.0884021
+mesh[0] vertex [139] texCoord.x : 1
+mesh[0] vertex [139] texCoord.y : 0.124979
+
+mesh[0] vertex [140] pos.x : -2.49999
+mesh[0] vertex [140] pos.y : -0.091182
+mesh[0] vertex [140] pos.z : 0.101786
+mesh[0] vertex [140] texCoord.x : 1
+mesh[0] vertex [140] texCoord.y : 0.11953
+
+mesh[0] vertex [141] pos.x : -2.49999
+mesh[0] vertex [141] pos.y : -0.11825
+mesh[0] vertex [141] pos.z : 0.104909
+mesh[0] vertex [141] texCoord.x : 1
+mesh[0] vertex [141] texCoord.y : 0.114082
+
+mesh[0] vertex [142] pos.x : -2.49999
+mesh[0] vertex [142] pos.y : -0.143542
+mesh[0] vertex [142] pos.z : 0.0976599
+mesh[0] vertex [142] texCoord.x : 0.999999
+mesh[0] vertex [142] texCoord.y : 0.108823
+
+mesh[0] vertex [143] pos.x : -2.49999
+mesh[0] vertex [143] pos.y : -0.164274
+mesh[0] vertex [143] pos.z : 0.0814587
+mesh[0] vertex [143] texCoord.x : 1
+mesh[0] vertex [143] texCoord.y : 0.103564
+
+mesh[0] vertex [144] pos.x : -7.49999
+mesh[0] vertex [144] pos.y : -0.177658
+mesh[0] vertex [144] pos.z : 0.0577246
+mesh[0] vertex [144] texCoord.x : 3.81469e-07
+mesh[0] vertex [144] texCoord.y : 0.0981089
+
+mesh[0] vertex [145] pos.x : -7.49999
+mesh[0] vertex [145] pos.y : -0.18078
+mesh[0] vertex [145] pos.z : 0.0306565
+mesh[0] vertex [145] texCoord.x : 3.81469e-07
+mesh[0] vertex [145] texCoord.y : 0.0926593
+
+mesh[0] vertex [146] pos.x : -7.49999
+mesh[0] vertex [146] pos.y : -0.173531
+mesh[0] vertex [146] pos.z : 0.00536398
+mesh[0] vertex [146] texCoord.x : 3.81469e-07
+mesh[0] vertex [146] texCoord.y : 0.0873971
+
+mesh[0] vertex [147] pos.x : -7.49999
+mesh[0] vertex [147] pos.y : -0.15733
+mesh[0] vertex [147] pos.z : -0.0153671
+mesh[0] vertex [147] texCoord.x : 3.81469e-07
+mesh[0] vertex [147] texCoord.y : 0.082135
+
+mesh[0] vertex [148] pos.x : -7.49999
+mesh[0] vertex [148] pos.y : -0.133596
+mesh[0] vertex [148] pos.z : -0.0287511
+mesh[0] vertex [148] texCoord.x : 7.62938e-07
+mesh[0] vertex [148] texCoord.y : 0.0766854
+
+mesh[0] vertex [149] pos.x : -7.49999
+mesh[0] vertex [149] pos.y : -0.106528
+mesh[0] vertex [149] pos.z : -0.0318738
+mesh[0] vertex [149] texCoord.x : 3.81469e-07
+mesh[0] vertex [149] texCoord.y : 0.15693
+
+mesh[0] vertex [150] pos.x : -7.49999
+mesh[0] vertex [150] pos.y : -0.0812354
+mesh[0] vertex [150] pos.z : -0.0246249
+mesh[0] vertex [150] texCoord.x : 3.81469e-07
+mesh[0] vertex [150] texCoord.y : 0.151668
+
+mesh[0] vertex [151] pos.x : -7.49999
+mesh[0] vertex [151] pos.y : -0.0605044
+mesh[0] vertex [151] pos.z : -0.00842365
+mesh[0] vertex [151] texCoord.x : 3.81469e-07
+mesh[0] vertex [151] texCoord.y : 0.146406
+
+mesh[0] vertex [152] pos.x : -7.49999
+mesh[0] vertex [152] pos.y : -0.0471203
+mesh[0] vertex [152] pos.z : 0.0153104
+mesh[0] vertex [152] texCoord.x : 0
+mesh[0] vertex [152] texCoord.y : 0.140956
+
+mesh[0] vertex [153] pos.x : -7.49999
+mesh[0] vertex [153] pos.y : -0.0439977
+mesh[0] vertex [153] pos.z : 0.0423785
+mesh[0] vertex [153] texCoord.x : 3.81469e-07
+mesh[0] vertex [153] texCoord.y : 0.135506
+
+mesh[0] vertex [154] pos.x : -7.49999
+mesh[0] vertex [154] pos.y : -0.0512466
+mesh[0] vertex [154] pos.z : 0.067671
+mesh[0] vertex [154] texCoord.x : 3.81469e-07
+mesh[0] vertex [154] texCoord.y : 0.130244
+
+mesh[0] vertex [155] pos.x : -7.49999
+mesh[0] vertex [155] pos.y : -0.0674479
+mesh[0] vertex [155] pos.z : 0.0884021
+mesh[0] vertex [155] texCoord.x : 0
+mesh[0] vertex [155] texCoord.y : 0.124982
+
+mesh[0] vertex [156] pos.x : -7.49999
+mesh[0] vertex [156] pos.y : -0.091182
+mesh[0] vertex [156] pos.z : 0.101786
+mesh[0] vertex [156] texCoord.x : 0
+mesh[0] vertex [156] texCoord.y : 0.119532
+
+mesh[0] vertex [157] pos.x : -7.49999
+mesh[0] vertex [157] pos.y : -0.11825
+mesh[0] vertex [157] pos.z : 0.104909
+mesh[0] vertex [157] texCoord.x : 3.81469e-07
+mesh[0] vertex [157] texCoord.y : 0.114083
+
+mesh[0] vertex [158] pos.x : -7.49999
+mesh[0] vertex [158] pos.y : -0.143542
+mesh[0] vertex [158] pos.z : 0.0976599
+mesh[0] vertex [158] texCoord.x : 3.81469e-07
+mesh[0] vertex [158] texCoord.y : 0.108821
+
+mesh[0] vertex [159] pos.x : -7.49999
+mesh[0] vertex [159] pos.y : -0.164274
+mesh[0] vertex [159] pos.z : 0.0814587
+mesh[0] vertex [159] texCoord.x : 0
+mesh[0] vertex [159] texCoord.y : 0.103558
+
+mesh[0] vertex [160] pos.x : -2.49999
+mesh[0] vertex [160] pos.y : 0.177658
+mesh[0] vertex [160] pos.z : -0.0577246
+mesh[0] vertex [160] texCoord.x : 1
+mesh[0] vertex [160] texCoord.y : 0.140751
+
+mesh[0] vertex [161] pos.x : -2.49999
+mesh[0] vertex [161] pos.y : 0.18078
+mesh[0] vertex [161] pos.z : -0.0306564
+mesh[0] vertex [161] texCoord.x : 1
+mesh[0] vertex [161] texCoord.y : 0.135302
+
+mesh[0] vertex [162] pos.x : -2.49999
+mesh[0] vertex [162] pos.y : 0.173531
+mesh[0] vertex [162] pos.z : -0.00536393
+mesh[0] vertex [162] texCoord.x : 1
+mesh[0] vertex [162] texCoord.y : 0.130044
+
+mesh[0] vertex [163] pos.x : -2.49999
+mesh[0] vertex [163] pos.y : 0.15733
+mesh[0] vertex [163] pos.z : 0.0153672
+mesh[0] vertex [163] texCoord.x : 1
+mesh[0] vertex [163] texCoord.y : 0.124784
+
+mesh[0] vertex [164] pos.x : -2.49999
+mesh[0] vertex [164] pos.y : 0.133596
+mesh[0] vertex [164] pos.z : 0.0287511
+mesh[0] vertex [164] texCoord.x : 1
+mesh[0] vertex [164] texCoord.y : 0.119336
+
+mesh[0] vertex [165] pos.x : -2.49999
+mesh[0] vertex [165] pos.y : 0.106528
+mesh[0] vertex [165] pos.z : 0.0318738
+mesh[0] vertex [165] texCoord.x : 1
+mesh[0] vertex [165] texCoord.y : 0.113888
+
+mesh[0] vertex [166] pos.x : -2.49999
+mesh[0] vertex [166] pos.y : 0.0812354
+mesh[0] vertex [166] pos.z : 0.0246249
+mesh[0] vertex [166] texCoord.x : 1
+mesh[0] vertex [166] texCoord.y : 0.108629
+
+mesh[0] vertex [167] pos.x : -2.49999
+mesh[0] vertex [167] pos.y : 0.0605042
+mesh[0] vertex [167] pos.z : 0.00842365
+mesh[0] vertex [167] texCoord.x : 1
+mesh[0] vertex [167] texCoord.y : 0.10337
+
+mesh[0] vertex [168] pos.x : -2.49999
+mesh[0] vertex [168] pos.y : 0.0471204
+mesh[0] vertex [168] pos.z : -0.0153104
+mesh[0] vertex [168] texCoord.x : 1
+mesh[0] vertex [168] texCoord.y : 0.0979217
+
+mesh[0] vertex [169] pos.x : -2.49999
+mesh[0] vertex [169] pos.y : 0.0439978
+mesh[0] vertex [169] pos.z : -0.0423785
+mesh[0] vertex [169] texCoord.x : 1
+mesh[0] vertex [169] texCoord.y : 0.0924734
+
+mesh[0] vertex [170] pos.x : -2.49999
+mesh[0] vertex [170] pos.y : 0.0512467
+mesh[0] vertex [170] pos.z : -0.067671
+mesh[0] vertex [170] texCoord.x : 1
+mesh[0] vertex [170] texCoord.y : 0.0872144
+
+mesh[0] vertex [171] pos.x : -2.49999
+mesh[0] vertex [171] pos.y : 0.0674479
+mesh[0] vertex [171] pos.z : -0.0884021
+mesh[0] vertex [171] texCoord.x : 1
+mesh[0] vertex [171] texCoord.y : 0.0819554
+
+mesh[0] vertex [172] pos.x : -2.49999
+mesh[0] vertex [172] pos.y : 0.091182
+mesh[0] vertex [172] pos.z : -0.101786
+mesh[0] vertex [172] texCoord.x : 1
+mesh[0] vertex [172] texCoord.y : 0.0765071
+
+mesh[0] vertex [173] pos.x : -2.49999
+mesh[0] vertex [173] pos.y : 0.11825
+mesh[0] vertex [173] pos.z : -0.104909
+mesh[0] vertex [173] texCoord.x : 1
+mesh[0] vertex [173] texCoord.y : 0.156717
+
+mesh[0] vertex [174] pos.x : -2.49999
+mesh[0] vertex [174] pos.y : 0.143543
+mesh[0] vertex [174] pos.z : -0.0976599
+mesh[0] vertex [174] texCoord.x : 1
+mesh[0] vertex [174] texCoord.y : 0.151458
+
+mesh[0] vertex [175] pos.x : -2.49999
+mesh[0] vertex [175] pos.y : 0.164274
+mesh[0] vertex [175] pos.z : -0.0814586
+mesh[0] vertex [175] texCoord.x : 1
+mesh[0] vertex [175] texCoord.y : 0.146199
+
+mesh[0] vertex [176] pos.x : -7.49999
+mesh[0] vertex [176] pos.y : 0.177658
+mesh[0] vertex [176] pos.z : -0.0577246
+mesh[0] vertex [176] texCoord.x : 3.81469e-07
+mesh[0] vertex [176] texCoord.y : 0.140762
+
+mesh[0] vertex [177] pos.x : -7.49999
+mesh[0] vertex [177] pos.y : 0.18078
+mesh[0] vertex [177] pos.z : -0.0306564
+mesh[0] vertex [177] texCoord.x : 3.81469e-07
+mesh[0] vertex [177] texCoord.y : 0.135312
+
+mesh[0] vertex [178] pos.x : -7.49999
+mesh[0] vertex [178] pos.y : 0.173531
+mesh[0] vertex [178] pos.z : -0.00536393
+mesh[0] vertex [178] texCoord.x : 3.81469e-07
+mesh[0] vertex [178] texCoord.y : 0.13005
+
+mesh[0] vertex [179] pos.x : -7.49999
+mesh[0] vertex [179] pos.y : 0.15733
+mesh[0] vertex [179] pos.z : 0.0153672
+mesh[0] vertex [179] texCoord.x : 0
+mesh[0] vertex [179] texCoord.y : 0.124788
+
+mesh[0] vertex [180] pos.x : -7.49999
+mesh[0] vertex [180] pos.y : 0.133596
+mesh[0] vertex [180] pos.z : 0.0287511
+mesh[0] vertex [180] texCoord.x : 0
+mesh[0] vertex [180] texCoord.y : 0.119338
+
+mesh[0] vertex [181] pos.x : -7.49999
+mesh[0] vertex [181] pos.y : 0.106528
+mesh[0] vertex [181] pos.z : 0.0318738
+mesh[0] vertex [181] texCoord.x : 3.81469e-07
+mesh[0] vertex [181] texCoord.y : 0.113889
+
+mesh[0] vertex [182] pos.x : -7.49999
+mesh[0] vertex [182] pos.y : 0.0812354
+mesh[0] vertex [182] pos.z : 0.0246249
+mesh[0] vertex [182] texCoord.x : 3.81469e-07
+mesh[0] vertex [182] texCoord.y : 0.108627
+
+mesh[0] vertex [183] pos.x : -7.49999
+mesh[0] vertex [183] pos.y : 0.0605042
+mesh[0] vertex [183] pos.z : 0.00842365
+mesh[0] vertex [183] texCoord.x : 3.81469e-07
+mesh[0] vertex [183] texCoord.y : 0.103364
+
+mesh[0] vertex [184] pos.x : -7.49999
+mesh[0] vertex [184] pos.y : 0.0471204
+mesh[0] vertex [184] pos.z : -0.0153104
+mesh[0] vertex [184] texCoord.x : 3.81469e-07
+mesh[0] vertex [184] texCoord.y : 0.0979148
+
+mesh[0] vertex [185] pos.x : -7.49999
+mesh[0] vertex [185] pos.y : 0.0439978
+mesh[0] vertex [185] pos.z : -0.0423785
+mesh[0] vertex [185] texCoord.x : 7.62938e-07
+mesh[0] vertex [185] texCoord.y : 0.0924653
+
+mesh[0] vertex [186] pos.x : -7.49999
+mesh[0] vertex [186] pos.y : 0.0512467
+mesh[0] vertex [186] pos.z : -0.067671
+mesh[0] vertex [186] texCoord.x : 3.81469e-07
+mesh[0] vertex [186] texCoord.y : 0.0872031
+
+mesh[0] vertex [187] pos.x : -7.49999
+mesh[0] vertex [187] pos.y : 0.0674479
+mesh[0] vertex [187] pos.z : -0.0884021
+mesh[0] vertex [187] texCoord.x : 3.81469e-07
+mesh[0] vertex [187] texCoord.y : 0.0819409
+
+mesh[0] vertex [188] pos.x : -7.49999
+mesh[0] vertex [188] pos.y : 0.091182
+mesh[0] vertex [188] pos.z : -0.101786
+mesh[0] vertex [188] texCoord.x : 7.62938e-07
+mesh[0] vertex [188] texCoord.y : 0.0764913
+
+mesh[0] vertex [189] pos.x : -7.49999
+mesh[0] vertex [189] pos.y : 0.11825
+mesh[0] vertex [189] pos.z : -0.104909
+mesh[0] vertex [189] texCoord.x : 3.81469e-07
+mesh[0] vertex [189] texCoord.y : 0.156736
+
+mesh[0] vertex [190] pos.x : -7.49999
+mesh[0] vertex [190] pos.y : 0.143543
+mesh[0] vertex [190] pos.z : -0.0976599
+mesh[0] vertex [190] texCoord.x : 3.81469e-07
+mesh[0] vertex [190] texCoord.y : 0.151474
+
+mesh[0] vertex [191] pos.x : -7.49999
+mesh[0] vertex [191] pos.y : 0.164274
+mesh[0] vertex [191] pos.z : -0.0814586
+mesh[0] vertex [191] texCoord.x : 3.81469e-07
+mesh[0] vertex [191] texCoord.y : 0.146212
+
+mesh[0] vertex [192] pos.x : 2.50001
+mesh[0] vertex [192] pos.y : -0.177658
+mesh[0] vertex [192] pos.z : 0.0577246
+mesh[0] vertex [192] texCoord.x : 1
+mesh[0] vertex [192] texCoord.y : 0.0981157
+
+mesh[0] vertex [193] pos.x : 2.50001
+mesh[0] vertex [193] pos.y : -0.18078
+mesh[0] vertex [193] pos.z : 0.0306565
+mesh[0] vertex [193] texCoord.x : 0.999999
+mesh[0] vertex [193] texCoord.y : 0.0926675
+
+mesh[0] vertex [194] pos.x : 2.50001
+mesh[0] vertex [194] pos.y : -0.173531
+mesh[0] vertex [194] pos.z : 0.00536398
+mesh[0] vertex [194] texCoord.x : 1
+mesh[0] vertex [194] texCoord.y : 0.0874085
+
+mesh[0] vertex [195] pos.x : 2.50001
+mesh[0] vertex [195] pos.y : -0.15733
+mesh[0] vertex [195] pos.z : -0.0153671
+mesh[0] vertex [195] texCoord.x : 1
+mesh[0] vertex [195] texCoord.y : 0.0821495
+
+mesh[0] vertex [196] pos.x : 2.50001
+mesh[0] vertex [196] pos.y : -0.133596
+mesh[0] vertex [196] pos.z : -0.0287511
+mesh[0] vertex [196] texCoord.x : 1
+mesh[0] vertex [196] texCoord.y : 0.0767012
+
+mesh[0] vertex [197] pos.x : 2.50001
+mesh[0] vertex [197] pos.y : -0.106528
+mesh[0] vertex [197] pos.z : -0.0318738
+mesh[0] vertex [197] texCoord.x : 1
+mesh[0] vertex [197] texCoord.y : 0.156911
+
+mesh[0] vertex [198] pos.x : 2.50001
+mesh[0] vertex [198] pos.y : -0.0812354
+mesh[0] vertex [198] pos.z : -0.0246249
+mesh[0] vertex [198] texCoord.x : 1
+mesh[0] vertex [198] texCoord.y : 0.151652
+
+mesh[0] vertex [199] pos.x : 2.50001
+mesh[0] vertex [199] pos.y : -0.0605044
+mesh[0] vertex [199] pos.z : -0.00842365
+mesh[0] vertex [199] texCoord.x : 1
+mesh[0] vertex [199] texCoord.y : 0.146393
+
+mesh[0] vertex [200] pos.x : 2.50001
+mesh[0] vertex [200] pos.y : -0.0471203
+mesh[0] vertex [200] pos.z : 0.0153104
+mesh[0] vertex [200] texCoord.x : 1
+mesh[0] vertex [200] texCoord.y : 0.140945
+
+mesh[0] vertex [201] pos.x : 2.50001
+mesh[0] vertex [201] pos.y : -0.0439977
+mesh[0] vertex [201] pos.z : 0.0423785
+mesh[0] vertex [201] texCoord.x : 1
+mesh[0] vertex [201] texCoord.y : 0.135497
+
+mesh[0] vertex [202] pos.x : 2.50001
+mesh[0] vertex [202] pos.y : -0.0512466
+mesh[0] vertex [202] pos.z : 0.067671
+mesh[0] vertex [202] texCoord.x : 0.999999
+mesh[0] vertex [202] texCoord.y : 0.130238
+
+mesh[0] vertex [203] pos.x : 2.50001
+mesh[0] vertex [203] pos.y : -0.0674479
+mesh[0] vertex [203] pos.z : 0.0884021
+mesh[0] vertex [203] texCoord.x : 1
+mesh[0] vertex [203] texCoord.y : 0.124979
+
+mesh[0] vertex [204] pos.x : 2.50001
+mesh[0] vertex [204] pos.y : -0.091182
+mesh[0] vertex [204] pos.z : 0.101786
+mesh[0] vertex [204] texCoord.x : 1
+mesh[0] vertex [204] texCoord.y : 0.11953
+
+mesh[0] vertex [205] pos.x : 2.50001
+mesh[0] vertex [205] pos.y : -0.11825
+mesh[0] vertex [205] pos.z : 0.104909
+mesh[0] vertex [205] texCoord.x : 1
+mesh[0] vertex [205] texCoord.y : 0.114082
+
+mesh[0] vertex [206] pos.x : 2.50001
+mesh[0] vertex [206] pos.y : -0.143542
+mesh[0] vertex [206] pos.z : 0.0976599
+mesh[0] vertex [206] texCoord.x : 0.999999
+mesh[0] vertex [206] texCoord.y : 0.108823
+
+mesh[0] vertex [207] pos.x : 2.50001
+mesh[0] vertex [207] pos.y : -0.164274
+mesh[0] vertex [207] pos.z : 0.0814587
+mesh[0] vertex [207] texCoord.x : 1
+mesh[0] vertex [207] texCoord.y : 0.103564
+
+mesh[0] vertex [208] pos.x : -2.49999
+mesh[0] vertex [208] pos.y : -0.177658
+mesh[0] vertex [208] pos.z : 0.0577246
+mesh[0] vertex [208] texCoord.x : 3.81469e-07
+mesh[0] vertex [208] texCoord.y : 0.0981089
+
+mesh[0] vertex [209] pos.x : -2.49999
+mesh[0] vertex [209] pos.y : -0.18078
+mesh[0] vertex [209] pos.z : 0.0306565
+mesh[0] vertex [209] texCoord.x : 3.81469e-07
+mesh[0] vertex [209] texCoord.y : 0.0926593
+
+mesh[0] vertex [210] pos.x : -2.49999
+mesh[0] vertex [210] pos.y : -0.173531
+mesh[0] vertex [210] pos.z : 0.00536398
+mesh[0] vertex [210] texCoord.x : 3.81469e-07
+mesh[0] vertex [210] texCoord.y : 0.0873971
+
+mesh[0] vertex [211] pos.x : -2.49999
+mesh[0] vertex [211] pos.y : -0.15733
+mesh[0] vertex [211] pos.z : -0.0153671
+mesh[0] vertex [211] texCoord.x : 3.81469e-07
+mesh[0] vertex [211] texCoord.y : 0.082135
+
+mesh[0] vertex [212] pos.x : -2.49999
+mesh[0] vertex [212] pos.y : -0.133596
+mesh[0] vertex [212] pos.z : -0.0287511
+mesh[0] vertex [212] texCoord.x : 7.62938e-07
+mesh[0] vertex [212] texCoord.y : 0.0766854
+
+mesh[0] vertex [213] pos.x : -2.49999
+mesh[0] vertex [213] pos.y : -0.106528
+mesh[0] vertex [213] pos.z : -0.0318738
+mesh[0] vertex [213] texCoord.x : 3.81469e-07
+mesh[0] vertex [213] texCoord.y : 0.15693
+
+mesh[0] vertex [214] pos.x : -2.49999
+mesh[0] vertex [214] pos.y : -0.0812354
+mesh[0] vertex [214] pos.z : -0.0246249
+mesh[0] vertex [214] texCoord.x : 3.81469e-07
+mesh[0] vertex [214] texCoord.y : 0.151668
+
+mesh[0] vertex [215] pos.x : -2.49999
+mesh[0] vertex [215] pos.y : -0.0605044
+mesh[0] vertex [215] pos.z : -0.00842365
+mesh[0] vertex [215] texCoord.x : 3.81469e-07
+mesh[0] vertex [215] texCoord.y : 0.146406
+
+mesh[0] vertex [216] pos.x : -2.49999
+mesh[0] vertex [216] pos.y : -0.0471203
+mesh[0] vertex [216] pos.z : 0.0153104
+mesh[0] vertex [216] texCoord.x : 0
+mesh[0] vertex [216] texCoord.y : 0.140956
+
+mesh[0] vertex [217] pos.x : -2.49999
+mesh[0] vertex [217] pos.y : -0.0439977
+mesh[0] vertex [217] pos.z : 0.0423785
+mesh[0] vertex [217] texCoord.x : 3.81469e-07
+mesh[0] vertex [217] texCoord.y : 0.135506
+
+mesh[0] vertex [218] pos.x : -2.49999
+mesh[0] vertex [218] pos.y : -0.0512466
+mesh[0] vertex [218] pos.z : 0.067671
+mesh[0] vertex [218] texCoord.x : 3.81469e-07
+mesh[0] vertex [218] texCoord.y : 0.130244
+
+mesh[0] vertex [219] pos.x : -2.49999
+mesh[0] vertex [219] pos.y : -0.0674479
+mesh[0] vertex [219] pos.z : 0.0884021
+mesh[0] vertex [219] texCoord.x : 0
+mesh[0] vertex [219] texCoord.y : 0.124982
+
+mesh[0] vertex [220] pos.x : -2.49999
+mesh[0] vertex [220] pos.y : -0.091182
+mesh[0] vertex [220] pos.z : 0.101786
+mesh[0] vertex [220] texCoord.x : 0
+mesh[0] vertex [220] texCoord.y : 0.119532
+
+mesh[0] vertex [221] pos.x : -2.49999
+mesh[0] vertex [221] pos.y : -0.11825
+mesh[0] vertex [221] pos.z : 0.104909
+mesh[0] vertex [221] texCoord.x : 3.81469e-07
+mesh[0] vertex [221] texCoord.y : 0.114083
+
+mesh[0] vertex [222] pos.x : -2.49999
+mesh[0] vertex [222] pos.y : -0.143542
+mesh[0] vertex [222] pos.z : 0.0976599
+mesh[0] vertex [222] texCoord.x : 3.81469e-07
+mesh[0] vertex [222] texCoord.y : 0.108821
+
+mesh[0] vertex [223] pos.x : -2.49999
+mesh[0] vertex [223] pos.y : -0.164274
+mesh[0] vertex [223] pos.z : 0.0814587
+mesh[0] vertex [223] texCoord.x : 0
+mesh[0] vertex [223] texCoord.y : 0.103558
+
+mesh[0] vertex [224] pos.x : 2.50001
+mesh[0] vertex [224] pos.y : 0.177658
+mesh[0] vertex [224] pos.z : -0.0577246
+mesh[0] vertex [224] texCoord.x : 1
+mesh[0] vertex [224] texCoord.y : 0.140751
+
+mesh[0] vertex [225] pos.x : 2.50001
+mesh[0] vertex [225] pos.y : 0.18078
+mesh[0] vertex [225] pos.z : -0.0306564
+mesh[0] vertex [225] texCoord.x : 1
+mesh[0] vertex [225] texCoord.y : 0.135302
+
+mesh[0] vertex [226] pos.x : 2.50001
+mesh[0] vertex [226] pos.y : 0.173531
+mesh[0] vertex [226] pos.z : -0.00536393
+mesh[0] vertex [226] texCoord.x : 1
+mesh[0] vertex [226] texCoord.y : 0.130044
+
+mesh[0] vertex [227] pos.x : 2.50001
+mesh[0] vertex [227] pos.y : 0.15733
+mesh[0] vertex [227] pos.z : 0.0153672
+mesh[0] vertex [227] texCoord.x : 1
+mesh[0] vertex [227] texCoord.y : 0.124784
+
+mesh[0] vertex [228] pos.x : 2.50001
+mesh[0] vertex [228] pos.y : 0.133596
+mesh[0] vertex [228] pos.z : 0.0287511
+mesh[0] vertex [228] texCoord.x : 1
+mesh[0] vertex [228] texCoord.y : 0.119336
+
+mesh[0] vertex [229] pos.x : 2.50001
+mesh[0] vertex [229] pos.y : 0.106528
+mesh[0] vertex [229] pos.z : 0.0318738
+mesh[0] vertex [229] texCoord.x : 1
+mesh[0] vertex [229] texCoord.y : 0.113888
+
+mesh[0] vertex [230] pos.x : 2.50001
+mesh[0] vertex [230] pos.y : 0.0812354
+mesh[0] vertex [230] pos.z : 0.0246249
+mesh[0] vertex [230] texCoord.x : 1
+mesh[0] vertex [230] texCoord.y : 0.108629
+
+mesh[0] vertex [231] pos.x : 2.50001
+mesh[0] vertex [231] pos.y : 0.0605042
+mesh[0] vertex [231] pos.z : 0.00842365
+mesh[0] vertex [231] texCoord.x : 1
+mesh[0] vertex [231] texCoord.y : 0.10337
+
+mesh[0] vertex [232] pos.x : 2.50001
+mesh[0] vertex [232] pos.y : 0.0471204
+mesh[0] vertex [232] pos.z : -0.0153104
+mesh[0] vertex [232] texCoord.x : 1
+mesh[0] vertex [232] texCoord.y : 0.0979217
+
+mesh[0] vertex [233] pos.x : 2.50001
+mesh[0] vertex [233] pos.y : 0.0439978
+mesh[0] vertex [233] pos.z : -0.0423785
+mesh[0] vertex [233] texCoord.x : 1
+mesh[0] vertex [233] texCoord.y : 0.0924734
+
+mesh[0] vertex [234] pos.x : 2.50001
+mesh[0] vertex [234] pos.y : 0.0512467
+mesh[0] vertex [234] pos.z : -0.067671
+mesh[0] vertex [234] texCoord.x : 1
+mesh[0] vertex [234] texCoord.y : 0.0872144
+
+mesh[0] vertex [235] pos.x : 2.50001
+mesh[0] vertex [235] pos.y : 0.0674479
+mesh[0] vertex [235] pos.z : -0.0884021
+mesh[0] vertex [235] texCoord.x : 1
+mesh[0] vertex [235] texCoord.y : 0.0819554
+
+mesh[0] vertex [236] pos.x : 2.50001
+mesh[0] vertex [236] pos.y : 0.091182
+mesh[0] vertex [236] pos.z : -0.101786
+mesh[0] vertex [236] texCoord.x : 1
+mesh[0] vertex [236] texCoord.y : 0.0765071
+
+mesh[0] vertex [237] pos.x : 2.50001
+mesh[0] vertex [237] pos.y : 0.11825
+mesh[0] vertex [237] pos.z : -0.104909
+mesh[0] vertex [237] texCoord.x : 1
+mesh[0] vertex [237] texCoord.y : 0.156717
+
+mesh[0] vertex [238] pos.x : 2.50001
+mesh[0] vertex [238] pos.y : 0.143543
+mesh[0] vertex [238] pos.z : -0.0976599
+mesh[0] vertex [238] texCoord.x : 1
+mesh[0] vertex [238] texCoord.y : 0.151458
+
+mesh[0] vertex [239] pos.x : 2.50001
+mesh[0] vertex [239] pos.y : 0.164274
+mesh[0] vertex [239] pos.z : -0.0814586
+mesh[0] vertex [239] texCoord.x : 1
+mesh[0] vertex [239] texCoord.y : 0.146199
+
+mesh[0] vertex [240] pos.x : -2.49999
+mesh[0] vertex [240] pos.y : 0.177658
+mesh[0] vertex [240] pos.z : -0.0577246
+mesh[0] vertex [240] texCoord.x : 3.81469e-07
+mesh[0] vertex [240] texCoord.y : 0.140762
+
+mesh[0] vertex [241] pos.x : -2.49999
+mesh[0] vertex [241] pos.y : 0.18078
+mesh[0] vertex [241] pos.z : -0.0306564
+mesh[0] vertex [241] texCoord.x : 3.81469e-07
+mesh[0] vertex [241] texCoord.y : 0.135312
+
+mesh[0] vertex [242] pos.x : -2.49999
+mesh[0] vertex [242] pos.y : 0.173531
+mesh[0] vertex [242] pos.z : -0.00536393
+mesh[0] vertex [242] texCoord.x : 3.81469e-07
+mesh[0] vertex [242] texCoord.y : 0.13005
+
+mesh[0] vertex [243] pos.x : -2.49999
+mesh[0] vertex [243] pos.y : 0.15733
+mesh[0] vertex [243] pos.z : 0.0153672
+mesh[0] vertex [243] texCoord.x : 0
+mesh[0] vertex [243] texCoord.y : 0.124788
+
+mesh[0] vertex [244] pos.x : -2.49999
+mesh[0] vertex [244] pos.y : 0.133596
+mesh[0] vertex [244] pos.z : 0.0287511
+mesh[0] vertex [244] texCoord.x : 0
+mesh[0] vertex [244] texCoord.y : 0.119338
+
+mesh[0] vertex [245] pos.x : -2.49999
+mesh[0] vertex [245] pos.y : 0.106528
+mesh[0] vertex [245] pos.z : 0.0318738
+mesh[0] vertex [245] texCoord.x : 3.81469e-07
+mesh[0] vertex [245] texCoord.y : 0.113889
+
+mesh[0] vertex [246] pos.x : -2.49999
+mesh[0] vertex [246] pos.y : 0.0812354
+mesh[0] vertex [246] pos.z : 0.0246249
+mesh[0] vertex [246] texCoord.x : 3.81469e-07
+mesh[0] vertex [246] texCoord.y : 0.108627
+
+mesh[0] vertex [247] pos.x : -2.49999
+mesh[0] vertex [247] pos.y : 0.0605042
+mesh[0] vertex [247] pos.z : 0.00842365
+mesh[0] vertex [247] texCoord.x : 3.81469e-07
+mesh[0] vertex [247] texCoord.y : 0.103364
+
+mesh[0] vertex [248] pos.x : -2.49999
+mesh[0] vertex [248] pos.y : 0.0471204
+mesh[0] vertex [248] pos.z : -0.0153104
+mesh[0] vertex [248] texCoord.x : 3.81469e-07
+mesh[0] vertex [248] texCoord.y : 0.0979148
+
+mesh[0] vertex [249] pos.x : -2.49999
+mesh[0] vertex [249] pos.y : 0.0439978
+mesh[0] vertex [249] pos.z : -0.0423785
+mesh[0] vertex [249] texCoord.x : 7.62938e-07
+mesh[0] vertex [249] texCoord.y : 0.0924653
+
+mesh[0] vertex [250] pos.x : -2.49999
+mesh[0] vertex [250] pos.y : 0.0512467
+mesh[0] vertex [250] pos.z : -0.067671
+mesh[0] vertex [250] texCoord.x : 3.81469e-07
+mesh[0] vertex [250] texCoord.y : 0.0872031
+
+mesh[0] vertex [251] pos.x : -2.49999
+mesh[0] vertex [251] pos.y : 0.0674479
+mesh[0] vertex [251] pos.z : -0.0884021
+mesh[0] vertex [251] texCoord.x : 3.81469e-07
+mesh[0] vertex [251] texCoord.y : 0.0819409
+
+mesh[0] vertex [252] pos.x : -2.49999
+mesh[0] vertex [252] pos.y : 0.091182
+mesh[0] vertex [252] pos.z : -0.101786
+mesh[0] vertex [252] texCoord.x : 7.62938e-07
+mesh[0] vertex [252] texCoord.y : 0.0764913
+
+mesh[0] vertex [253] pos.x : -2.49999
+mesh[0] vertex [253] pos.y : 0.11825
+mesh[0] vertex [253] pos.z : -0.104909
+mesh[0] vertex [253] texCoord.x : 3.81469e-07
+mesh[0] vertex [253] texCoord.y : 0.156736
+
+mesh[0] vertex [254] pos.x : -2.49999
+mesh[0] vertex [254] pos.y : 0.143543
+mesh[0] vertex [254] pos.z : -0.0976599
+mesh[0] vertex [254] texCoord.x : 3.81469e-07
+mesh[0] vertex [254] texCoord.y : 0.151474
+
+mesh[0] vertex [255] pos.x : -2.49999
+mesh[0] vertex [255] pos.y : 0.164274
+mesh[0] vertex [255] pos.z : -0.0814586
+mesh[0] vertex [255] texCoord.x : 3.81469e-07
+mesh[0] vertex [255] texCoord.y : 0.146212
+
+mesh[0] vertex [256] pos.x : 7.50001
+mesh[0] vertex [256] pos.y : -0.177658
+mesh[0] vertex [256] pos.z : 0.0577246
+mesh[0] vertex [256] texCoord.x : 1
+mesh[0] vertex [256] texCoord.y : 0.0981157
+
+mesh[0] vertex [257] pos.x : 7.50001
+mesh[0] vertex [257] pos.y : -0.18078
+mesh[0] vertex [257] pos.z : 0.0306565
+mesh[0] vertex [257] texCoord.x : 0.999999
+mesh[0] vertex [257] texCoord.y : 0.0926675
+
+mesh[0] vertex [258] pos.x : 7.50001
+mesh[0] vertex [258] pos.y : -0.173531
+mesh[0] vertex [258] pos.z : 0.00536398
+mesh[0] vertex [258] texCoord.x : 1
+mesh[0] vertex [258] texCoord.y : 0.0874085
+
+mesh[0] vertex [259] pos.x : 7.50001
+mesh[0] vertex [259] pos.y : -0.15733
+mesh[0] vertex [259] pos.z : -0.0153671
+mesh[0] vertex [259] texCoord.x : 1
+mesh[0] vertex [259] texCoord.y : 0.0821495
+
+mesh[0] vertex [260] pos.x : 7.50001
+mesh[0] vertex [260] pos.y : -0.133596
+mesh[0] vertex [260] pos.z : -0.0287511
+mesh[0] vertex [260] texCoord.x : 1
+mesh[0] vertex [260] texCoord.y : 0.0767012
+
+mesh[0] vertex [261] pos.x : 7.50001
+mesh[0] vertex [261] pos.y : -0.106528
+mesh[0] vertex [261] pos.z : -0.0318738
+mesh[0] vertex [261] texCoord.x : 1
+mesh[0] vertex [261] texCoord.y : 0.156911
+
+mesh[0] vertex [262] pos.x : 7.50001
+mesh[0] vertex [262] pos.y : -0.0812354
+mesh[0] vertex [262] pos.z : -0.0246249
+mesh[0] vertex [262] texCoord.x : 1
+mesh[0] vertex [262] texCoord.y : 0.151652
+
+mesh[0] vertex [263] pos.x : 7.50001
+mesh[0] vertex [263] pos.y : -0.0605044
+mesh[0] vertex [263] pos.z : -0.00842365
+mesh[0] vertex [263] texCoord.x : 1
+mesh[0] vertex [263] texCoord.y : 0.146393
+
+mesh[0] vertex [264] pos.x : 7.50001
+mesh[0] vertex [264] pos.y : -0.0471203
+mesh[0] vertex [264] pos.z : 0.0153104
+mesh[0] vertex [264] texCoord.x : 1
+mesh[0] vertex [264] texCoord.y : 0.140945
+
+mesh[0] vertex [265] pos.x : 7.50001
+mesh[0] vertex [265] pos.y : -0.0439977
+mesh[0] vertex [265] pos.z : 0.0423785
+mesh[0] vertex [265] texCoord.x : 1
+mesh[0] vertex [265] texCoord.y : 0.135497
+
+mesh[0] vertex [266] pos.x : 7.50001
+mesh[0] vertex [266] pos.y : -0.0512466
+mesh[0] vertex [266] pos.z : 0.067671
+mesh[0] vertex [266] texCoord.x : 0.999999
+mesh[0] vertex [266] texCoord.y : 0.130238
+
+mesh[0] vertex [267] pos.x : 7.50001
+mesh[0] vertex [267] pos.y : -0.0674479
+mesh[0] vertex [267] pos.z : 0.0884021
+mesh[0] vertex [267] texCoord.x : 1
+mesh[0] vertex [267] texCoord.y : 0.124979
+
+mesh[0] vertex [268] pos.x : 7.50001
+mesh[0] vertex [268] pos.y : -0.091182
+mesh[0] vertex [268] pos.z : 0.101786
+mesh[0] vertex [268] texCoord.x : 1
+mesh[0] vertex [268] texCoord.y : 0.11953
+
+mesh[0] vertex [269] pos.x : 7.50001
+mesh[0] vertex [269] pos.y : -0.11825
+mesh[0] vertex [269] pos.z : 0.104909
+mesh[0] vertex [269] texCoord.x : 1
+mesh[0] vertex [269] texCoord.y : 0.114082
+
+mesh[0] vertex [270] pos.x : 7.50001
+mesh[0] vertex [270] pos.y : -0.143542
+mesh[0] vertex [270] pos.z : 0.0976599
+mesh[0] vertex [270] texCoord.x : 0.999999
+mesh[0] vertex [270] texCoord.y : 0.108823
+
+mesh[0] vertex [271] pos.x : 7.50001
+mesh[0] vertex [271] pos.y : -0.164274
+mesh[0] vertex [271] pos.z : 0.0814587
+mesh[0] vertex [271] texCoord.x : 1
+mesh[0] vertex [271] texCoord.y : 0.103564
+
+mesh[0] vertex [272] pos.x : 2.50001
+mesh[0] vertex [272] pos.y : -0.177658
+mesh[0] vertex [272] pos.z : 0.0577246
+mesh[0] vertex [272] texCoord.x : 3.81469e-07
+mesh[0] vertex [272] texCoord.y : 0.0981089
+
+mesh[0] vertex [273] pos.x : 2.50001
+mesh[0] vertex [273] pos.y : -0.18078
+mesh[0] vertex [273] pos.z : 0.0306565
+mesh[0] vertex [273] texCoord.x : 3.81469e-07
+mesh[0] vertex [273] texCoord.y : 0.0926593
+
+mesh[0] vertex [274] pos.x : 2.50001
+mesh[0] vertex [274] pos.y : -0.173531
+mesh[0] vertex [274] pos.z : 0.00536398
+mesh[0] vertex [274] texCoord.x : 3.81469e-07
+mesh[0] vertex [274] texCoord.y : 0.0873971
+
+mesh[0] vertex [275] pos.x : 2.50001
+mesh[0] vertex [275] pos.y : -0.15733
+mesh[0] vertex [275] pos.z : -0.0153671
+mesh[0] vertex [275] texCoord.x : 3.81469e-07
+mesh[0] vertex [275] texCoord.y : 0.082135
+
+mesh[0] vertex [276] pos.x : 2.50001
+mesh[0] vertex [276] pos.y : -0.133596
+mesh[0] vertex [276] pos.z : -0.0287511
+mesh[0] vertex [276] texCoord.x : 7.62938e-07
+mesh[0] vertex [276] texCoord.y : 0.0766854
+
+mesh[0] vertex [277] pos.x : 2.50001
+mesh[0] vertex [277] pos.y : -0.106528
+mesh[0] vertex [277] pos.z : -0.0318738
+mesh[0] vertex [277] texCoord.x : 3.81469e-07
+mesh[0] vertex [277] texCoord.y : 0.15693
+
+mesh[0] vertex [278] pos.x : 2.50001
+mesh[0] vertex [278] pos.y : -0.0812354
+mesh[0] vertex [278] pos.z : -0.0246249
+mesh[0] vertex [278] texCoord.x : 3.81469e-07
+mesh[0] vertex [278] texCoord.y : 0.151668
+
+mesh[0] vertex [279] pos.x : 2.50001
+mesh[0] vertex [279] pos.y : -0.0605044
+mesh[0] vertex [279] pos.z : -0.00842365
+mesh[0] vertex [279] texCoord.x : 3.81469e-07
+mesh[0] vertex [279] texCoord.y : 0.146406
+
+mesh[0] vertex [280] pos.x : 2.50001
+mesh[0] vertex [280] pos.y : -0.0471203
+mesh[0] vertex [280] pos.z : 0.0153104
+mesh[0] vertex [280] texCoord.x : 0
+mesh[0] vertex [280] texCoord.y : 0.140956
+
+mesh[0] vertex [281] pos.x : 2.50001
+mesh[0] vertex [281] pos.y : -0.0439977
+mesh[0] vertex [281] pos.z : 0.0423785
+mesh[0] vertex [281] texCoord.x : 3.81469e-07
+mesh[0] vertex [281] texCoord.y : 0.135506
+
+mesh[0] vertex [282] pos.x : 2.50001
+mesh[0] vertex [282] pos.y : -0.0512466
+mesh[0] vertex [282] pos.z : 0.067671
+mesh[0] vertex [282] texCoord.x : 3.81469e-07
+mesh[0] vertex [282] texCoord.y : 0.130244
+
+mesh[0] vertex [283] pos.x : 2.50001
+mesh[0] vertex [283] pos.y : -0.0674479
+mesh[0] vertex [283] pos.z : 0.0884021
+mesh[0] vertex [283] texCoord.x : 0
+mesh[0] vertex [283] texCoord.y : 0.124982
+
+mesh[0] vertex [284] pos.x : 2.50001
+mesh[0] vertex [284] pos.y : -0.091182
+mesh[0] vertex [284] pos.z : 0.101786
+mesh[0] vertex [284] texCoord.x : 0
+mesh[0] vertex [284] texCoord.y : 0.119532
+
+mesh[0] vertex [285] pos.x : 2.50001
+mesh[0] vertex [285] pos.y : -0.11825
+mesh[0] vertex [285] pos.z : 0.104909
+mesh[0] vertex [285] texCoord.x : 3.81469e-07
+mesh[0] vertex [285] texCoord.y : 0.114083
+
+mesh[0] vertex [286] pos.x : 2.50001
+mesh[0] vertex [286] pos.y : -0.143542
+mesh[0] vertex [286] pos.z : 0.0976599
+mesh[0] vertex [286] texCoord.x : 3.81469e-07
+mesh[0] vertex [286] texCoord.y : 0.108821
+
+mesh[0] vertex [287] pos.x : 2.50001
+mesh[0] vertex [287] pos.y : -0.164274
+mesh[0] vertex [287] pos.z : 0.0814587
+mesh[0] vertex [287] texCoord.x : 0
+mesh[0] vertex [287] texCoord.y : 0.103558
+
+mesh[0] vertex [288] pos.x : 7.50001
+mesh[0] vertex [288] pos.y : 0.177658
+mesh[0] vertex [288] pos.z : -0.0577246
+mesh[0] vertex [288] texCoord.x : 1
+mesh[0] vertex [288] texCoord.y : 0.140751
+
+mesh[0] vertex [289] pos.x : 7.50001
+mesh[0] vertex [289] pos.y : 0.18078
+mesh[0] vertex [289] pos.z : -0.0306564
+mesh[0] vertex [289] texCoord.x : 1
+mesh[0] vertex [289] texCoord.y : 0.135302
+
+mesh[0] vertex [290] pos.x : 7.50001
+mesh[0] vertex [290] pos.y : 0.173531
+mesh[0] vertex [290] pos.z : -0.00536393
+mesh[0] vertex [290] texCoord.x : 1
+mesh[0] vertex [290] texCoord.y : 0.130044
+
+mesh[0] vertex [291] pos.x : 7.50001
+mesh[0] vertex [291] pos.y : 0.15733
+mesh[0] vertex [291] pos.z : 0.0153672
+mesh[0] vertex [291] texCoord.x : 1
+mesh[0] vertex [291] texCoord.y : 0.124784
+
+mesh[0] vertex [292] pos.x : 7.50001
+mesh[0] vertex [292] pos.y : 0.133596
+mesh[0] vertex [292] pos.z : 0.0287511
+mesh[0] vertex [292] texCoord.x : 1
+mesh[0] vertex [292] texCoord.y : 0.119336
+
+mesh[0] vertex [293] pos.x : 7.50001
+mesh[0] vertex [293] pos.y : 0.106528
+mesh[0] vertex [293] pos.z : 0.0318738
+mesh[0] vertex [293] texCoord.x : 1
+mesh[0] vertex [293] texCoord.y : 0.113888
+
+mesh[0] vertex [294] pos.x : 7.50001
+mesh[0] vertex [294] pos.y : 0.0812354
+mesh[0] vertex [294] pos.z : 0.0246249
+mesh[0] vertex [294] texCoord.x : 1
+mesh[0] vertex [294] texCoord.y : 0.108629
+
+mesh[0] vertex [295] pos.x : 7.50001
+mesh[0] vertex [295] pos.y : 0.0605042
+mesh[0] vertex [295] pos.z : 0.00842365
+mesh[0] vertex [295] texCoord.x : 1
+mesh[0] vertex [295] texCoord.y : 0.10337
+
+mesh[0] vertex [296] pos.x : 7.50001
+mesh[0] vertex [296] pos.y : 0.0471204
+mesh[0] vertex [296] pos.z : -0.0153104
+mesh[0] vertex [296] texCoord.x : 1
+mesh[0] vertex [296] texCoord.y : 0.0979217
+
+mesh[0] vertex [297] pos.x : 7.50001
+mesh[0] vertex [297] pos.y : 0.0439978
+mesh[0] vertex [297] pos.z : -0.0423785
+mesh[0] vertex [297] texCoord.x : 1
+mesh[0] vertex [297] texCoord.y : 0.0924734
+
+mesh[0] vertex [298] pos.x : 7.50001
+mesh[0] vertex [298] pos.y : 0.0512467
+mesh[0] vertex [298] pos.z : -0.067671
+mesh[0] vertex [298] texCoord.x : 1
+mesh[0] vertex [298] texCoord.y : 0.0872144
+
+mesh[0] vertex [299] pos.x : 7.50001
+mesh[0] vertex [299] pos.y : 0.0674479
+mesh[0] vertex [299] pos.z : -0.0884021
+mesh[0] vertex [299] texCoord.x : 1
+mesh[0] vertex [299] texCoord.y : 0.0819554
+
+mesh[0] vertex [300] pos.x : 7.50001
+mesh[0] vertex [300] pos.y : 0.091182
+mesh[0] vertex [300] pos.z : -0.101786
+mesh[0] vertex [300] texCoord.x : 1
+mesh[0] vertex [300] texCoord.y : 0.0765071
+
+mesh[0] vertex [301] pos.x : 7.50001
+mesh[0] vertex [301] pos.y : 0.11825
+mesh[0] vertex [301] pos.z : -0.104909
+mesh[0] vertex [301] texCoord.x : 1
+mesh[0] vertex [301] texCoord.y : 0.156717
+
+mesh[0] vertex [302] pos.x : 7.50001
+mesh[0] vertex [302] pos.y : 0.143543
+mesh[0] vertex [302] pos.z : -0.0976599
+mesh[0] vertex [302] texCoord.x : 1
+mesh[0] vertex [302] texCoord.y : 0.151458
+
+mesh[0] vertex [303] pos.x : 7.50001
+mesh[0] vertex [303] pos.y : 0.164274
+mesh[0] vertex [303] pos.z : -0.0814586
+mesh[0] vertex [303] texCoord.x : 1
+mesh[0] vertex [303] texCoord.y : 0.146199
+
+mesh[0] vertex [304] pos.x : 2.50001
+mesh[0] vertex [304] pos.y : 0.177658
+mesh[0] vertex [304] pos.z : -0.0577246
+mesh[0] vertex [304] texCoord.x : 3.81469e-07
+mesh[0] vertex [304] texCoord.y : 0.140762
+
+mesh[0] vertex [305] pos.x : 2.50001
+mesh[0] vertex [305] pos.y : 0.18078
+mesh[0] vertex [305] pos.z : -0.0306564
+mesh[0] vertex [305] texCoord.x : 3.81469e-07
+mesh[0] vertex [305] texCoord.y : 0.135312
+
+mesh[0] vertex [306] pos.x : 2.50001
+mesh[0] vertex [306] pos.y : 0.173531
+mesh[0] vertex [306] pos.z : -0.00536393
+mesh[0] vertex [306] texCoord.x : 3.81469e-07
+mesh[0] vertex [306] texCoord.y : 0.13005
+
+mesh[0] vertex [307] pos.x : 2.50001
+mesh[0] vertex [307] pos.y : 0.15733
+mesh[0] vertex [307] pos.z : 0.0153672
+mesh[0] vertex [307] texCoord.x : 0
+mesh[0] vertex [307] texCoord.y : 0.124788
+
+mesh[0] vertex [308] pos.x : 2.50001
+mesh[0] vertex [308] pos.y : 0.133596
+mesh[0] vertex [308] pos.z : 0.0287511
+mesh[0] vertex [308] texCoord.x : 0
+mesh[0] vertex [308] texCoord.y : 0.119338
+
+mesh[0] vertex [309] pos.x : 2.50001
+mesh[0] vertex [309] pos.y : 0.106528
+mesh[0] vertex [309] pos.z : 0.0318738
+mesh[0] vertex [309] texCoord.x : 3.81469e-07
+mesh[0] vertex [309] texCoord.y : 0.113889
+
+mesh[0] vertex [310] pos.x : 2.50001
+mesh[0] vertex [310] pos.y : 0.0812354
+mesh[0] vertex [310] pos.z : 0.0246249
+mesh[0] vertex [310] texCoord.x : 3.81469e-07
+mesh[0] vertex [310] texCoord.y : 0.108627
+
+mesh[0] vertex [311] pos.x : 2.50001
+mesh[0] vertex [311] pos.y : 0.0605042
+mesh[0] vertex [311] pos.z : 0.00842365
+mesh[0] vertex [311] texCoord.x : 3.81469e-07
+mesh[0] vertex [311] texCoord.y : 0.103364
+
+mesh[0] vertex [312] pos.x : 2.50001
+mesh[0] vertex [312] pos.y : 0.0471204
+mesh[0] vertex [312] pos.z : -0.0153104
+mesh[0] vertex [312] texCoord.x : 3.81469e-07
+mesh[0] vertex [312] texCoord.y : 0.0979148
+
+mesh[0] vertex [313] pos.x : 2.50001
+mesh[0] vertex [313] pos.y : 0.0439978
+mesh[0] vertex [313] pos.z : -0.0423785
+mesh[0] vertex [313] texCoord.x : 7.62938e-07
+mesh[0] vertex [313] texCoord.y : 0.0924653
+
+mesh[0] vertex [314] pos.x : 2.50001
+mesh[0] vertex [314] pos.y : 0.0512467
+mesh[0] vertex [314] pos.z : -0.067671
+mesh[0] vertex [314] texCoord.x : 3.81469e-07
+mesh[0] vertex [314] texCoord.y : 0.0872031
+
+mesh[0] vertex [315] pos.x : 2.50001
+mesh[0] vertex [315] pos.y : 0.0674479
+mesh[0] vertex [315] pos.z : -0.0884021
+mesh[0] vertex [315] texCoord.x : 3.81469e-07
+mesh[0] vertex [315] texCoord.y : 0.0819409
+
+mesh[0] vertex [316] pos.x : 2.50001
+mesh[0] vertex [316] pos.y : 0.091182
+mesh[0] vertex [316] pos.z : -0.101786
+mesh[0] vertex [316] texCoord.x : 7.62938e-07
+mesh[0] vertex [316] texCoord.y : 0.0764913
+
+mesh[0] vertex [317] pos.x : 2.50001
+mesh[0] vertex [317] pos.y : 0.11825
+mesh[0] vertex [317] pos.z : -0.104909
+mesh[0] vertex [317] texCoord.x : 3.81469e-07
+mesh[0] vertex [317] texCoord.y : 0.156736
+
+mesh[0] vertex [318] pos.x : 2.50001
+mesh[0] vertex [318] pos.y : 0.143543
+mesh[0] vertex [318] pos.z : -0.0976599
+mesh[0] vertex [318] texCoord.x : 3.81469e-07
+mesh[0] vertex [318] texCoord.y : 0.151474
+
+mesh[0] vertex [319] pos.x : 2.50001
+mesh[0] vertex [319] pos.y : 0.164274
+mesh[0] vertex [319] pos.z : -0.0814586
+mesh[0] vertex [319] texCoord.x : 3.81469e-07
+mesh[0] vertex [319] texCoord.y : 0.146212
+
+mesh[0] vertex [320] pos.x : 12.5
+mesh[0] vertex [320] pos.y : -0.177658
+mesh[0] vertex [320] pos.z : 0.0577246
+mesh[0] vertex [320] texCoord.x : 1
+mesh[0] vertex [320] texCoord.y : 0.0981157
+
+mesh[0] vertex [321] pos.x : 12.5
+mesh[0] vertex [321] pos.y : -0.18078
+mesh[0] vertex [321] pos.z : 0.0306565
+mesh[0] vertex [321] texCoord.x : 0.999999
+mesh[0] vertex [321] texCoord.y : 0.0926675
+
+mesh[0] vertex [322] pos.x : 12.5
+mesh[0] vertex [322] pos.y : -0.173531
+mesh[0] vertex [322] pos.z : 0.00536398
+mesh[0] vertex [322] texCoord.x : 1
+mesh[0] vertex [322] texCoord.y : 0.0874085
+
+mesh[0] vertex [323] pos.x : 12.5
+mesh[0] vertex [323] pos.y : -0.15733
+mesh[0] vertex [323] pos.z : -0.0153671
+mesh[0] vertex [323] texCoord.x : 1
+mesh[0] vertex [323] texCoord.y : 0.0821495
+
+mesh[0] vertex [324] pos.x : 12.5
+mesh[0] vertex [324] pos.y : -0.133596
+mesh[0] vertex [324] pos.z : -0.0287511
+mesh[0] vertex [324] texCoord.x : 1
+mesh[0] vertex [324] texCoord.y : 0.0767012
+
+mesh[0] vertex [325] pos.x : 12.5
+mesh[0] vertex [325] pos.y : -0.106528
+mesh[0] vertex [325] pos.z : -0.0318738
+mesh[0] vertex [325] texCoord.x : 1
+mesh[0] vertex [325] texCoord.y : 0.156911
+
+mesh[0] vertex [326] pos.x : 12.5
+mesh[0] vertex [326] pos.y : -0.0812354
+mesh[0] vertex [326] pos.z : -0.0246249
+mesh[0] vertex [326] texCoord.x : 1
+mesh[0] vertex [326] texCoord.y : 0.151652
+
+mesh[0] vertex [327] pos.x : 12.5
+mesh[0] vertex [327] pos.y : -0.0605044
+mesh[0] vertex [327] pos.z : -0.00842365
+mesh[0] vertex [327] texCoord.x : 1
+mesh[0] vertex [327] texCoord.y : 0.146393
+
+mesh[0] vertex [328] pos.x : 12.5
+mesh[0] vertex [328] pos.y : -0.0471203
+mesh[0] vertex [328] pos.z : 0.0153104
+mesh[0] vertex [328] texCoord.x : 1
+mesh[0] vertex [328] texCoord.y : 0.140945
+
+mesh[0] vertex [329] pos.x : 12.5
+mesh[0] vertex [329] pos.y : -0.0439977
+mesh[0] vertex [329] pos.z : 0.0423785
+mesh[0] vertex [329] texCoord.x : 1
+mesh[0] vertex [329] texCoord.y : 0.135497
+
+mesh[0] vertex [330] pos.x : 12.5
+mesh[0] vertex [330] pos.y : -0.0512466
+mesh[0] vertex [330] pos.z : 0.067671
+mesh[0] vertex [330] texCoord.x : 0.999999
+mesh[0] vertex [330] texCoord.y : 0.130238
+
+mesh[0] vertex [331] pos.x : 12.5
+mesh[0] vertex [331] pos.y : -0.0674479
+mesh[0] vertex [331] pos.z : 0.0884021
+mesh[0] vertex [331] texCoord.x : 1
+mesh[0] vertex [331] texCoord.y : 0.124979
+
+mesh[0] vertex [332] pos.x : 12.5
+mesh[0] vertex [332] pos.y : -0.091182
+mesh[0] vertex [332] pos.z : 0.101786
+mesh[0] vertex [332] texCoord.x : 1
+mesh[0] vertex [332] texCoord.y : 0.11953
+
+mesh[0] vertex [333] pos.x : 12.5
+mesh[0] vertex [333] pos.y : -0.11825
+mesh[0] vertex [333] pos.z : 0.104909
+mesh[0] vertex [333] texCoord.x : 1
+mesh[0] vertex [333] texCoord.y : 0.114082
+
+mesh[0] vertex [334] pos.x : 12.5
+mesh[0] vertex [334] pos.y : -0.143542
+mesh[0] vertex [334] pos.z : 0.0976599
+mesh[0] vertex [334] texCoord.x : 0.999999
+mesh[0] vertex [334] texCoord.y : 0.108823
+
+mesh[0] vertex [335] pos.x : 12.5
+mesh[0] vertex [335] pos.y : -0.164274
+mesh[0] vertex [335] pos.z : 0.0814587
+mesh[0] vertex [335] texCoord.x : 1
+mesh[0] vertex [335] texCoord.y : 0.103564
+
+mesh[0] vertex [336] pos.x : 7.50001
+mesh[0] vertex [336] pos.y : -0.177658
+mesh[0] vertex [336] pos.z : 0.0577246
+mesh[0] vertex [336] texCoord.x : 3.81469e-07
+mesh[0] vertex [336] texCoord.y : 0.0981089
+
+mesh[0] vertex [337] pos.x : 7.50001
+mesh[0] vertex [337] pos.y : -0.18078
+mesh[0] vertex [337] pos.z : 0.0306565
+mesh[0] vertex [337] texCoord.x : 3.81469e-07
+mesh[0] vertex [337] texCoord.y : 0.0926593
+
+mesh[0] vertex [338] pos.x : 7.50001
+mesh[0] vertex [338] pos.y : -0.173531
+mesh[0] vertex [338] pos.z : 0.00536398
+mesh[0] vertex [338] texCoord.x : 3.81469e-07
+mesh[0] vertex [338] texCoord.y : 0.0873971
+
+mesh[0] vertex [339] pos.x : 7.50001
+mesh[0] vertex [339] pos.y : -0.15733
+mesh[0] vertex [339] pos.z : -0.0153671
+mesh[0] vertex [339] texCoord.x : 3.81469e-07
+mesh[0] vertex [339] texCoord.y : 0.082135
+
+mesh[0] vertex [340] pos.x : 7.50001
+mesh[0] vertex [340] pos.y : -0.133596
+mesh[0] vertex [340] pos.z : -0.0287511
+mesh[0] vertex [340] texCoord.x : 7.62938e-07
+mesh[0] vertex [340] texCoord.y : 0.0766854
+
+mesh[0] vertex [341] pos.x : 7.50001
+mesh[0] vertex [341] pos.y : -0.106528
+mesh[0] vertex [341] pos.z : -0.0318738
+mesh[0] vertex [341] texCoord.x : 3.81469e-07
+mesh[0] vertex [341] texCoord.y : 0.15693
+
+mesh[0] vertex [342] pos.x : 7.50001
+mesh[0] vertex [342] pos.y : -0.0812354
+mesh[0] vertex [342] pos.z : -0.0246249
+mesh[0] vertex [342] texCoord.x : 3.81469e-07
+mesh[0] vertex [342] texCoord.y : 0.151668
+
+mesh[0] vertex [343] pos.x : 7.50001
+mesh[0] vertex [343] pos.y : -0.0605044
+mesh[0] vertex [343] pos.z : -0.00842365
+mesh[0] vertex [343] texCoord.x : 3.81469e-07
+mesh[0] vertex [343] texCoord.y : 0.146406
+
+mesh[0] vertex [344] pos.x : 7.50001
+mesh[0] vertex [344] pos.y : -0.0471203
+mesh[0] vertex [344] pos.z : 0.0153104
+mesh[0] vertex [344] texCoord.x : 0
+mesh[0] vertex [344] texCoord.y : 0.140956
+
+mesh[0] vertex [345] pos.x : 7.50001
+mesh[0] vertex [345] pos.y : -0.0439977
+mesh[0] vertex [345] pos.z : 0.0423785
+mesh[0] vertex [345] texCoord.x : 3.81469e-07
+mesh[0] vertex [345] texCoord.y : 0.135506
+
+mesh[0] vertex [346] pos.x : 7.50001
+mesh[0] vertex [346] pos.y : -0.0512466
+mesh[0] vertex [346] pos.z : 0.067671
+mesh[0] vertex [346] texCoord.x : 3.81469e-07
+mesh[0] vertex [346] texCoord.y : 0.130244
+
+mesh[0] vertex [347] pos.x : 7.50001
+mesh[0] vertex [347] pos.y : -0.0674479
+mesh[0] vertex [347] pos.z : 0.0884021
+mesh[0] vertex [347] texCoord.x : 0
+mesh[0] vertex [347] texCoord.y : 0.124982
+
+mesh[0] vertex [348] pos.x : 7.50001
+mesh[0] vertex [348] pos.y : -0.091182
+mesh[0] vertex [348] pos.z : 0.101786
+mesh[0] vertex [348] texCoord.x : 0
+mesh[0] vertex [348] texCoord.y : 0.119532
+
+mesh[0] vertex [349] pos.x : 7.50001
+mesh[0] vertex [349] pos.y : -0.11825
+mesh[0] vertex [349] pos.z : 0.104909
+mesh[0] vertex [349] texCoord.x : 3.81469e-07
+mesh[0] vertex [349] texCoord.y : 0.114083
+
+mesh[0] vertex [350] pos.x : 7.50001
+mesh[0] vertex [350] pos.y : -0.143542
+mesh[0] vertex [350] pos.z : 0.0976599
+mesh[0] vertex [350] texCoord.x : 3.81469e-07
+mesh[0] vertex [350] texCoord.y : 0.108821
+
+mesh[0] vertex [351] pos.x : 7.50001
+mesh[0] vertex [351] pos.y : -0.164274
+mesh[0] vertex [351] pos.z : 0.0814587
+mesh[0] vertex [351] texCoord.x : 0
+mesh[0] vertex [351] texCoord.y : 0.103558
+
+mesh[0] vertex [352] pos.x : 12.5
+mesh[0] vertex [352] pos.y : 0.177658
+mesh[0] vertex [352] pos.z : -0.0577246
+mesh[0] vertex [352] texCoord.x : 1
+mesh[0] vertex [352] texCoord.y : 0.140751
+
+mesh[0] vertex [353] pos.x : 12.5
+mesh[0] vertex [353] pos.y : 0.18078
+mesh[0] vertex [353] pos.z : -0.0306564
+mesh[0] vertex [353] texCoord.x : 1
+mesh[0] vertex [353] texCoord.y : 0.135302
+
+mesh[0] vertex [354] pos.x : 12.5
+mesh[0] vertex [354] pos.y : 0.173531
+mesh[0] vertex [354] pos.z : -0.00536393
+mesh[0] vertex [354] texCoord.x : 1
+mesh[0] vertex [354] texCoord.y : 0.130044
+
+mesh[0] vertex [355] pos.x : 12.5
+mesh[0] vertex [355] pos.y : 0.15733
+mesh[0] vertex [355] pos.z : 0.0153672
+mesh[0] vertex [355] texCoord.x : 1
+mesh[0] vertex [355] texCoord.y : 0.124784
+
+mesh[0] vertex [356] pos.x : 12.5
+mesh[0] vertex [356] pos.y : 0.133596
+mesh[0] vertex [356] pos.z : 0.0287511
+mesh[0] vertex [356] texCoord.x : 1
+mesh[0] vertex [356] texCoord.y : 0.119336
+
+mesh[0] vertex [357] pos.x : 12.5
+mesh[0] vertex [357] pos.y : 0.106528
+mesh[0] vertex [357] pos.z : 0.0318738
+mesh[0] vertex [357] texCoord.x : 1
+mesh[0] vertex [357] texCoord.y : 0.113888
+
+mesh[0] vertex [358] pos.x : 12.5
+mesh[0] vertex [358] pos.y : 0.0812354
+mesh[0] vertex [358] pos.z : 0.0246249
+mesh[0] vertex [358] texCoord.x : 1
+mesh[0] vertex [358] texCoord.y : 0.108629
+
+mesh[0] vertex [359] pos.x : 12.5
+mesh[0] vertex [359] pos.y : 0.0605042
+mesh[0] vertex [359] pos.z : 0.00842365
+mesh[0] vertex [359] texCoord.x : 1
+mesh[0] vertex [359] texCoord.y : 0.10337
+
+mesh[0] vertex [360] pos.x : 12.5
+mesh[0] vertex [360] pos.y : 0.0471204
+mesh[0] vertex [360] pos.z : -0.0153104
+mesh[0] vertex [360] texCoord.x : 1
+mesh[0] vertex [360] texCoord.y : 0.0979217
+
+mesh[0] vertex [361] pos.x : 12.5
+mesh[0] vertex [361] pos.y : 0.0439978
+mesh[0] vertex [361] pos.z : -0.0423785
+mesh[0] vertex [361] texCoord.x : 1
+mesh[0] vertex [361] texCoord.y : 0.0924734
+
+mesh[0] vertex [362] pos.x : 12.5
+mesh[0] vertex [362] pos.y : 0.0512467
+mesh[0] vertex [362] pos.z : -0.067671
+mesh[0] vertex [362] texCoord.x : 1
+mesh[0] vertex [362] texCoord.y : 0.0872144
+
+mesh[0] vertex [363] pos.x : 12.5
+mesh[0] vertex [363] pos.y : 0.0674479
+mesh[0] vertex [363] pos.z : -0.0884021
+mesh[0] vertex [363] texCoord.x : 1
+mesh[0] vertex [363] texCoord.y : 0.0819554
+
+mesh[0] vertex [364] pos.x : 12.5
+mesh[0] vertex [364] pos.y : 0.091182
+mesh[0] vertex [364] pos.z : -0.101786
+mesh[0] vertex [364] texCoord.x : 1
+mesh[0] vertex [364] texCoord.y : 0.0765071
+
+mesh[0] vertex [365] pos.x : 12.5
+mesh[0] vertex [365] pos.y : 0.11825
+mesh[0] vertex [365] pos.z : -0.104909
+mesh[0] vertex [365] texCoord.x : 1
+mesh[0] vertex [365] texCoord.y : 0.156717
+
+mesh[0] vertex [366] pos.x : 12.5
+mesh[0] vertex [366] pos.y : 0.143543
+mesh[0] vertex [366] pos.z : -0.0976599
+mesh[0] vertex [366] texCoord.x : 1
+mesh[0] vertex [366] texCoord.y : 0.151458
+
+mesh[0] vertex [367] pos.x : 12.5
+mesh[0] vertex [367] pos.y : 0.164274
+mesh[0] vertex [367] pos.z : -0.0814586
+mesh[0] vertex [367] texCoord.x : 1
+mesh[0] vertex [367] texCoord.y : 0.146199
+
+mesh[0] vertex [368] pos.x : 7.50001
+mesh[0] vertex [368] pos.y : 0.177658
+mesh[0] vertex [368] pos.z : -0.0577246
+mesh[0] vertex [368] texCoord.x : 3.81469e-07
+mesh[0] vertex [368] texCoord.y : 0.140762
+
+mesh[0] vertex [369] pos.x : 7.50001
+mesh[0] vertex [369] pos.y : 0.18078
+mesh[0] vertex [369] pos.z : -0.0306564
+mesh[0] vertex [369] texCoord.x : 3.81469e-07
+mesh[0] vertex [369] texCoord.y : 0.135312
+
+mesh[0] vertex [370] pos.x : 7.50001
+mesh[0] vertex [370] pos.y : 0.173531
+mesh[0] vertex [370] pos.z : -0.00536393
+mesh[0] vertex [370] texCoord.x : 3.81469e-07
+mesh[0] vertex [370] texCoord.y : 0.13005
+
+mesh[0] vertex [371] pos.x : 7.50001
+mesh[0] vertex [371] pos.y : 0.15733
+mesh[0] vertex [371] pos.z : 0.0153672
+mesh[0] vertex [371] texCoord.x : 0
+mesh[0] vertex [371] texCoord.y : 0.124788
+
+mesh[0] vertex [372] pos.x : 7.50001
+mesh[0] vertex [372] pos.y : 0.133596
+mesh[0] vertex [372] pos.z : 0.0287511
+mesh[0] vertex [372] texCoord.x : 0
+mesh[0] vertex [372] texCoord.y : 0.119338
+
+mesh[0] vertex [373] pos.x : 7.50001
+mesh[0] vertex [373] pos.y : 0.106528
+mesh[0] vertex [373] pos.z : 0.0318738
+mesh[0] vertex [373] texCoord.x : 3.81469e-07
+mesh[0] vertex [373] texCoord.y : 0.113889
+
+mesh[0] vertex [374] pos.x : 7.50001
+mesh[0] vertex [374] pos.y : 0.0812354
+mesh[0] vertex [374] pos.z : 0.0246249
+mesh[0] vertex [374] texCoord.x : 3.81469e-07
+mesh[0] vertex [374] texCoord.y : 0.108627
+
+mesh[0] vertex [375] pos.x : 7.50001
+mesh[0] vertex [375] pos.y : 0.0605042
+mesh[0] vertex [375] pos.z : 0.00842365
+mesh[0] vertex [375] texCoord.x : 3.81469e-07
+mesh[0] vertex [375] texCoord.y : 0.103364
+
+mesh[0] vertex [376] pos.x : 7.50001
+mesh[0] vertex [376] pos.y : 0.0471204
+mesh[0] vertex [376] pos.z : -0.0153104
+mesh[0] vertex [376] texCoord.x : 3.81469e-07
+mesh[0] vertex [376] texCoord.y : 0.0979148
+
+mesh[0] vertex [377] pos.x : 7.50001
+mesh[0] vertex [377] pos.y : 0.0439978
+mesh[0] vertex [377] pos.z : -0.0423785
+mesh[0] vertex [377] texCoord.x : 7.62938e-07
+mesh[0] vertex [377] texCoord.y : 0.0924653
+
+mesh[0] vertex [378] pos.x : 7.50001
+mesh[0] vertex [378] pos.y : 0.0512467
+mesh[0] vertex [378] pos.z : -0.067671
+mesh[0] vertex [378] texCoord.x : 3.81469e-07
+mesh[0] vertex [378] texCoord.y : 0.0872031
+
+mesh[0] vertex [379] pos.x : 7.50001
+mesh[0] vertex [379] pos.y : 0.0674479
+mesh[0] vertex [379] pos.z : -0.0884021
+mesh[0] vertex [379] texCoord.x : 3.81469e-07
+mesh[0] vertex [379] texCoord.y : 0.0819409
+
+mesh[0] vertex [380] pos.x : 7.50001
+mesh[0] vertex [380] pos.y : 0.091182
+mesh[0] vertex [380] pos.z : -0.101786
+mesh[0] vertex [380] texCoord.x : 7.62938e-07
+mesh[0] vertex [380] texCoord.y : 0.0764913
+
+mesh[0] vertex [381] pos.x : 7.50001
+mesh[0] vertex [381] pos.y : 0.11825
+mesh[0] vertex [381] pos.z : -0.104909
+mesh[0] vertex [381] texCoord.x : 3.81469e-07
+mesh[0] vertex [381] texCoord.y : 0.156736
+
+mesh[0] vertex [382] pos.x : 7.50001
+mesh[0] vertex [382] pos.y : 0.143543
+mesh[0] vertex [382] pos.z : -0.0976599
+mesh[0] vertex [382] texCoord.x : 3.81469e-07
+mesh[0] vertex [382] texCoord.y : 0.151474
+
+mesh[0] vertex [383] pos.x : 7.50001
+mesh[0] vertex [383] pos.y : 0.164274
+mesh[0] vertex [383] pos.z : -0.0814586
+mesh[0] vertex [383] texCoord.x : 3.81469e-07
+mesh[0] vertex [383] texCoord.y : 0.146212
+
+mesh[0] vertex [384] pos.x : 17.5
+mesh[0] vertex [384] pos.y : -0.177658
+mesh[0] vertex [384] pos.z : 0.0577246
+mesh[0] vertex [384] texCoord.x : 1
+mesh[0] vertex [384] texCoord.y : 0.0981157
+
+mesh[0] vertex [385] pos.x : 17.5
+mesh[0] vertex [385] pos.y : -0.18078
+mesh[0] vertex [385] pos.z : 0.0306565
+mesh[0] vertex [385] texCoord.x : 0.999999
+mesh[0] vertex [385] texCoord.y : 0.0926675
+
+mesh[0] vertex [386] pos.x : 17.5
+mesh[0] vertex [386] pos.y : -0.173531
+mesh[0] vertex [386] pos.z : 0.00536398
+mesh[0] vertex [386] texCoord.x : 1
+mesh[0] vertex [386] texCoord.y : 0.0874085
+
+mesh[0] vertex [387] pos.x : 17.5
+mesh[0] vertex [387] pos.y : -0.15733
+mesh[0] vertex [387] pos.z : -0.0153671
+mesh[0] vertex [387] texCoord.x : 1
+mesh[0] vertex [387] texCoord.y : 0.0821495
+
+mesh[0] vertex [388] pos.x : 17.5
+mesh[0] vertex [388] pos.y : -0.133596
+mesh[0] vertex [388] pos.z : -0.0287511
+mesh[0] vertex [388] texCoord.x : 1
+mesh[0] vertex [388] texCoord.y : 0.0767012
+
+mesh[0] vertex [389] pos.x : 17.5
+mesh[0] vertex [389] pos.y : -0.106528
+mesh[0] vertex [389] pos.z : -0.0318738
+mesh[0] vertex [389] texCoord.x : 1
+mesh[0] vertex [389] texCoord.y : 0.156911
+
+mesh[0] vertex [390] pos.x : 17.5
+mesh[0] vertex [390] pos.y : -0.0812354
+mesh[0] vertex [390] pos.z : -0.0246249
+mesh[0] vertex [390] texCoord.x : 1
+mesh[0] vertex [390] texCoord.y : 0.151652
+
+mesh[0] vertex [391] pos.x : 17.5
+mesh[0] vertex [391] pos.y : -0.0605044
+mesh[0] vertex [391] pos.z : -0.00842365
+mesh[0] vertex [391] texCoord.x : 1
+mesh[0] vertex [391] texCoord.y : 0.146393
+
+mesh[0] vertex [392] pos.x : 17.5
+mesh[0] vertex [392] pos.y : -0.0471203
+mesh[0] vertex [392] pos.z : 0.0153104
+mesh[0] vertex [392] texCoord.x : 1
+mesh[0] vertex [392] texCoord.y : 0.140945
+
+mesh[0] vertex [393] pos.x : 17.5
+mesh[0] vertex [393] pos.y : -0.0439977
+mesh[0] vertex [393] pos.z : 0.0423785
+mesh[0] vertex [393] texCoord.x : 1
+mesh[0] vertex [393] texCoord.y : 0.135497
+
+mesh[0] vertex [394] pos.x : 17.5
+mesh[0] vertex [394] pos.y : -0.0512466
+mesh[0] vertex [394] pos.z : 0.067671
+mesh[0] vertex [394] texCoord.x : 0.999999
+mesh[0] vertex [394] texCoord.y : 0.130238
+
+mesh[0] vertex [395] pos.x : 17.5
+mesh[0] vertex [395] pos.y : -0.0674479
+mesh[0] vertex [395] pos.z : 0.0884021
+mesh[0] vertex [395] texCoord.x : 1
+mesh[0] vertex [395] texCoord.y : 0.124979
+
+mesh[0] vertex [396] pos.x : 17.5
+mesh[0] vertex [396] pos.y : -0.091182
+mesh[0] vertex [396] pos.z : 0.101786
+mesh[0] vertex [396] texCoord.x : 1
+mesh[0] vertex [396] texCoord.y : 0.11953
+
+mesh[0] vertex [397] pos.x : 17.5
+mesh[0] vertex [397] pos.y : -0.11825
+mesh[0] vertex [397] pos.z : 0.104909
+mesh[0] vertex [397] texCoord.x : 1
+mesh[0] vertex [397] texCoord.y : 0.114082
+
+mesh[0] vertex [398] pos.x : 17.5
+mesh[0] vertex [398] pos.y : -0.143542
+mesh[0] vertex [398] pos.z : 0.0976599
+mesh[0] vertex [398] texCoord.x : 0.999999
+mesh[0] vertex [398] texCoord.y : 0.108823
+
+mesh[0] vertex [399] pos.x : 17.5
+mesh[0] vertex [399] pos.y : -0.164274
+mesh[0] vertex [399] pos.z : 0.0814587
+mesh[0] vertex [399] texCoord.x : 1
+mesh[0] vertex [399] texCoord.y : 0.103564
+
+mesh[0] vertex [400] pos.x : 12.5
+mesh[0] vertex [400] pos.y : -0.177658
+mesh[0] vertex [400] pos.z : 0.0577246
+mesh[0] vertex [400] texCoord.x : 3.81469e-07
+mesh[0] vertex [400] texCoord.y : 0.0981089
+
+mesh[0] vertex [401] pos.x : 12.5
+mesh[0] vertex [401] pos.y : -0.18078
+mesh[0] vertex [401] pos.z : 0.0306565
+mesh[0] vertex [401] texCoord.x : 3.81469e-07
+mesh[0] vertex [401] texCoord.y : 0.0926593
+
+mesh[0] vertex [402] pos.x : 12.5
+mesh[0] vertex [402] pos.y : -0.173531
+mesh[0] vertex [402] pos.z : 0.00536398
+mesh[0] vertex [402] texCoord.x : 3.81469e-07
+mesh[0] vertex [402] texCoord.y : 0.0873971
+
+mesh[0] vertex [403] pos.x : 12.5
+mesh[0] vertex [403] pos.y : -0.15733
+mesh[0] vertex [403] pos.z : -0.0153671
+mesh[0] vertex [403] texCoord.x : 3.81469e-07
+mesh[0] vertex [403] texCoord.y : 0.082135
+
+mesh[0] vertex [404] pos.x : 12.5
+mesh[0] vertex [404] pos.y : -0.133596
+mesh[0] vertex [404] pos.z : -0.0287511
+mesh[0] vertex [404] texCoord.x : 7.62938e-07
+mesh[0] vertex [404] texCoord.y : 0.0766854
+
+mesh[0] vertex [405] pos.x : 12.5
+mesh[0] vertex [405] pos.y : -0.106528
+mesh[0] vertex [405] pos.z : -0.0318738
+mesh[0] vertex [405] texCoord.x : 3.81469e-07
+mesh[0] vertex [405] texCoord.y : 0.15693
+
+mesh[0] vertex [406] pos.x : 12.5
+mesh[0] vertex [406] pos.y : -0.0812354
+mesh[0] vertex [406] pos.z : -0.0246249
+mesh[0] vertex [406] texCoord.x : 3.81469e-07
+mesh[0] vertex [406] texCoord.y : 0.151668
+
+mesh[0] vertex [407] pos.x : 12.5
+mesh[0] vertex [407] pos.y : -0.0605044
+mesh[0] vertex [407] pos.z : -0.00842365
+mesh[0] vertex [407] texCoord.x : 3.81469e-07
+mesh[0] vertex [407] texCoord.y : 0.146406
+
+mesh[0] vertex [408] pos.x : 12.5
+mesh[0] vertex [408] pos.y : -0.0471203
+mesh[0] vertex [408] pos.z : 0.0153104
+mesh[0] vertex [408] texCoord.x : 0
+mesh[0] vertex [408] texCoord.y : 0.140956
+
+mesh[0] vertex [409] pos.x : 12.5
+mesh[0] vertex [409] pos.y : -0.0439977
+mesh[0] vertex [409] pos.z : 0.0423785
+mesh[0] vertex [409] texCoord.x : 3.81469e-07
+mesh[0] vertex [409] texCoord.y : 0.135506
+
+mesh[0] vertex [410] pos.x : 12.5
+mesh[0] vertex [410] pos.y : -0.0512466
+mesh[0] vertex [410] pos.z : 0.067671
+mesh[0] vertex [410] texCoord.x : 3.81469e-07
+mesh[0] vertex [410] texCoord.y : 0.130244
+
+mesh[0] vertex [411] pos.x : 12.5
+mesh[0] vertex [411] pos.y : -0.0674479
+mesh[0] vertex [411] pos.z : 0.0884021
+mesh[0] vertex [411] texCoord.x : 0
+mesh[0] vertex [411] texCoord.y : 0.124982
+
+mesh[0] vertex [412] pos.x : 12.5
+mesh[0] vertex [412] pos.y : -0.091182
+mesh[0] vertex [412] pos.z : 0.101786
+mesh[0] vertex [412] texCoord.x : 0
+mesh[0] vertex [412] texCoord.y : 0.119532
+
+mesh[0] vertex [413] pos.x : 12.5
+mesh[0] vertex [413] pos.y : -0.11825
+mesh[0] vertex [413] pos.z : 0.104909
+mesh[0] vertex [413] texCoord.x : 3.81469e-07
+mesh[0] vertex [413] texCoord.y : 0.114083
+
+mesh[0] vertex [414] pos.x : 12.5
+mesh[0] vertex [414] pos.y : -0.143542
+mesh[0] vertex [414] pos.z : 0.0976599
+mesh[0] vertex [414] texCoord.x : 3.81469e-07
+mesh[0] vertex [414] texCoord.y : 0.108821
+
+mesh[0] vertex [415] pos.x : 12.5
+mesh[0] vertex [415] pos.y : -0.164274
+mesh[0] vertex [415] pos.z : 0.0814587
+mesh[0] vertex [415] texCoord.x : 0
+mesh[0] vertex [415] texCoord.y : 0.103558
+
+mesh[0] vertex [416] pos.x : 17.5
+mesh[0] vertex [416] pos.y : 0.177658
+mesh[0] vertex [416] pos.z : -0.0577246
+mesh[0] vertex [416] texCoord.x : 1
+mesh[0] vertex [416] texCoord.y : 0.140751
+
+mesh[0] vertex [417] pos.x : 17.5
+mesh[0] vertex [417] pos.y : 0.18078
+mesh[0] vertex [417] pos.z : -0.0306564
+mesh[0] vertex [417] texCoord.x : 1
+mesh[0] vertex [417] texCoord.y : 0.135302
+
+mesh[0] vertex [418] pos.x : 17.5
+mesh[0] vertex [418] pos.y : 0.173531
+mesh[0] vertex [418] pos.z : -0.00536393
+mesh[0] vertex [418] texCoord.x : 1
+mesh[0] vertex [418] texCoord.y : 0.130044
+
+mesh[0] vertex [419] pos.x : 17.5
+mesh[0] vertex [419] pos.y : 0.15733
+mesh[0] vertex [419] pos.z : 0.0153672
+mesh[0] vertex [419] texCoord.x : 1
+mesh[0] vertex [419] texCoord.y : 0.124784
+
+mesh[0] vertex [420] pos.x : 17.5
+mesh[0] vertex [420] pos.y : 0.133596
+mesh[0] vertex [420] pos.z : 0.0287511
+mesh[0] vertex [420] texCoord.x : 1
+mesh[0] vertex [420] texCoord.y : 0.119336
+
+mesh[0] vertex [421] pos.x : 17.5
+mesh[0] vertex [421] pos.y : 0.106528
+mesh[0] vertex [421] pos.z : 0.0318738
+mesh[0] vertex [421] texCoord.x : 1
+mesh[0] vertex [421] texCoord.y : 0.113888
+
+mesh[0] vertex [422] pos.x : 17.5
+mesh[0] vertex [422] pos.y : 0.0812354
+mesh[0] vertex [422] pos.z : 0.0246249
+mesh[0] vertex [422] texCoord.x : 1
+mesh[0] vertex [422] texCoord.y : 0.108629
+
+mesh[0] vertex [423] pos.x : 17.5
+mesh[0] vertex [423] pos.y : 0.0605042
+mesh[0] vertex [423] pos.z : 0.00842365
+mesh[0] vertex [423] texCoord.x : 1
+mesh[0] vertex [423] texCoord.y : 0.10337
+
+mesh[0] vertex [424] pos.x : 17.5
+mesh[0] vertex [424] pos.y : 0.0471204
+mesh[0] vertex [424] pos.z : -0.0153104
+mesh[0] vertex [424] texCoord.x : 1
+mesh[0] vertex [424] texCoord.y : 0.0979217
+
+mesh[0] vertex [425] pos.x : 17.5
+mesh[0] vertex [425] pos.y : 0.0439978
+mesh[0] vertex [425] pos.z : -0.0423785
+mesh[0] vertex [425] texCoord.x : 1
+mesh[0] vertex [425] texCoord.y : 0.0924734
+
+mesh[0] vertex [426] pos.x : 17.5
+mesh[0] vertex [426] pos.y : 0.0512467
+mesh[0] vertex [426] pos.z : -0.067671
+mesh[0] vertex [426] texCoord.x : 1
+mesh[0] vertex [426] texCoord.y : 0.0872144
+
+mesh[0] vertex [427] pos.x : 17.5
+mesh[0] vertex [427] pos.y : 0.0674479
+mesh[0] vertex [427] pos.z : -0.0884021
+mesh[0] vertex [427] texCoord.x : 1
+mesh[0] vertex [427] texCoord.y : 0.0819554
+
+mesh[0] vertex [428] pos.x : 17.5
+mesh[0] vertex [428] pos.y : 0.091182
+mesh[0] vertex [428] pos.z : -0.101786
+mesh[0] vertex [428] texCoord.x : 1
+mesh[0] vertex [428] texCoord.y : 0.0765071
+
+mesh[0] vertex [429] pos.x : 17.5
+mesh[0] vertex [429] pos.y : 0.11825
+mesh[0] vertex [429] pos.z : -0.104909
+mesh[0] vertex [429] texCoord.x : 1
+mesh[0] vertex [429] texCoord.y : 0.156717
+
+mesh[0] vertex [430] pos.x : 17.5
+mesh[0] vertex [430] pos.y : 0.143543
+mesh[0] vertex [430] pos.z : -0.0976599
+mesh[0] vertex [430] texCoord.x : 1
+mesh[0] vertex [430] texCoord.y : 0.151458
+
+mesh[0] vertex [431] pos.x : 17.5
+mesh[0] vertex [431] pos.y : 0.164274
+mesh[0] vertex [431] pos.z : -0.0814586
+mesh[0] vertex [431] texCoord.x : 1
+mesh[0] vertex [431] texCoord.y : 0.146199
+
+mesh[0] vertex [432] pos.x : 12.5
+mesh[0] vertex [432] pos.y : 0.177658
+mesh[0] vertex [432] pos.z : -0.0577246
+mesh[0] vertex [432] texCoord.x : 3.81469e-07
+mesh[0] vertex [432] texCoord.y : 0.140762
+
+mesh[0] vertex [433] pos.x : 12.5
+mesh[0] vertex [433] pos.y : 0.18078
+mesh[0] vertex [433] pos.z : -0.0306564
+mesh[0] vertex [433] texCoord.x : 3.81469e-07
+mesh[0] vertex [433] texCoord.y : 0.135312
+
+mesh[0] vertex [434] pos.x : 12.5
+mesh[0] vertex [434] pos.y : 0.173531
+mesh[0] vertex [434] pos.z : -0.00536393
+mesh[0] vertex [434] texCoord.x : 3.81469e-07
+mesh[0] vertex [434] texCoord.y : 0.13005
+
+mesh[0] vertex [435] pos.x : 12.5
+mesh[0] vertex [435] pos.y : 0.15733
+mesh[0] vertex [435] pos.z : 0.0153672
+mesh[0] vertex [435] texCoord.x : 0
+mesh[0] vertex [435] texCoord.y : 0.124788
+
+mesh[0] vertex [436] pos.x : 12.5
+mesh[0] vertex [436] pos.y : 0.133596
+mesh[0] vertex [436] pos.z : 0.0287511
+mesh[0] vertex [436] texCoord.x : 0
+mesh[0] vertex [436] texCoord.y : 0.119338
+
+mesh[0] vertex [437] pos.x : 12.5
+mesh[0] vertex [437] pos.y : 0.106528
+mesh[0] vertex [437] pos.z : 0.0318738
+mesh[0] vertex [437] texCoord.x : 3.81469e-07
+mesh[0] vertex [437] texCoord.y : 0.113889
+
+mesh[0] vertex [438] pos.x : 12.5
+mesh[0] vertex [438] pos.y : 0.0812354
+mesh[0] vertex [438] pos.z : 0.0246249
+mesh[0] vertex [438] texCoord.x : 3.81469e-07
+mesh[0] vertex [438] texCoord.y : 0.108627
+
+mesh[0] vertex [439] pos.x : 12.5
+mesh[0] vertex [439] pos.y : 0.0605042
+mesh[0] vertex [439] pos.z : 0.00842365
+mesh[0] vertex [439] texCoord.x : 3.81469e-07
+mesh[0] vertex [439] texCoord.y : 0.103364
+
+mesh[0] vertex [440] pos.x : 12.5
+mesh[0] vertex [440] pos.y : 0.0471204
+mesh[0] vertex [440] pos.z : -0.0153104
+mesh[0] vertex [440] texCoord.x : 3.81469e-07
+mesh[0] vertex [440] texCoord.y : 0.0979148
+
+mesh[0] vertex [441] pos.x : 12.5
+mesh[0] vertex [441] pos.y : 0.0439978
+mesh[0] vertex [441] pos.z : -0.0423785
+mesh[0] vertex [441] texCoord.x : 7.62938e-07
+mesh[0] vertex [441] texCoord.y : 0.0924653
+
+mesh[0] vertex [442] pos.x : 12.5
+mesh[0] vertex [442] pos.y : 0.0512467
+mesh[0] vertex [442] pos.z : -0.067671
+mesh[0] vertex [442] texCoord.x : 3.81469e-07
+mesh[0] vertex [442] texCoord.y : 0.0872031
+
+mesh[0] vertex [443] pos.x : 12.5
+mesh[0] vertex [443] pos.y : 0.0674479
+mesh[0] vertex [443] pos.z : -0.0884021
+mesh[0] vertex [443] texCoord.x : 3.81469e-07
+mesh[0] vertex [443] texCoord.y : 0.0819409
+
+mesh[0] vertex [444] pos.x : 12.5
+mesh[0] vertex [444] pos.y : 0.091182
+mesh[0] vertex [444] pos.z : -0.101786
+mesh[0] vertex [444] texCoord.x : 7.62938e-07
+mesh[0] vertex [444] texCoord.y : 0.0764913
+
+mesh[0] vertex [445] pos.x : 12.5
+mesh[0] vertex [445] pos.y : 0.11825
+mesh[0] vertex [445] pos.z : -0.104909
+mesh[0] vertex [445] texCoord.x : 3.81469e-07
+mesh[0] vertex [445] texCoord.y : 0.156736
+
+mesh[0] vertex [446] pos.x : 12.5
+mesh[0] vertex [446] pos.y : 0.143543
+mesh[0] vertex [446] pos.z : -0.0976599
+mesh[0] vertex [446] texCoord.x : 3.81469e-07
+mesh[0] vertex [446] texCoord.y : 0.151474
+
+mesh[0] vertex [447] pos.x : 12.5
+mesh[0] vertex [447] pos.y : 0.164274
+mesh[0] vertex [447] pos.z : -0.0814586
+mesh[0] vertex [447] texCoord.x : 3.81469e-07
+mesh[0] vertex [447] texCoord.y : 0.146212
+
+mesh[0] vertex [448] pos.x : -17.5
+mesh[0] vertex [448] pos.y : -0.133596
+mesh[0] vertex [448] pos.z : -0.0287511
+mesh[0] vertex [448] texCoord.x : 3.81469e-07
+mesh[0] vertex [448] texCoord.y : 0.162379
+
+mesh[0] vertex [449] pos.x : -17.5
+mesh[0] vertex [449] pos.y : -0.133596
+mesh[0] vertex [449] pos.z : -0.0287511
+mesh[0] vertex [449] texCoord.x : 3.81469e-07
+mesh[0] vertex [449] texCoord.y : 0.162379
+
+mesh[0] vertex [450] pos.x : -12.5
+mesh[0] vertex [450] pos.y : -0.133596
+mesh[0] vertex [450] pos.z : -0.0287511
+mesh[0] vertex [450] texCoord.x : 1
+mesh[0] vertex [450] texCoord.y : 0.162359
+
+mesh[0] vertex [451] pos.x : -17.5
+mesh[0] vertex [451] pos.y : 0.091182
+mesh[0] vertex [451] pos.z : -0.101786
+mesh[0] vertex [451] texCoord.x : 7.62938e-07
+mesh[0] vertex [451] texCoord.y : 0.162185
+
+mesh[0] vertex [452] pos.x : -17.5
+mesh[0] vertex [452] pos.y : 0.091182
+mesh[0] vertex [452] pos.z : -0.101786
+mesh[0] vertex [452] texCoord.x : 7.62938e-07
+mesh[0] vertex [452] texCoord.y : 0.162185
+
+mesh[0] vertex [453] pos.x : -12.5
+mesh[0] vertex [453] pos.y : 0.091182
+mesh[0] vertex [453] pos.z : -0.101786
+mesh[0] vertex [453] texCoord.x : 1
+mesh[0] vertex [453] texCoord.y : 0.162165
+
+mesh[0] vertex [454] pos.x : -12.5
+mesh[0] vertex [454] pos.y : -0.133596
+mesh[0] vertex [454] pos.z : -0.0287511
+mesh[0] vertex [454] texCoord.x : 3.81469e-07
+mesh[0] vertex [454] texCoord.y : 0.162379
+
+mesh[0] vertex [455] pos.x : -12.5
+mesh[0] vertex [455] pos.y : -0.133596
+mesh[0] vertex [455] pos.z : -0.0287511
+mesh[0] vertex [455] texCoord.x : 3.81469e-07
+mesh[0] vertex [455] texCoord.y : 0.162379
+
+mesh[0] vertex [456] pos.x : -7.49999
+mesh[0] vertex [456] pos.y : -0.133596
+mesh[0] vertex [456] pos.z : -0.0287511
+mesh[0] vertex [456] texCoord.x : 1
+mesh[0] vertex [456] texCoord.y : 0.162359
+
+mesh[0] vertex [457] pos.x : -12.5
+mesh[0] vertex [457] pos.y : 0.091182
+mesh[0] vertex [457] pos.z : -0.101786
+mesh[0] vertex [457] texCoord.x : 7.62938e-07
+mesh[0] vertex [457] texCoord.y : 0.162185
+
+mesh[0] vertex [458] pos.x : -12.5
+mesh[0] vertex [458] pos.y : 0.091182
+mesh[0] vertex [458] pos.z : -0.101786
+mesh[0] vertex [458] texCoord.x : 7.62938e-07
+mesh[0] vertex [458] texCoord.y : 0.162185
+
+mesh[0] vertex [459] pos.x : -7.49999
+mesh[0] vertex [459] pos.y : 0.091182
+mesh[0] vertex [459] pos.z : -0.101786
+mesh[0] vertex [459] texCoord.x : 1
+mesh[0] vertex [459] texCoord.y : 0.162165
+
+mesh[0] vertex [460] pos.x : -7.49999
+mesh[0] vertex [460] pos.y : -0.133596
+mesh[0] vertex [460] pos.z : -0.0287511
+mesh[0] vertex [460] texCoord.x : 3.81469e-07
+mesh[0] vertex [460] texCoord.y : 0.162379
+
+mesh[0] vertex [461] pos.x : -7.49999
+mesh[0] vertex [461] pos.y : -0.133596
+mesh[0] vertex [461] pos.z : -0.0287511
+mesh[0] vertex [461] texCoord.x : 3.81469e-07
+mesh[0] vertex [461] texCoord.y : 0.162379
+
+mesh[0] vertex [462] pos.x : -2.49999
+mesh[0] vertex [462] pos.y : -0.133596
+mesh[0] vertex [462] pos.z : -0.0287511
+mesh[0] vertex [462] texCoord.x : 1
+mesh[0] vertex [462] texCoord.y : 0.162359
+
+mesh[0] vertex [463] pos.x : -7.49999
+mesh[0] vertex [463] pos.y : 0.091182
+mesh[0] vertex [463] pos.z : -0.101786
+mesh[0] vertex [463] texCoord.x : 7.62938e-07
+mesh[0] vertex [463] texCoord.y : 0.162185
+
+mesh[0] vertex [464] pos.x : -7.49999
+mesh[0] vertex [464] pos.y : 0.091182
+mesh[0] vertex [464] pos.z : -0.101786
+mesh[0] vertex [464] texCoord.x : 7.62938e-07
+mesh[0] vertex [464] texCoord.y : 0.162185
+
+mesh[0] vertex [465] pos.x : -2.49999
+mesh[0] vertex [465] pos.y : 0.091182
+mesh[0] vertex [465] pos.z : -0.101786
+mesh[0] vertex [465] texCoord.x : 1
+mesh[0] vertex [465] texCoord.y : 0.162165
+
+mesh[0] vertex [466] pos.x : -2.49999
+mesh[0] vertex [466] pos.y : -0.133596
+mesh[0] vertex [466] pos.z : -0.0287511
+mesh[0] vertex [466] texCoord.x : 3.81469e-07
+mesh[0] vertex [466] texCoord.y : 0.162379
+
+mesh[0] vertex [467] pos.x : -2.49999
+mesh[0] vertex [467] pos.y : -0.133596
+mesh[0] vertex [467] pos.z : -0.0287511
+mesh[0] vertex [467] texCoord.x : 3.81469e-07
+mesh[0] vertex [467] texCoord.y : 0.162379
+
+mesh[0] vertex [468] pos.x : 2.50001
+mesh[0] vertex [468] pos.y : -0.133596
+mesh[0] vertex [468] pos.z : -0.0287511
+mesh[0] vertex [468] texCoord.x : 1
+mesh[0] vertex [468] texCoord.y : 0.162359
+
+mesh[0] vertex [469] pos.x : -2.49999
+mesh[0] vertex [469] pos.y : 0.091182
+mesh[0] vertex [469] pos.z : -0.101786
+mesh[0] vertex [469] texCoord.x : 7.62938e-07
+mesh[0] vertex [469] texCoord.y : 0.162185
+
+mesh[0] vertex [470] pos.x : -2.49999
+mesh[0] vertex [470] pos.y : 0.091182
+mesh[0] vertex [470] pos.z : -0.101786
+mesh[0] vertex [470] texCoord.x : 7.62938e-07
+mesh[0] vertex [470] texCoord.y : 0.162185
+
+mesh[0] vertex [471] pos.x : 2.50001
+mesh[0] vertex [471] pos.y : 0.091182
+mesh[0] vertex [471] pos.z : -0.101786
+mesh[0] vertex [471] texCoord.x : 1
+mesh[0] vertex [471] texCoord.y : 0.162165
+
+mesh[0] vertex [472] pos.x : 2.50001
+mesh[0] vertex [472] pos.y : -0.133596
+mesh[0] vertex [472] pos.z : -0.0287511
+mesh[0] vertex [472] texCoord.x : 3.81469e-07
+mesh[0] vertex [472] texCoord.y : 0.162379
+
+mesh[0] vertex [473] pos.x : 2.50001
+mesh[0] vertex [473] pos.y : -0.133596
+mesh[0] vertex [473] pos.z : -0.0287511
+mesh[0] vertex [473] texCoord.x : 3.81469e-07
+mesh[0] vertex [473] texCoord.y : 0.162379
+
+mesh[0] vertex [474] pos.x : 7.50001
+mesh[0] vertex [474] pos.y : -0.133596
+mesh[0] vertex [474] pos.z : -0.0287511
+mesh[0] vertex [474] texCoord.x : 1
+mesh[0] vertex [474] texCoord.y : 0.162359
+
+mesh[0] vertex [475] pos.x : 2.50001
+mesh[0] vertex [475] pos.y : 0.091182
+mesh[0] vertex [475] pos.z : -0.101786
+mesh[0] vertex [475] texCoord.x : 7.62938e-07
+mesh[0] vertex [475] texCoord.y : 0.162185
+
+mesh[0] vertex [476] pos.x : 2.50001
+mesh[0] vertex [476] pos.y : 0.091182
+mesh[0] vertex [476] pos.z : -0.101786
+mesh[0] vertex [476] texCoord.x : 7.62938e-07
+mesh[0] vertex [476] texCoord.y : 0.162185
+
+mesh[0] vertex [477] pos.x : 7.50001
+mesh[0] vertex [477] pos.y : 0.091182
+mesh[0] vertex [477] pos.z : -0.101786
+mesh[0] vertex [477] texCoord.x : 1
+mesh[0] vertex [477] texCoord.y : 0.162165
+
+mesh[0] vertex [478] pos.x : 7.50001
+mesh[0] vertex [478] pos.y : -0.133596
+mesh[0] vertex [478] pos.z : -0.0287511
+mesh[0] vertex [478] texCoord.x : 3.81469e-07
+mesh[0] vertex [478] texCoord.y : 0.162379
+
+mesh[0] vertex [479] pos.x : 7.50001
+mesh[0] vertex [479] pos.y : -0.133596
+mesh[0] vertex [479] pos.z : -0.0287511
+mesh[0] vertex [479] texCoord.x : 3.81469e-07
+mesh[0] vertex [479] texCoord.y : 0.162379
+
+mesh[0] vertex [480] pos.x : 12.5
+mesh[0] vertex [480] pos.y : -0.133596
+mesh[0] vertex [480] pos.z : -0.0287511
+mesh[0] vertex [480] texCoord.x : 1
+mesh[0] vertex [480] texCoord.y : 0.162359
+
+mesh[0] vertex [481] pos.x : 7.50001
+mesh[0] vertex [481] pos.y : 0.091182
+mesh[0] vertex [481] pos.z : -0.101786
+mesh[0] vertex [481] texCoord.x : 7.62938e-07
+mesh[0] vertex [481] texCoord.y : 0.162185
+
+mesh[0] vertex [482] pos.x : 7.50001
+mesh[0] vertex [482] pos.y : 0.091182
+mesh[0] vertex [482] pos.z : -0.101786
+mesh[0] vertex [482] texCoord.x : 7.62938e-07
+mesh[0] vertex [482] texCoord.y : 0.162185
+
+mesh[0] vertex [483] pos.x : 12.5
+mesh[0] vertex [483] pos.y : 0.091182
+mesh[0] vertex [483] pos.z : -0.101786
+mesh[0] vertex [483] texCoord.x : 1
+mesh[0] vertex [483] texCoord.y : 0.162165
+
+mesh[0] vertex [484] pos.x : 12.5
+mesh[0] vertex [484] pos.y : -0.133596
+mesh[0] vertex [484] pos.z : -0.0287511
+mesh[0] vertex [484] texCoord.x : 3.81469e-07
+mesh[0] vertex [484] texCoord.y : 0.162379
+
+mesh[0] vertex [485] pos.x : 12.5
+mesh[0] vertex [485] pos.y : -0.133596
+mesh[0] vertex [485] pos.z : -0.0287511
+mesh[0] vertex [485] texCoord.x : 3.81469e-07
+mesh[0] vertex [485] texCoord.y : 0.162379
+
+mesh[0] vertex [486] pos.x : 17.5
+mesh[0] vertex [486] pos.y : -0.133596
+mesh[0] vertex [486] pos.z : -0.0287511
+mesh[0] vertex [486] texCoord.x : 1
+mesh[0] vertex [486] texCoord.y : 0.162359
+
+mesh[0] vertex [487] pos.x : 12.5
+mesh[0] vertex [487] pos.y : 0.091182
+mesh[0] vertex [487] pos.z : -0.101786
+mesh[0] vertex [487] texCoord.x : 7.62938e-07
+mesh[0] vertex [487] texCoord.y : 0.162185
+
+mesh[0] vertex [488] pos.x : 12.5
+mesh[0] vertex [488] pos.y : 0.091182
+mesh[0] vertex [488] pos.z : -0.101786
+mesh[0] vertex [488] texCoord.x : 7.62938e-07
+mesh[0] vertex [488] texCoord.y : 0.162185
+
+mesh[0] vertex [489] pos.x : 17.5
+mesh[0] vertex [489] pos.y : 0.091182
+mesh[0] vertex [489] pos.z : -0.101786
+mesh[0] vertex [489] texCoord.x : 1
+mesh[0] vertex [489] texCoord.y : 0.162165
+
+
+0 31 16 
+31 0 15 
+1 16 17 
+16 1 0 
+2 17 18 
+17 2 1 
+3 18 19 
+18 3 2 
+4 19 20 
+19 4 3 
+5 448 21 
+449 5 450 
+6 21 22 
+21 6 5 
+7 22 23 
+22 7 6 
+8 23 24 
+23 8 7 
+9 24 25 
+24 9 8 
+10 25 26 
+25 10 9 
+11 26 27 
+26 11 10 
+12 27 28 
+27 12 11 
+13 28 29 
+28 13 12 
+14 29 30 
+29 14 13 
+15 30 31 
+30 15 14 
+32 63 48 
+63 32 47 
+33 48 49 
+48 33 32 
+34 49 50 
+49 34 33 
+35 50 51 
+50 35 34 
+36 51 52 
+51 36 35 
+37 52 53 
+52 37 36 
+38 53 54 
+53 38 37 
+39 54 55 
+54 39 38 
+40 55 56 
+55 40 39 
+41 56 57 
+56 41 40 
+42 57 58 
+57 42 41 
+43 58 59 
+58 43 42 
+44 59 60 
+59 44 43 
+45 451 61 
+452 45 453 
+46 61 62 
+61 46 45 
+47 62 63 
+62 47 46 
+64 95 80 
+95 64 79 
+65 80 81 
+80 65 64 
+66 81 82 
+81 66 65 
+67 82 83 
+82 67 66 
+68 83 84 
+83 68 67 
+69 454 85 
+455 69 456 
+70 85 86 
+85 70 69 
+71 86 87 
+86 71 70 
+72 87 88 
+87 72 71 
+73 88 89 
+88 73 72 
+74 89 90 
+89 74 73 
+75 90 91 
+90 75 74 
+76 91 92 
+91 76 75 
+77 92 93 
+92 77 76 
+78 93 94 
+93 78 77 
+79 94 95 
+94 79 78 
+96 127 112 
+127 96 111 
+97 112 113 
+112 97 96 
+98 113 114 
+113 98 97 
+99 114 115 
+114 99 98 
+100 115 116 
+115 100 99 
+101 116 117 
+116 101 100 
+102 117 118 
+117 102 101 
+103 118 119 
+118 103 102 
+104 119 120 
+119 104 103 
+105 120 121 
+120 105 104 
+106 121 122 
+121 106 105 
+107 122 123 
+122 107 106 
+108 123 124 
+123 108 107 
+109 457 125 
+458 109 459 
+110 125 126 
+125 110 109 
+111 126 127 
+126 111 110 
+128 159 144 
+159 128 143 
+129 144 145 
+144 129 128 
+130 145 146 
+145 130 129 
+131 146 147 
+146 131 130 
+132 147 148 
+147 132 131 
+133 460 149 
+461 133 462 
+134 149 150 
+149 134 133 
+135 150 151 
+150 135 134 
+136 151 152 
+151 136 135 
+137 152 153 
+152 137 136 
+138 153 154 
+153 138 137 
+139 154 155 
+154 139 138 
+140 155 156 
+155 140 139 
+141 156 157 
+156 141 140 
+142 157 158 
+157 142 141 
+143 158 159 
+158 143 142 
+160 191 176 
+191 160 175 
+161 176 177 
+176 161 160 
+162 177 178 
+177 162 161 
+163 178 179 
+178 163 162 
+164 179 180 
+179 164 163 
+165 180 181 
+180 165 164 
+166 181 182 
+181 166 165 
+167 182 183 
+182 167 166 
+168 183 184 
+183 168 167 
+169 184 185 
+184 169 168 
+170 185 186 
+185 170 169 
+171 186 187 
+186 171 170 
+172 187 188 
+187 172 171 
+173 463 189 
+464 173 465 
+174 189 190 
+189 174 173 
+175 190 191 
+190 175 174 
+192 223 208 
+223 192 207 
+193 208 209 
+208 193 192 
+194 209 210 
+209 194 193 
+195 210 211 
+210 195 194 
+196 211 212 
+211 196 195 
+197 466 213 
+467 197 468 
+198 213 214 
+213 198 197 
+199 214 215 
+214 199 198 
+200 215 216 
+215 200 199 
+201 216 217 
+216 201 200 
+202 217 218 
+217 202 201 
+203 218 219 
+218 203 202 
+204 219 220 
+219 204 203 
+205 220 221 
+220 205 204 
+206 221 222 
+221 206 205 
+207 222 223 
+222 207 206 
+224 255 240 
+255 224 239 
+225 240 241 
+240 225 224 
+226 241 242 
+241 226 225 
+227 242 243 
+242 227 226 
+228 243 244 
+243 228 227 
+229 244 245 
+244 229 228 
+230 245 246 
+245 230 229 
+231 246 247 
+246 231 230 
+232 247 248 
+247 232 231 
+233 248 249 
+248 233 232 
+234 249 250 
+249 234 233 
+235 250 251 
+250 235 234 
+236 251 252 
+251 236 235 
+237 469 253 
+470 237 471 
+238 253 254 
+253 238 237 
+239 254 255 
+254 239 238 
+256 287 272 
+287 256 271 
+257 272 273 
+272 257 256 
+258 273 274 
+273 258 257 
+259 274 275 
+274 259 258 
+260 275 276 
+275 260 259 
+261 472 277 
+473 261 474 
+262 277 278 
+277 262 261 
+263 278 279 
+278 263 262 
+264 279 280 
+279 264 263 
+265 280 281 
+280 265 264 
+266 281 282 
+281 266 265 
+267 282 283 
+282 267 266 
+268 283 284 
+283 268 267 
+269 284 285 
+284 269 268 
+270 285 286 
+285 270 269 
+271 286 287 
+286 271 270 
+288 319 304 
+319 288 303 
+289 304 305 
+304 289 288 
+290 305 306 
+305 290 289 
+291 306 307 
+306 291 290 
+292 307 308 
+307 292 291 
+293 308 309 
+308 293 292 
+294 309 310 
+309 294 293 
+295 310 311 
+310 295 294 
+296 311 312 
+311 296 295 
+297 312 313 
+312 297 296 
+298 313 314 
+313 298 297 
+299 314 315 
+314 299 298 
+300 315 316 
+315 300 299 
+301 475 317 
+476 301 477 
+302 317 318 
+317 302 301 
+303 318 319 
+318 303 302 
+320 351 336 
+351 320 335 
+321 336 337 
+336 321 320 
+322 337 338 
+337 322 321 
+323 338 339 
+338 323 322 
+324 339 340 
+339 324 323 
+325 478 341 
+479 325 480 
+326 341 342 
+341 326 325 
+327 342 343 
+342 327 326 
+328 343 344 
+343 328 327 
+329 344 345 
+344 329 328 
+330 345 346 
+345 330 329 
+331 346 347 
+346 331 330 
+332 347 348 
+347 332 331 
+333 348 349 
+348 333 332 
+334 349 350 
+349 334 333 
+335 350 351 
+350 335 334 
+352 383 368 
+383 352 367 
+353 368 369 
+368 353 352 
+354 369 370 
+369 354 353 
+355 370 371 
+370 355 354 
+356 371 372 
+371 356 355 
+357 372 373 
+372 357 356 
+358 373 374 
+373 358 357 
+359 374 375 
+374 359 358 
+360 375 376 
+375 360 359 
+361 376 377 
+376 361 360 
+362 377 378 
+377 362 361 
+363 378 379 
+378 363 362 
+364 379 380 
+379 364 363 
+365 481 381 
+482 365 483 
+366 381 382 
+381 366 365 
+367 382 383 
+382 367 366 
+384 415 400 
+415 384 399 
+385 400 401 
+400 385 384 
+386 401 402 
+401 386 385 
+387 402 403 
+402 387 386 
+388 403 404 
+403 388 387 
+389 484 405 
+485 389 486 
+390 405 406 
+405 390 389 
+391 406 407 
+406 391 390 
+392 407 408 
+407 392 391 
+393 408 409 
+408 393 392 
+394 409 410 
+409 394 393 
+395 410 411 
+410 395 394 
+396 411 412 
+411 396 395 
+397 412 413 
+412 397 396 
+398 413 414 
+413 398 397 
+399 414 415 
+414 399 398 
+416 447 432 
+447 416 431 
+417 432 433 
+432 417 416 
+418 433 434 
+433 418 417 
+419 434 435 
+434 419 418 
+420 435 436 
+435 420 419 
+421 436 437 
+436 421 420 
+422 437 438 
+437 422 421 
+423 438 439 
+438 423 422 
+424 439 440 
+439 424 423 
+425 440 441 
+440 425 424 
+426 441 442 
+441 426 425 
+427 442 443 
+442 427 426 
+428 443 444 
+443 428 427 
+429 487 445 
+488 429 489 
+430 445 446 
+445 430 429 
+431 446 447 
+446 431 430 
+-------------------------------------------------------
+
+//Materialnfo--------------------------------------------
+-------------------------------------------------------
