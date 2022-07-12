@@ -1,0 +1,34 @@
+﻿  pch.cpp
+  dllmain.cpp
+  IdDll.cpp
+  IDManager.cpp
+     D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\IdSystem.lib 라이브러리 및 D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\IdSystem.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 115 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  IdSystem.vcxproj -> D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\IdSystem.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectX11Engine_Release.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\fmod.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\FmodAudioEngine_Release.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\fmodL.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\fmodstudio.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\fmodstudioL.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\GameEngine_Release.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\IdSystem.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\PhysXCommon_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\PhysXCommon_64_Release.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\PhysXCooking_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\PhysXCooking_64_Release.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\PhysXFoundation_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\PhysXFoundation_64_Release.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\PhysX_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\ResourceManager_Release.dll
+         16개 파일이 복사되었습니다.
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectX11Engine_Release.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\FmodAudioEngine_Release.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\GameEngine_Release.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\IdSystem.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\ResourceManager_Release.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\SubSystem_Release.lib
+          6개 파일이 복사되었습니다.

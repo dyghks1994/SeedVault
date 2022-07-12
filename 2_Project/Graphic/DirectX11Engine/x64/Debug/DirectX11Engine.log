@@ -1,0 +1,40 @@
+﻿  LoadingScene.cpp
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\Graphic\DirectX11Engine\LoadingScene.cpp(63,70): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\Graphic\DirectX11Engine\LoadingScene.cpp(76,71): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+DirectXTex_Debug.lib(DirectXTexConvert.obj) : warning LNK4099: 'DirectXTex_Debug.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexConvert.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectXTex_Debug.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  DirectX11Engine.vcxproj -> D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectX11Engine_Debug.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectX11Engine_Debug.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\fmod.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\FmodAudioEngine_Debug.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\fmodL.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\fmodstudio.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\fmodstudioL.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\GameEngine_Debug.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\IdSystem.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\libfbxsdk.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXCommon_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXCooking_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXFoundation_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysX_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\ResourceManager_Debug.dll
+         14개 파일이 복사되었습니다.
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectX11Engine_Debug.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\FmodAudioEngine_Debug.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\GameEngine_Debug.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\IdSystem.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXCommon_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXCooking_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXExtensions_static_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXFoundation_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysX_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\ResourceManager_Debug.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\SubSystem_Debug.lib
+         11개 파일이 복사되었습니다.

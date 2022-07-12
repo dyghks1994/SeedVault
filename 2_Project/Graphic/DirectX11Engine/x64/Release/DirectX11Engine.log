@@ -1,0 +1,46 @@
+﻿     D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectX11Engine_Release.lib 라이브러리 및 D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectX11Engine_Release.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 5170 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+DirectXTK_x64.lib(pch.obj) : warning LNK4099: 'DirectXTK_x64.pdb' PDB를 'DirectXTK_x64.lib(pch.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectXTK_x64.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK_x64.lib(SimpleMath.obj) : warning LNK4099: 'DirectXTK_x64.pdb' PDB를 'DirectXTK_x64.lib(SimpleMath.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectXTK_x64.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK_x64.lib(WICTextureLoader.obj) : warning LNK4099: 'DirectXTK_x64.pdb' PDB를 'DirectXTK_x64.lib(WICTextureLoader.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectXTK_x64.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Release.lib(BC.obj) : warning LNK4099: 'DirectXTex_Release.pdb' PDB를 'DirectXTex_Release.lib(BC.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectXTex_Release.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Release.lib(BC4BC5.obj) : warning LNK4099: 'DirectXTex_Release.pdb' PDB를 'DirectXTex_Release.lib(BC4BC5.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectXTex_Release.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Release.lib(BC6HBC7.obj) : warning LNK4099: 'DirectXTex_Release.pdb' PDB를 'DirectXTex_Release.lib(BC6HBC7.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectXTex_Release.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Release.lib(DirectXTexCompress.obj) : warning LNK4099: 'DirectXTex_Release.pdb' PDB를 'DirectXTex_Release.lib(DirectXTexCompress.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectXTex_Release.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Release.lib(DirectXTexConvert.obj) : warning LNK4099: 'DirectXTex_Release.pdb' PDB를 'DirectXTex_Release.lib(DirectXTexConvert.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectXTex_Release.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Release.lib(DirectXTexD3D11.obj) : warning LNK4099: 'DirectXTex_Release.pdb' PDB를 'DirectXTex_Release.lib(DirectXTexD3D11.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectXTex_Release.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Release.lib(DirectXTexDDS.obj) : warning LNK4099: 'DirectXTex_Release.pdb' PDB를 'DirectXTex_Release.lib(DirectXTexDDS.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectXTex_Release.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Release.lib(DirectXTexImage.obj) : warning LNK4099: 'DirectXTex_Release.pdb' PDB를 'DirectXTex_Release.lib(DirectXTexImage.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectXTex_Release.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Release.lib(DirectXTexMipMaps.obj) : warning LNK4099: 'DirectXTex_Release.pdb' PDB를 'DirectXTex_Release.lib(DirectXTexMipMaps.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectXTex_Release.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Release.lib(DirectXTexUtil.obj) : warning LNK4099: 'DirectXTex_Release.pdb' PDB를 'DirectXTex_Release.lib(DirectXTexUtil.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectXTex_Release.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11_x64.lib(d3dxGlobal.obj) : warning LNK4099: 'Effects11.pdb' PDB를 'Effects11_x64.lib(d3dxGlobal.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\Effects11.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11_x64.lib(EffectAPI.obj) : warning LNK4099: 'Effects11.pdb' PDB를 'Effects11_x64.lib(EffectAPI.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\Effects11.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11_x64.lib(EffectLoad.obj) : warning LNK4099: 'Effects11.pdb' PDB를 'Effects11_x64.lib(EffectLoad.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\Effects11.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11_x64.lib(EffectNonRuntime.obj) : warning LNK4099: 'Effects11.pdb' PDB를 'Effects11_x64.lib(EffectNonRuntime.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\Effects11.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11_x64.lib(EffectReflection.obj) : warning LNK4099: 'Effects11.pdb' PDB를 'Effects11_x64.lib(EffectReflection.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\Effects11.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11_x64.lib(EffectRuntime.obj) : warning LNK4099: 'Effects11.pdb' PDB를 'Effects11_x64.lib(EffectRuntime.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\Effects11.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  DirectX11Engine.vcxproj -> D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectX11Engine_Release.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectX11Engine_Release.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\fmod.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\fmodL.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\fmodstudio.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\fmodstudioL.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\GameEngine_Release.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\IdSystem.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\PhysXCommon_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\PhysXCommon_64_Release.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\PhysXCooking_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\PhysXCooking_64_Release.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\PhysXFoundation_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\PhysXFoundation_64_Release.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\PhysX_64.dll
+         14개 파일이 복사되었습니다.
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\DirectX11Engine_Release.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\GameEngine_Release.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\IdSystem.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\ResourceManager_Release.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Release\SubSystem_Release.lib
+          5개 파일이 복사되었습니다.

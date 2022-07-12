@@ -1,0 +1,31 @@
+﻿  NavMeshAgent.cpp
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\GameEngine\GameEngine\EngineDLL.h(134,131): warning C4190: 'CheckRaycastHit'에 C 연결을 지정했으나 C와 호환되지 않는 UDT 'RaycastHit'을(를) 반환합니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\GameEngine\GameEngine\Raycast.h(27): message : 'RaycastHit' 선언을 참조하십시오.
+  GameEngine.vcxproj -> D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\GameEngine_Debug.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectX11Engine_Debug.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\fmod.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\FmodAudioEngine_Debug.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\fmodL.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\fmodstudio.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\fmodstudioL.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\GameEngine_Debug.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\IdSystem.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\libfbxsdk.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXCommon_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXCooking_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXFoundation_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysX_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\ResourceManager_Debug.dll
+         14개 파일이 복사되었습니다.
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectX11Engine_Debug.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\FmodAudioEngine_Debug.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\GameEngine_Debug.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\IdSystem.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXCommon_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXCooking_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXExtensions_static_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXFoundation_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysX_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\ResourceManager_Debug.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\SubSystem_Debug.lib
+         11개 파일이 복사되었습니다.

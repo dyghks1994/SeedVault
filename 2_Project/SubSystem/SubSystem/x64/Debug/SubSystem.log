@@ -1,0 +1,109 @@
+﻿  pch.cpp
+  COMException.cpp
+  DirectoryReader.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2575,23): warning C4244: '인수': 'wchar_t'에서 'const _Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2586): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2586): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2566): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2566): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=wchar_t *
+          ]
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SubSystem\SubSystem\DirectoryReader.cpp(210): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SubSystem\SubSystem\DirectoryReader.cpp(210): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  ErrorLogger.cpp
+  StopWatch.cpp
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SubSystem\SubSystem\StopWatch.cpp(6,28): warning C4244: '초기화 중': 'float'에서 'clock_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SubSystem\SubSystem\StopWatch.cpp(7,29): warning C4244: '초기화 중': 'float'에서 'clock_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StringHelper.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2575,23): warning C4244: '인수': 'wchar_t'에서 'const _Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2586): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2586): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2566): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2566): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=wchar_t *
+          ]
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SubSystem\SubSystem\StringHelper.cpp(42): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SubSystem\SubSystem\StringHelper.cpp(42): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  코드를 생성하고 있습니다...
+  SubSystem.vcxproj -> D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\SubSystem_Debug.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\fmod.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\FmodAudioEngine_Debug.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\fmodL.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\fmodstudio.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\fmodstudioL.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\IdSystem.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\libfbxsdk.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXCommon_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXCooking_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXFoundation_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysX_64.dll
+         11개 파일이 복사되었습니다.
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\FmodAudioEngine_Debug.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\IdSystem.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXCommon_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXCooking_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXExtensions_static_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXFoundation_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysX_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\SubSystem_Debug.lib
+          8개 파일이 복사되었습니다.

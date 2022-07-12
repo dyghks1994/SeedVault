@@ -1,0 +1,121 @@
+﻿  pch.cpp
+  BinaryDeserializer.cpp
+  CenterCreator.cpp
+  dllmain.cpp
+  DX11MeshFactory.cpp
+  InputLayout.cpp
+  MatDeserializer.cpp
+  MatSerializer.cpp
+  DX11ResourceManager.cpp
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(243,23): warning C4101: 'desc' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(813,37): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(817,28): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(838,37): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(842,28): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(863,37): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(867,28): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(888,37): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(892,28): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(911,37): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(915,28): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(934,37): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(938,28): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(958,37): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(962,28): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(981,37): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(985,28): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(1004,37): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(1008,28): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(193,48): warning C4267: '초기화 중': 'size_t'에서 '_Ty2'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty2=unsigned int
+          ]
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(62): message : 컴파일되는 함수 템플릿 인스턴스화 'std::pair<std::string,unsigned int>::pair<std::string&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept(false)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Other1=std::string &,
+              _Other2=unsigned __int64
+          ]
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(62): message : 컴파일되는 함수 템플릿 인스턴스화 'std::pair<std::string,unsigned int>::pair<std::string&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept(false)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Other1=std::string &,
+              _Other2=unsigned __int64
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: '인수': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2021): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Construct_in_place<_Ty,std::string&,UINT&,UINT&,int,Microsoft::WRL::ComPtr<ID3D11ShaderResourceView>&>(_Ty &,std::string &,UINT &,UINT &,int &&,Microsoft::WRL::ComPtr<ID3D11ShaderResourceView> &) noexcept(false)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=SpriteData
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2747): message : 컴파일되는 함수 템플릿 인스턴스화 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::string&,UINT&,UINT&,int,Microsoft::WRL::ComPtr<ID3D11ShaderResourceView>&>(std::string &,UINT &,UINT &,int &&,Microsoft::WRL::ComPtr<ID3D11ShaderResourceView> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=SpriteData
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : 컴파일되는 함수 템플릿 인스턴스화 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::string&,UINT&,UINT&,int,Microsoft::WRL::ComPtr<ID3D11ShaderResourceView>&>(std::string &,UINT &,UINT &,int &&,Microsoft::WRL::ComPtr<ID3D11ShaderResourceView> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=SpriteData
+          ]
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(407): message : 컴파일되는 함수 템플릿 인스턴스화 'std::shared_ptr<SpriteData> std::make_shared<SpriteData,std::string&,UINT&,UINT&,int,Microsoft::WRL::ComPtr<ID3D11ShaderResourceView>&>(std::string &,UINT &,UINT &,int &&,Microsoft::WRL::ComPtr<ID3D11ShaderResourceView> &)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Shaders.cpp
+  TextLoader.cpp
+  VertexHelper.cpp
+  코드를 생성하고 있습니다...
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\Shaders.cpp(122): warning C4715: 'GeometryShader::StreamOutputInitialize': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(718): warning C4172: 지역 변수 또는 임시의 주소를 반환하고 있습니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\DX11ResourceManager.cpp(772): warning C4715: 'DX11ResourceManager::GetMaterialCalibrateFactor': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\ResourceManager\ResourceManager\InputLayout.cpp(85): warning C4715: 'InputLayout::CrateInputLayoutFromVertexShader': 모든 제어 경로에서 값을 반환하지는 않습니다.
+     D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\ResourceManager_Debug.lib 라이브러리 및 D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\ResourceManager_Debug.exp 개체를 생성하고 있습니다.
+SubSystem_Debug.lib(COMException.obj) : warning LNK4204: 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\SubSystem_Debug.pdb'에 참조 모듈에 대한 디버깅 정보가 없습니다. 디버깅 정보가 없는 것처럼 개체를 링크합니다.
+SubSystem_Debug.lib(ErrorLogger.obj) : warning LNK4204: 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\SubSystem_Debug.pdb'에 참조 모듈에 대한 디버깅 정보가 없습니다. 디버깅 정보가 없는 것처럼 개체를 링크합니다.
+SubSystem_Debug.lib(pch.obj) : warning LNK4204: 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\SubSystem_Debug.pdb'에 참조 모듈에 대한 디버깅 정보가 없습니다. 디버깅 정보가 없는 것처럼 개체를 링크합니다.
+SubSystem_Debug.lib(StringHelper.obj) : warning LNK4204: 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\SubSystem_Debug.pdb'에 참조 모듈에 대한 디버깅 정보가 없습니다. 디버깅 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd_X64.lib(DDSTextureLoader.obj) : warning LNK4099: 'DirectXTKd_x64.pdb' PDB를 'DirectXTKd_X64.lib(DDSTextureLoader.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectXTKd_x64.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd_X64.lib(pch.obj) : warning LNK4099: 'DirectXTKd_x64.pdb' PDB를 'DirectXTKd_X64.lib(pch.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectXTKd_x64.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd_X64.lib(WICTextureLoader.obj) : warning LNK4099: 'DirectXTKd_x64.pdb' PDB를 'DirectXTKd_X64.lib(WICTextureLoader.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectXTKd_x64.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(BC.obj) : warning LNK4099: 'DirectXTex_Debug.pdb' PDB를 'DirectXTex_Debug.lib(BC.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectXTex_Debug.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(BC4BC5.obj) : warning LNK4099: 'DirectXTex_Debug.pdb' PDB를 'DirectXTex_Debug.lib(BC4BC5.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectXTex_Debug.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(BC6HBC7.obj) : warning LNK4099: 'DirectXTex_Debug.pdb' PDB를 'DirectXTex_Debug.lib(BC6HBC7.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectXTex_Debug.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexCompress.obj) : warning LNK4099: 'DirectXTex_Debug.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexCompress.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectXTex_Debug.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexConvert.obj) : warning LNK4099: 'DirectXTex_Debug.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexConvert.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectXTex_Debug.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexD3D11.obj) : warning LNK4099: 'DirectXTex_Debug.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexD3D11.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectXTex_Debug.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexHDR.obj) : warning LNK4099: 'DirectXTex_Debug.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexHDR.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectXTex_Debug.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexImage.obj) : warning LNK4099: 'DirectXTex_Debug.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexImage.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectXTex_Debug.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexMipMaps.obj) : warning LNK4099: 'DirectXTex_Debug.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexMipMaps.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectXTex_Debug.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexUtil.obj) : warning LNK4099: 'DirectXTex_Debug.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexUtil.obj)' 또는 'D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectXTex_Debug.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  ResourceManager.vcxproj -> D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\ResourceManager_Debug.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectX11Engine_Debug.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\fmod.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\FmodAudioEngine_Debug.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\fmodL.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\fmodstudio.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\fmodstudioL.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\GameEngine_Debug.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\IdSystem.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\libfbxsdk.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXCommon_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXCooking_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXFoundation_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysX_64.dll
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\ResourceManager_Debug.dll
+         14개 파일이 복사되었습니다.
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\DirectX11Engine_Debug.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\FmodAudioEngine_Debug.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\GameEngine_Debug.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\IdSystem.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXCommon_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXCooking_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXExtensions_static_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysXFoundation_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\PhysX_64.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\ResourceManager_Debug.lib
+  D:\KOCCA_SVN\GA2ndFinal_HuriPyeo\5_Project\SeedVault\x64\Debug\SubSystem_Debug.lib
+         11개 파일이 복사되었습니다.
